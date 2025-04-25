@@ -1,0 +1,197 @@
+restaurant/1 copy.jpg;Q:Is there any obstacle in front of me;A:Yes, there's a big table.
+restaurant/40_salle_restaurant.jpg;Q:How can I exit here;A:Go straight for a few steps and turn left.
+restaurant/2006_11_tastingroom.jpg;Q:Are there any obstacles;A:Yes, there's a table in front of you.
+restaurant/060630_imaginaire_salle_4.jpg;Q:How do I leave here;A:Just go ahead for a few steps.
+restaurant/bistro_01_03_altavista.jpg;Q:How am I gonna get out of here;A:Turn left and go straight for a few steps, then turn right.
+restaurant/bistro_01_06_altavista.jpg;Q:Is there an obstacle here;A:Yes, there is a chair in front of you.
+restaurant/bistro_01_11_altavista.jpg;Q:How can I exit here;A:Go ahead and turn right.
+restaurant/bistro_01.jpg;Q:How can I leave here;A:Turn left for a few steps.
+restaurant/bistro_03_03_altavista.jpg;Q:Any obstacles ahead;A:Yes. Lots of tables and chairs up front.
+restaurant/bistro_09_18_flickr.jpg;Q:What is the path I can exit here;A:Go ahead, a few steps and the door is on your right.
+restaurant/bistro_09_23_flickr.jpg;Q:How can I leave;A:Go ahead, a few steps and turn right.
+restaurant/bistro_19_10_altavista.jpg;Q:Is there anything in front of me;A:Yes, there's a table right in front of you.
+restaurant/bistro_22_16_altavista.jpg;Q:Where's the closest door;A:You can go a few steps ahead.
+restaurant/bistro_restaurant_for.jpg;Q:Where's the nearest rest area;A:It's in front of you.
+restaurant/bistro_view_of_tables.jpg;Q:Are there any obstacles in front of me;A:Yes, there is a table.
+restaurant/bistropic.jpg;Q:What's the best way out of here;A:Go straight and the door is on your left.
+restaurant/cafetpt.jpg;Q:How can I leave here;A:Go ahead and the door is on your left.
+restaurant/dsc000085ox.jpg;Q:Where's the nearest door;A:Please go forward and turn left.
+restaurant/food2_450.jpg;Q:Is there anything in my way;A:Yes, a table is in front of you.
+restaurant/food4_450.jpg;Q:How do I get out of here;A:Please go ahead for a few steps.
+restaurant/gaststaette1.jpg;Q:Is there anything in my way;A:Yes, there is a big table.
+restaurant/gaststaette15.jpg;Q:Is there an obstacle;A:Yes, there's a table in front of you.
+restaurant/int655.jpg;Q:Is there anything in front of me;A:Yes, there's a chair.
+restaurant/interior.jpg;Q:How do I leave here;A:Go straight for a few steps.
+restaurant/Photo_136.jpg;Q:Is there something in the way;A:Yes, there's a table directly to your left.
+restaurant/redr.jpg;Q:Where's the closest door;A:You can go a few steps ahead and turn right.
+restaurant/restau_11.jpg;Q:How am I gonna get out of here;A:You can turn right and go for a few steps.
+restaurant/restaurant_04_07_altavista.jpg;Q:How can I leave here;A:You can turn left, go ahead and the door is on your left.
+restaurant/restaurant_05_18_altavista.jpg;Q:Is there a stairway in front of me;A:No.
+restaurant/restaurant_05_20_altavista.jpg;Q:Is there a barrier in front of me;A:Yes, there is a table in front of you.
+restaurant/restaurant_06_09_altavista.jpg;Q:Is there a stairway in front of me;A:Yes, the stairs are ahead of you.
+restaurant/restaurant_07_05_altavista.jpg;Q:Is there something in the way;A:Yes, there is a big table.
+restaurant/restaurant_07_08_altavista.jpg;Q:Any obstacles in front of me;A:No. You can go directly.
+restaurant/restaurant_09_11_altavista.jpg;Q:How can I exit;A:Go straight.
+restaurant/restaurant_11_19_altavista.jpg;Q:How can I leave here;A:Please go straight for a few steps.
+restaurant/restaurant_12_08_altavista.jpg;Q:Is there something in the way;A:Yes, there's a long table here.
+restaurant/restaurant_17_08_altavista.jpg;Q:Any obstacles ahead;A:No.
+restaurant/restaurant_18_15_altavista.jpg;Q:Is there anything in front of me;A:No, you can go directly.
+restaurant/restaurant_20_13_altavista.jpg;Q:How can I leave here;A:Please go directly.
+restaurant/restaurant_23_05_altavista.jpg;Q:Is there an obstacle ahead;A:Yes, there are lots of chairs.
+restaurant/restaurant_23_18_altavista.jpg;Q:Any obstacles here;A:Yes, a table is in front of you.
+restaurant/restaurant_25_11_altavista.jpg;Q:What's the path to exit the room;A:Please go ahead for a few steps.
+restaurant/restaurant_28_16_altavista.jpg;Q:Is there anything in front of me;A:No.
+restaurant/restaurant_30_15_altavista.jpg;Q:Are there stairs up ahead;A:No.
+restaurant/restaurant_38_18_altavista.jpg;Q:How can I leave this room;A:Please turn left.
+restaurant/restaurant_40_07_altavista.jpg;Q:Are there stairs in front of me;A:Yes, go straight and it's on your right.
+restaurant/restaurant_41_02_altavista.jpg;Q:Are there stairs here;A:Yes, it's in front of you.
+restaurant/restaurant_46_13_altavista.jpg;Q:Any obstacles here;A:Yes, there is a big table ahead of you.
+restaurant/restaurante_04_18_altavista.jpg;Q:Are there stairs up here;A:Yes, it's ahead of you.
+restaurant/restaurante_14_06_altavista.jpg;Q:Are there any obstacles in front of me;A:Yes, there is a table.
+restaurant/restaurante_19_15_altavista.jpg;Q:Are there any obstacles;A:No, you can go ahead.
+restaurant/restaurante_28_20_altavista.jpg;Q:Is there a stairway here;A:No.
+restaurant/restaurante_31_18_altavista.jpg;Q:Is there a stairway;A:Yes, go ahead and it's on your right.
+restaurant/restaurante_50_18_altavista.jpg;Q:How can I leave here;A:Please go forward.
+restaurant/ristorante_1.jpg;Q:Are there any obstacles in front of me;A:Yes, there are lots of chairs and tables.
+restaurant/Salle de Restaurant.jpg;Q:Where's the closest door;A:You can turn left and turn right, go a few steps ahead.
+restaurant/Salle_de_Restaurant_2.jpg;Q:Is there anything in front of me;A:Yes. A table is in front of you.
+restaurant/salle45.jpg;Q:Are there stairs;A:No.
+restaurant/witches_bistro_in_benidorm_large04.jpg;Q:Are there any obstacles;A:No. You can go directly.
+restaurant/witches_bistro_in_benidorm_large04.jpg;Q:Is there a barrier ahead of me;A:Yes. There is a table.
+stairscase/101.jpg;Q:Are there stairs up ahead of me;A:Yes. It's on your left.
+stairscase/273_2_zoom_1_aminta_grand_hotel_sorrento_lounge.jpg;Q:Is there a staircase ahead;A:Yes, directly in front of you.
+stairscase/0341_treppe.jpg;Q:Are stairs coming up ahead;A:Yes, it's on your right.
+stairscase/7429g.jpg;Q:Should I expect stairs in front;A:Yes, the stairs are directly in front.
+stairscase/1115735139.jpg;Q:Is there a stairway close by;A:Yes, straight ahead on your left.
+stairscase/0307280855117les8.jpg;Q:Are there stairs nearby;A:Yes, it's on your right.
+stairscase/AT_01_6B_5479_32_l.jpg;Q:Is there a stairway ahead;A:Yes, directly in front of you.
+stairscase/AT_04_02_3000_35_l.jpg;Q:Are stairs coming up soon;A:Yes, on the right.
+stairscase/AT_04_03_2000_52_l.jpg;Q:Any stairs ahead;A:Yes, on your left.
+stairscase/AT_97_4_396_33_l.jpg;Q:Are steps directly in front of me;A:Yes, stairs are on your right.
+stairscase/AT_97_5_9105_29A_l.jpg;Q:Are stairs ahead;A:Yes.
+stairscase/bergot2.jpg;Q:Is a staircase ahead of me now;A:Yes, go straight ahead.
+stairscase/CA_97_1_289_24A_l.jpg;Q:Is a staircase;A:Yes, go ahead.
+stairscase/D16a.jpg;Q:Is there a stairway;A:Yes, just ahead.
+stairscase/escalera.jpg;Q:Am I near stairs;A:Yes, just ahead.
+stairscase/escalier3.jpg;Q:Is there a staircase nearby;A:Yes, on your right.
+stairscase/escalier46.jpg;Q:Is there a step I need to take soon;A:Yes, stairs are ahead.
+stairscase/hall67.jpg;Q:Should I expect steps forward;A:Yes, it's on your left.
+stairscase/HO_00_04_5808_09A_l.jpg;Q:Do stairs lie ahead of my path;A:Yes, directly on your right.
+stairscase/HO_06_04_4000_07_l.jpg;Q:Should I anticipate stairs soon ahead;A:Yes, straight ahead on the left.
+videostore/2vhs.jpg;Q:How do I find the way out;A:Go straight and turn right.
+videostore/410w.jpg;Q:Is there anything blocking my way;A:Yes. There is a large cabinet.
+videostore/4209435fb5962_87_1.jpg;Q:Can I walk straight safely;A:Yes. You can go ahead.
+videostore/blockbuster_46_07_flickr.jpg;Q:Is my way obstructed;A:No.
+videostore/doc48751f34922.jpg;Q:Is there something ahead that could trip me;A:Yes, there's a large cabinet in front of you.
+videostore/jobeth2.jpg;Q:Anything blocking the route forward;A:No.
+videostore/videoclub_03_02_flickr.jpg;Q:Anything dangerous in my path;A:No. Please go ahead.
+videostore/videoclub_04_17_flickr.jpg;Q:Is anything in my immediate way;A:No.
+videostore/videoclub_14_07_altavista.jpg;Q:Any obstacles right in front;A:No, there's a chair on your right.
+videostore/videostore2.jpg;Q:Is there anything directly in my path;A:No. You can go straight.
+videostore/videoteca_06_12_flickr.jpg;Q:Do I have an obstacle ahead;A:Yes, there is a big shelf.
+videostore/videoteca_13_10_altavista.jpg;Q:Is my immediate way clear;A:Yes.
+videostore/videotheque_02_02_flickr.jpg;Q:Can I keep walking ahead safely;A:Yes. Please go ahead.
+waitingroom/7.jpg;Q:Any furniture in my immediate path;A:Yes, a chair is ahead of you.
+waitingroom/7F_Clinic_Waiting_Room.jpg;Q:Any obstacle in my immediate forward direction;A:Yes, there’s a chair right there.
+waitingroom/71_full.jpg;Q:Is the area ahead obstacle-free;A:No, there’s a table blocking your way.
+waitingroom/105NC_New_Reception_area_on_7th_floor.jpg;Q:Any furniture in my immediate path;A:Yes, a table is ahead of you.
+waitingroom/800px_VTBS_Waiting_room_of_Thai_Airways.jpg;Q:Do I have any obstruction directly ahead;A:Yes, there are two chairs.
+waitingroom/1114_Milton_Road_3.jpg;Q:How can I leave this room quickly;A:Go ahead.
+waitingroom/Aug29_2007.jpg;Q:Is anything ahead I need to avoid;A:Yes, there’s a chair right there.
+waitingroom/be158920.jpg;Q:What’s the easiest way to exit here;A:Turn left and turn right, Move ahead.
+waitingroom/Bistro_3_BMP.jpg;Q:Is my forward path safe and clear;A:Yes, you can go ahead.
+waitingroom/cab3.jpg;Q:Do I have an obstacle ahead;A:Yes, there's a table right there.
+waitingroom/egf_waitingroom.jpg;Q:Can you tell me the way to leave;A:Move straight and the door is on your left.
+waitingroom/general_waiting_area.jpg;Q:Where should I go to leave this place;A:Forward, then turn right.
+waitingroom/IMG_1658.jpg;Q:Can I step forward freely;A:No, there's a chair in front.
+waitingroom/JHC_3.jpg;Q:How do I leave this spot;A:Go straight ahead.
+waitingroom/rujin_femme.jpg;Q:Is the space ahead free from obstructions;A:Yes. Go straight ahead.
+waitingroom/sala_de_espera_01_14_altavista.jpg;Q:What's my path to get out;A:Go forward a few steps and turn left.
+waitingroom/sala_de_espera_17_13_altavista.jpg;Q:Is there a stairway close by;A:No. But there is a table.
+waitingroom/salat2.jpg;Q:How do I leave from here easily;A:Go forward.
+waitingroom/waiting_ig.jpg;Q:What's my best route to exit;A:Go straight, exit door on left.
+waitingroom/Waiting_Room_1.jpg;Q:How can I safely exit;A:Move straight ahead and turn right.
+waitingroom/waiting_room_16_13_altavista.jpg;Q:Can I step forward freely;A:No, there's a chair in front.
+waitingroom/waiting_room_24_20_altavista.jpg;Q:What’s my exit route;A:Move forward, turn right.
+waitingroom/waiting_room_33_15_altavista.jpg;Q:Do I have something in front of me;A:Yes, there's a chair ahead of you.
+waitingroom/waiting_room236.jpg;Q:How can I leave this room quickly;A:Go ahead, then left.
+waitingroom/waitingroom04.jpg;Q:Is the path clear ahead;A:No, there's a table blocking the way.
+waitingroom/wroom2.jpg;Q:What’s the direction to leave here;A:Move ahead, then left.
+waitingroom/WtRoomJan06.jpg;Q:Do I have any obstruction directly ahead;A:Yes, there are lots of chairs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+artstudio/art_painting_studio_01_10_altavista.jpg;Q:How to reach the seating area;A:Walk straight toward the couch and chairs.
+artstudio/art_painting_studio_01_13_altavista.jpg;Q:How to reach the man;A:Walk straight past the ladder to the wall.
+artstudio/art_painting_studio_01_15_altavista.jpg;Q:How to reach the easels;A:Move straight toward the paintings near the easels.
+artstudio/art_painting_studio_01_16_altavista.jpg;Q:How to reach the chalkboard area;A:Walk straight past the tables to the chalkboard.
+artstudio/art_painting_studio_01_17_altavista.jpg;Q:How to reach the easel in the distance;A:Walk straight past the red fire extinguisher.
+artstudio/art_painting_studio_04_10_altavista.jpg;Q:How to reach the painting on the wall;A:Walk straight past the table with art supplies.
+artstudio/art_painting_studio_04_17_altavista.jpg;Q:How to reach the easel;A:Walk straight toward the easel near the person.
+artstudio/art_painting_studio_04_20_altavista.jpg;Q:How to find the central workspace;A:Walk straight toward the large wooden table.
+artstudio/art_painting_studio_05_06_altavista.jpg;Q:How to reach the person drawing;A:Walk straight past the ladder to the table.
+artstudio/art_painting_studio_05_13_altavista.jpg;Q:How to reach the painting canvas;A:Move straight toward the canvas in front.
+artstudio/art_painting_studio_05_14_altavista.jpg;Q:How to reach the artist near the window;A:Move straight toward the easel by the window.
+artstudio/art_painting_studio_09_10_altavista.jpg;Q:How to reach the stool near the paintings;A:Walk straight past the chairs to the stool.
+artstudio/art_painting_studio_10_08_altavista.jpg;Q:How to find the landscape painting on the easel;A:Walk straight toward the easel with the red barn painting.
+artstudio/art_painting_studio_10_11_altavista.jpg;Q:How to reach the artists working at the tables;A:Move straight toward the group near the windows.
+artstudio/art_painting_studio_10_12_altavista.jpg;Q:How to find the central workspace;A:Walk straight past the sculpture toward the tables.
+artstudio/art_painting_studio_10_15_altavista.jpg;Q:How to reach the person near the easel;A:Walk straight past the table with art supplies.
+artstudio/art_painting_studio_10_18_altavista.jpg;Q:How to find the train painting;A:Move straight toward the painting on the easel.
+artstudio/art_painting_studio_10_19_altavista.jpg;Q:How to reach the seated artist;A:Walk straight toward the person working on the canvas.
+artstudio/art_painting_studio_11_06_altavista.jpg;Q:How to find the desk with the lamp;A:Move straight toward the illuminated drawing desk.
+artstudio/art_painting_studio_11_20_altavista.jpg;Q:How to reach the person at the easel;A:Walk straight past the tables to the easel.
+artstudio/art_painting_studio_12_16_altavista.jpg;Q:How to find the Mona Lisa painting;A:Move straight toward the canvas on the easel.
+artstudio/art_painting_studio_13_16_altavista.jpg;Q:How to reach the person holding a paintbrush;A:Walk straight toward the person near the golden easels.
+artstudio/art_painting_studio_15_09_altavista.jpg;Q:How to reach the person painting the mural;A:Walk straight past the stool toward the mural.
+artstudio/art_painting_studio_15_10_altavista.jpg;Q:How to reach the children painting at the table;A:Move straight toward the table with art supplies.
+artstudio/art_painting_studio_15_16_altavista.jpg;Q:How to reach the person painting the portrait;A:Walk straight toward the easel near the window.
+artstudio/art_painting_studio_16_06_altavista.jpg;Q:How to find the desk with art tools;A:Move straight toward the desk under the lamp.
+artstudio/art_painting_studio_16_08_altavista.jpg;Q:How to reach the person mixing paint;A:Walk straight toward the table with paint palettes.
+artstudio/art_painting_studio_19_07_altavista.jpg;Q:How to reach the seated artist painting a flower;A:Move straight toward the easel near the window.
+artstudio/art_painting_studio_21_17_altavista.jpg;Q:How to reach the artist holding a brush;A:Walk straight toward the easel in front.
+artstudio/art_painting_studio_21_18_altavista.jpg;Q:How to find the person standing near the canvas;A:Move straight past the lamp toward the canvas.
+artstudio/art_painting_studio_22_03_altavista.jpg;Q:How to reach the person holding the frame;A:Walk straight past the table with art supplies.
+artstudio/art_painting_studio_23_01_altavista.jpg;Q:How to find the person painting the animal portrait;A:Move straight toward the desk with brushes and canvas.
+artstudio/art_painting_studio_23_06_altavista.jpg;Q:How to reach the painting of horses;A:Walk straight toward the framed artwork in front.
+artstudio/art_painting_studio_24_02_altavista.jpg;Q:How to find the workspace with the lamp;A:Move straight toward the desk with the overhead lamp.
+artstudio/art_painting_studio_25_03_altavista.jpg;Q:How to reach the person working on a painting;A:Walk straight toward the table with the canvas.
+artstudio/art_painting_studio_25_15_altavista.jpg;Q:How to find the person holding a paintbrush;A:Move straight past the easel toward the person.
+artstudio/art_painting_studio_26_09_altavista.jpg;Q:How to reach the artist painting with a child nearby;A:Walk straight toward the table with brushes and paints.
+artstudio/art_painting_studio_26_16_altavista.jpg;Q:How to reach the two people discussing a painting;A:Move straight toward the large canvas on the easel.
+artstudio/art_painting_studio_29_03_altavista.jpg;Q:How to reach the person painting a portrait;A:Walk straight toward the easel with the portrait.
+artstudio/art_painting_studio_30_13_altavista.jpg;Q:How to find the tree painting on the easel;A:Move straight past the table with art supplies.
+artstudio/art_painting_studio_31_09_altavista.jpg;Q:How to reach the person mixing paints;A:Walk straight toward the table with brushes and paints.
+artstudio/art_painting_studio_31_14_altavista.jpg;Q:How to find the colorful abstract artwork;A:Move straight past the white table toward the paintings.
+artstudio/art_painting_studio_32_17_altavista.jpg;Q:How to reach the person painting the mural;A:Walk straight past the ladder toward the wall with the mural.
+artstudio/art_painting_studio_32_18_altavista.jpg;Q:How to reach the person painting the large artwork;A:Walk straight past the ladder toward the framed mural.
+artstudio/art_painting_studio_36_15_altavista.jpg;Q:How to reach the artist painting on the easel;A:Walk straight toward the easel in front of the seated person.
+artstudio/art_painting_studio_38_15_altavista.jpg;Q:How to reach the artist working on the table;A:Walk straight toward the table with paint supplies.
+artstudio/art_painting_studio_39_06_altavista.jpg;Q:How to find the person painting the abstract artwork;A:Move straight toward the colorful panels in front.
+artstudio/art_painting_studio_43_06_altavista.jpg;Q:How to reach the person working at the drawing desk;A:Walk straight toward the illuminated desk.
+artstudio/art_painting_studio_43_20_altavista.jpg;Q:How to find the instructor helping students;A:Move straight toward the group gathered around the central table.
+artstudio/art_painting_studio_44_08_altavista.jpg;Q:How to reach the desk with the paintings;A:Walk straight past the stool toward the desk.
+artstudio/art_painting_studio_45_05_altavista.jpg;Q:How to reach the seated artist;A:Move straight toward the person working on the canvas.
+artstudio/art_painting_studio_47_02_altavista.jpg;Q:How to find the abstract painting on the easel;A:Walk straight past the row of easels to the painting.
+artstudio/art_painting_studio_49_13_altavista.jpg;Q:How to reach the artist holding paintbrushes;A:Walk straight toward the table with brushes and tools.
+artstudio/art_painting_studio_51_15_altavista.jpg;Q:How to reach the artist painting on the large canvas;A:Walk straight toward the person standing near the artwork.
+artstudio/art_studio_01_01_altavista.jpg;Q:How to find the easel with vibrant paintings;A:Move straight past the scattered canvases toward the easel.
+artstudio/artist_studio_01_05_altavista.jpg;Q:How to find the painting of a seated figure;A:Move straight toward the shelf with art supplies and paintings.
+artstudio/artist_studio_01_07_altavista.jpg;Q:How to reach the easel with multiple paintings;A:Walk straight past the frames toward the central easel.
+artstudio/artist_studio_05_18_altavista.jpg;Q:How to reach the easel with the dog painting;A:Walk straight toward the easel near the window.
+artstudio/artist_studio_06_06_altavista.jpg;Q:How to find the desk with the lamp;A:Move straight past the chair toward the desk under the window.
+artstudio/artist_studio_12_01_altavista.jpg;Q:How to reach the paintings near the chalkboard;A:Walk straight past the couch toward the artwork near the board.
+artstudio/artist_studio_12_14_altavista.jpg;Q:How to find the person holding a framed painting;A:Move straight toward the artist near the easel.
+artstudio/artist_studio_14_12_altavista.jpg;Q:How to reach the painting on the easel;A:Walk straight past the stool toward the easel near the window.
+artstudio/artist_studio_17_05_altavista.jpg;Q:How to find the seated artist working on a painting;A:Move straight toward the person sitting at the table with brushes.
+artstudio/artist_studio_19_17_altavista.jpg;Q:How to reach the artist working on the blue easel;A:Walk straight toward the easel near the center of the room.
+artstudio/artist_studio_22_07_altavista.jpg;Q:How to find the workspace with tools and supplies;A:Move straight past the chairs toward the desk with shelves.
+artstudio/artist_studio_22_20_altavista.jpg;Q:How to reach the central easel with the bird painting;A:Walk straight toward the red stool near the easel.
+artstudio/artist_studio_24_05_altavista.jpg;Q:How to find the outdoor area;A:Move straight past the table toward the glass doors.
+artstudio/artist_studio_24_10_altavista.jpg;Q:How to reach the painting stored near the shelves;A:Walk straight past the metal rack toward the shelves.
+artstudio/artist_studio_28_09_altavista.jpg;Q:How to find the artist near the large painting;A:Move straight toward the easel with the colorful artwork.
+artstudio/artist_studio_30_06_altavista.jpg;Q:How to reach the blue abstract painting;A:Walk straight toward the painting leaning against the wall.
+artstudio/artist_studio_30_14_altavista.jpg;Q:How to find the artist working at the easel;A:Move straight toward the person standing near the window.
+artstudio/artist_studio_31_11_altavista.jpg;Q:How to reach the cluttered desk with art supplies;A:Walk straight toward the desk under the "Darth Vader" sign.
+artstudio/artist_studio_33_01_altavista.jpg;Q:How to find the large paintings near the window;A:Move straight past the chairs toward the stacked canvases.
+artstudio/artist_studio_33_14_altavista.jpg;Q:How to find the desk with art supplies;A:Walk straight toward the shelf filled with brushes and paints.
+artstudio/artist_studio_33_16_altavista.jpg;Q:How to reach the person near the printing press;A:Move straight past the table toward the artist by the press.
+artstudio/artist_studio_36_05_altavista.jpg;Q:How to find the artist painting on the large canvas;A:Walk straight toward the person standing near the colorful artwork.
+artstudio/artist_studio_36_16_altavista.jpg;Q:How to reach the vibrant paintings on display;A:Move straight past the tables toward the framed artwork.
+artstudio/artist_studio_40_09_altavista.jpg;Q:How to reach the blue table with art supplies;A:Walk straight toward the table with a cup and books.
+artstudio/artist_studio_40_18_altavista.jpg;Q:How to find the landscape paintings;A:Move straight toward the framed paintings arranged on the floor.
+artstudio/artist_studio_41_05_altavista.jpg;Q:How to reach the desk with tattoo equipment;A:Walk straight toward the desk under the lamp.
+artstudio/artist_studio_43_03_altavista.jpg;Q:How to reach the easel with the painting;A:Walk straight toward the easel near the broom.
+artstudio/artist_studio_44_16_altavista.jpg;Q:How to find the person painting on the canvas;A:Move straight toward the table with paints and brushes.
+artstudio/artist_studio_46_09_altavista.jpg;Q:How to reach the seated artist near the counter;A:Walk straight past the table toward the counter with artwork.
+artstudio/artist_studio_47_03_altavista.jpg;Q:How to reach the artist painting on the easel;A:Walk straight toward the person seated near the window.
+artstudio/artist_studio_48_12_altavista.jpg;Q:How to find the tripods near the wall;A:Move straight past the chair toward the corner with tripods.
+artstudio/artist_studio_49_04_altavista.jpg;Q:How to reach the artist painting horses;A:Walk straight toward the easel with the horse artwork.
+artstudio/artist_studio_49_10_altavista.jpg;Q:How to reach the artist near the large painting;A:Walk straight toward the easel with the group scene artwork.
+artstudio/artist_studio_49_17_altavista.jpg;Q:How to find the artist painting abstract designs;A:Move straight toward the easel near the wall with geometric artwork.
+artstudio/artist_studio_50_02_altavista.jpg;Q:How to reach the artist painting in the kitchen studio;A:Walk straight past the dog toward the easel by the window.
+artstudio/artist_studio_50_13_altavista.jpg;Q:How to find the landscape painting on display;A:Move straight toward the easel with the countryside scene.
+artstudio/artist_studio_50_15_altavista.jpg;Q:How to reach the colorful paintings;A:Walk straight toward the easels.
+artstudio/artist_studio_50_19_altavista.jpg;Q:How to find the still life painting;A:Move straight toward the easel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+computerroom/_7BB05260_2CB9_464F_8403_ABFA52061E3E_.jpg;Q:Is there any obstacle in front of me;A:Yes, there's a big table on the floor.
+corridor/1st_floor_hallway.jpg;Q:How can I exit here;A:Please take a few steps forward.
+corridor/5_1_02_Corridor_2.jpg;Q:How to exit this room;A:Go directly to a few steps.
+corridor/06_Right_corridor_of_the_main_hall.jpg;Q:Are there any stairs in front of me;A:Yes, take care.
+corridor/24kw_corridor_view.jpg;Q:Is there a barrier in front of me;A:No, the front door is open.
+corridor/2326_2.jpg;Q:Are there stairs up ahead;A:Yes, the stairs down are on your right.
+corridor/16666G_11_Diele.jpg;Q:How can I exit;A:Go straight and turn right, open the door.
+corridor/020103_Commection_Corridor_D.jpg;Q:Are there any stairs in front of me;A:Yes, it's right in front of you.
+corridor/050709_bild7_Schulhaus_Korridor.jpg;Q:Are there any obstacles ahead of me;A:No, you can go directly.
+corridor/ascension_corridor.jpg;Q:How do I get out of here;A:Please go straight for a few meters and open the door.
+corridor/Blue_Peach_Corridor.jpg;Q:Where is the door for exit;A:Just right in front of you.
+corridor/c4.jpg;Q:How far is the nearest door;A:About a hundred meters in front of you.
+corridor/c7.jpg;Q:Is there anything in front of me;A:No.
+corridor/c12.jpg;Q:Where's the nearest rest area;A:It's on your right.
+corridor/c19.jpg;Q:Is there a place to rest here;A:Yes, there's a bench on your left.
+corridor/c20.jpg;Q:Is there a stairway in front of me;A:Yes, the stairs are on your right.
+corridor/CA_97_3_283_6_l.jpg;Q:How am I gonna get out of here;A:You can turn right.
+corridor/Castlereagh_corridor.jpg;Q:Is there an obstacle here;A:Yes, there is a lounge chair on your right.
+corridor/class_4_lrg.jpg;Q:Where's the nearest exit;A:A few dozen meters directly in front of you.
+corridor/Clean_Corridor.jpg;Q:How do I leave here;A:Please go straight and open the door.
+corridor/cooee_corridor.jpg;Q:Where's the nearest door;A:It's on your right.
+corridor/corridor_2.jpg;Q:Are there any obstacles in front of me;A:No. You can go directly.
+dining_room/2dining_room.jpg;Q:How can I leave this building;A:There's an obstacle ahead of you. Stay to the right and go straight.
+elevator/elevator_google_0034.jpg;Q:What is the path towards the nearest elevator;A:It's right in front of you.
+fastfood_restaurant/12_440x328.jpg;Q:Any obstacles ahead;A:Yes. Lots of tables and chairs up front.
+fastfood_restaurant/hut4.jpg;Q:What is the path I can exit here;A:Go straight for a few steps and turn left.
+gameroom/CA_97_5_294_22_l.jpg;Q:Are there stairs up ahead;A:Yes, it's directly to your left.
+grocerystore/9d37cca1_088e_4812_a319_9f8d3fcf37a1.jpg;Q:Is there an obstacle in front of me;A:No, you can go straight.
+grocerystore/023_supermarkt.jpg;Q:How do I get out of here;A:Just open the door a dozen meters ahead.
+grocerystore/4734.jpg;Q:Is there anything in front of me;A:Yes, there's a cart right in front of you.
+grocerystore/4734.jpg;Q:Any obstacles in front of me;A:No.
+grocerystore/groceries01.jpg;Q:Is there something in the way;A:No.You can go directly.
+grocerystore/large_1.jpg;Q:Is there any obstacles in the way;A:Yes, there's a large shelf right in front of you.
+hospitalroom/hospital_room02.jpg;Q: How can I leave here;A: Go straight for a few meters and open the right door.
+corridor/va_04_01_5000_32_l.jpg;Q:Where's the nearest staircase;A:It's just to your right.
+corridor/upper_main_hallway_1_c.jpg;Q:Is there a barrier in front of me;A:No. You can keep it straight.
+corridor/Third_Floor_Corridor.jpg;Q:Where's the closest door;A:You can go a few steps ahead and turn left.
+corridor/TA_99_2_0524_25_l.jpg;Q:How can I leave this room;A:You can open the door directly to your right.
+corridor/staffroom_corridor.jpg;Q:What's the best way out of here;A:Go a few meters and open the door.
+corridor/sorbonne_corridor_01.jpg;Q:Is there anything in front of me;A:No. Keep going straight.
+corridor/SA_97_3_772_29_l.jpg;Q:Are there stairs in front of me;A:Yes, on your left.
+corridor/room513.jpg;Q:Is there an obstacle ahead;A:Yes, there's a table directly to your left.
+corridor/room507.jpg;Q:Where's the nearest door;A:Just on your left.
+corridor/room416.jpg;Q:Any obstacles here;A:No, you may go directly.
+corridor/Rimi_Corridor.jpg;Q:Where's the nearest resting place here;A:There's a chair in front of you on your left.
+corridor/PASILLO2.jpg;Q:Where are the nearest stairs;A:It's a few dozen meters to your right.
+corridor/pasillo.jpg;Q:Is there anything in my way;A:No.
+corridor/pasillo_1_c.jpg;Q:What's the path to the room;A:You should take a few steps to your right.
+corridor/p1010074_c.jpg;Q:Is there an obstacle in front of me;A:Yes, there's a closed door in front of you.
+corridor/n457069.jpg;Q:Where's the nearest rest area;A:It's just to your left.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

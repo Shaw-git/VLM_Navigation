@@ -1,0 +1,199 @@
+auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg;Q:How to reach the stage from here;A:Walk down the stairs and head straight toward the platform.
+auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg;Q:Where is the control booth located;A:The control booth is behind you, near the upper wall.
+
+auditorium/658_1_457_1__14.jpg;Q:How to access the backstage area;A:Walk toward the dark door on the right side of the room.
+auditorium/658_1_457_1__14.jpg;Q:Where is the seating area for guests;A:The seating area is directly ahead, past the open floor space.
+
+auditorium/3195_auditorium_1__8.jpg;Q:How to reach the stage;A:Walk down the aisle; the stage is at the front.
+auditorium/3195_auditorium_1__8.jpg;Q:Where are the exits;A:Turn around and walk toward the doors at the back.
+auditorium/3195_auditorium_1__8.jpg;Q:How to access balcony seating;A:Use the stairs on either side to go up.
+
+auditorium/3344_auditorium_vide_1__9.jpg;Q:How to reach the presentation podium;A:Walk straight down the aisle to the stage.
+auditorium/3344_auditorium_vide_1__9.jpg;Q:Where is the control booth;A:The control booth is located at the back of the room.
+
+auditorium/4875_amphitheatre_5_1__11.jpg;Q:How to reach the seating area;A:Walk straight ahead and take any row of seats.
+auditorium/4875_amphitheatre_5_1__11.jpg;Q:Where is the exit from here;A:The exit doors are behind you, near the top row.
+
+auditorium/770248_942445_1__18.jpg;Q:How to find a seat in this room;A:Move forward and pick any row in front of you.
+auditorium/770248_942445_1__18.jpg;Q:Where is the podium for speakers;A:The podium is directly in front, on the stage.
+
+auditorium/280974993_7e04c2dd2d_1__5.jpg;Q:How to reach the exit;A:Walk straight to the back and use the door near the screen.
+auditorium/280974993_7e04c2dd2d_1__5.jpg;Q:Where is the control room;A:Turn left at the back wall and enter through the door.
+
+auditorium/518964327_72ac53c57a_o_1__13.jpg;Q:How to find a seat in this auditorium;A:Move forward and choose any row ahead.
+auditorium/518964327_72ac53c57a_o_1__13.jpg;Q:Where is the upper-level seating;A:Take the stairs on your right to reach the balcony.
+
+auditorium/2100733051_3b8ff268b5_o_1__4.jpg;Q:How to reach the stage area;A:Walk straight down the aisle toward the platform.
+auditorium/2100733051_3b8ff268b5_o_1__4.jpg;Q:Where is the piano located;A:The piano is on the left side of the stage.
+
+auditorium/11472676233attendees_in_the_main_auditorium_1_1__3.jpg;Q:How to reach the podium;A:Move forward along the aisle to the stage ahead.
+auditorium/11472676233attendees_in_the_main_auditorium_1_1__3.jpg;Q:Where is the nearest exit;A:Turn left at the back wall and use the illuminated doors.
+auditorium/11472676233attendees_in_the_main_auditorium_1_1__3.jpg;Q:How to access balcony seating;A:Take the stairs on either side of the room to go up.
+
+auditorium/allan_20scott_20auditorium_web_1__21.jpg;Q:How to reach the stage;A:Walk straight down the aisle; the stage is ahead.
+auditorium/allan_20scott_20auditorium_web_1__21.jpg;Q:Where is the nearest exit;A:Turn left at the back wall and use the doors.
+auditorium/allan_20scott_20auditorium_web_1__21.jpg;Q:How to access balcony seating;A:Take the stairs on either side to go up.
+
+auditorium/amphi_1__81.jpg;Q:How to reach the performers on stage;A:Walk down the steps and head straight to the platform.
+auditorium/amphi_1__81.jpg;Q:Where is the control room;A:The control room is behind you, near the upper seating area.
+
+auditorium/amphi_gb2_1_1__22.jpg;Q:How to find a seat here;A:Walk forward and pick any row ahead.
+auditorium/amphi_gb2_1_1__22.jpg;Q:Where is the podium located;A:The podium is directly in front, near the stage.
+auditorium/amphi_gb2_1_1__22.jpg;Q:How to access upper seating rows;A:Take the stairs on either side of the room.
+
+auditorium/amphi_p_1__82.jpg;Q:How to reach the chalkboard area;A:Move forward along the aisle toward the front wall.
+auditorium/amphi_p_1__82.jpg;Q:Where is the nearest exit door;A:The exit door is on your right, near the back wall.
+
+auditorium/amphi01_1__77.jpg;Q:Where is the exit;A:Turn left at the back wall and use the doors.
+auditorium/amphi01_1__77.jpg;Q:How to find a seat;A:Walk forward and pick any row ahead.
+
+auditorium/amphitheatre_1__85.jpg;Q:How to reach the stage;A:Walk straight down the aisle to the platform.
+auditorium/amphitheatre_1__85.jpg;Q:Where is the presentation screen;A:The screen is directly ahead, above the stage.
+
+auditorium/amphitheatre_2__86.jpg;Q:How to reach the piano;A:Walk straight down the aisle toward the center stage.
+auditorium/amphitheatre_2__86.jpg;Q:Where is balcony seating;A:Take the stairs on either side to access upper rows.
+auditorium/amphitheatre_2__86.jpg;Q:How to exit this room;A:Turn around and use the doors at the back wall.
+
+auditorium/amphitheatre_bastille_1__23.jpg;Q:How to reach the speaker podium;A:Walk down the steps and head straight to the stage.
+auditorium/amphitheatre_bastille_1__23.jpg;Q:Where is backstage access;A:The backstage door is on your right, near the stage.
+
+auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg;Q:How to reach the upper seating area;A:Take the stairs on the left side to go up.
+auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg;Q:Where is the stage located;A:Walk straight down the aisle to the platform.
+auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg;Q:How to exit this auditorium;A:Turn around and use the doors at the back wall.
+
+auditorium/amphitheatre1_1__24.jpg;Q:How to find a seat in this room;A:Walk forward and choose any row ahead.
+auditorium/amphitheatre1_1__24.jpg;Q:Where is the lecturer's desk;A:The desk is directly in front, near the stage.
+
+auditorium/amphitheatre8_1__84.jpg;Q:How to reach the speaker podium;A:Walk straight down the aisle toward the stage.
+auditorium/amphitheatre8_1__84.jpg;Q:Where is the control booth located;A:The control booth is at the back of the room, near the upper seating area.
+
+auditorium/amphivide_1__87.jpg;Q:How to access seating rows;A:Walk forward and take any row ahead.
+auditorium/amphivide_1__87.jpg;Q:Where is the nearest exit door;A:The exit door is on your right, near the back wall.
+
+auditorium/audit400_1__89.jpg;Q:Where is the nearest exit;A:Turn left at the back wall and use the doors.
+auditorium/audit400_1__89.jpg;Q:How to find a seat here;A:Walk forward and choose any row ahead.
+
+auditorium/auditori_1__91.jpg;Q:How to reach the stage;A:Walk straight down the aisle toward the platform.
+auditorium/auditori_1__91.jpg;Q:Where is the piano located;A:The piano is on the right side of the stage.
+auditorium/auditori_1__91.jpg;Q:How to access balcony seating;A:Take the stairs on either side to go up.
+
+auditorium/auditorium_1__121.jpg;Q:How to reach the podium;A:Move forward along the aisle toward the front stage.
+auditorium/auditorium_1__121.jpg;Q:Where is the exit door located;A:The exit door is on your right, near the back wall.
+
+auditorium/auditorium_2__122.jpg;Q:How to find a seat in this room;A:Walk down the aisle and pick any row ahead.
+auditorium/auditorium_2__122.jpg;Q:Where is the presentation screen;A:The screen is directly in front, above the stage.
+auditorium/auditorium_2__122.jpg;Q:How to exit this room;A:Turn around and use the doors at the back wall.
+
+auditorium/auditorium_6__126.jpg;Q:How to reach the stage;A:Walk straight down the aisle to the platform.
+auditorium/auditorium_6__126.jpg;Q:Where is the nearest exit;A:Turn left at the back and use the doors on the wall.
+
+auditorium/auditorium_17_1__42.jpg;Q:How to find the piano;A:Walk straight to the stage; it’s on the left side.
+auditorium/auditorium_17_1__42.jpg;Q:Where is balcony seating;A:Take the stairs on either side to go up.
+auditorium/auditorium_17_1__42.jpg;Q:How to exit this room;A:Turn around and use the doors at the back wall.
+
+auditorium/auditorium_101.jpg;Q:How to reach the podium;A:Walk forward along the aisle toward the stage.
+auditorium/auditorium_101.jpg;Q:Where is the control booth located;A:The control booth is at the back, near the upper seating area.
+
+auditorium/auditorium_465x309_1__127.jpg;Q:How to find a seat here;A:Walk forward and pick any row ahead.
+auditorium/auditorium_465x309_1__127.jpg;Q:Where is backstage access;A:The backstage door is on your right near the stage.
+
+auditorium/auditorium_mc2_1__94.jpg;Q:How to find a seat;A:Walk forward and choose any row ahead.
+auditorium/auditorium_mc2_1__94.jpg;Q:Where is the upper seating area;A:Take the stairs on the left to go up.
+auditorium/auditorium_mc2_1__94.jpg;Q:How to reach the stage;A:Walk straight along the aisle to the platform.
+
+auditorium/auditorium_photo1_af3f1_130.jpg;Q:How to access the podium;A:Walk straight down the aisle toward the stage.
+auditorium/auditorium_photo1_af3f1_130.jpg;Q:Where is the nearest exit;A:Turn around and use the doors at the back wall.
+
+auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg;Q:How to reach backstage;A:The backstage door is on the right side of the stage.
+auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg;Q:Where is the podium located;A:The podium is directly in front, near the center stage.
+
+auditorium/auditorium_topview_1__135.jpg;Q:How to reach the lower seating area;A:Walk down the stairs in front of you.
+auditorium/auditorium_topview_1__135.jpg;Q:Where is the stage entrance;A:The stage entrance is on the left side of the platform.
+auditorium/auditorium_topview_1__135.jpg;Q:How to exit this room;A:Follow the stairs up and use the doors at the top.
+
+auditorium/auditorium3_l_1__111.jpg;Q:How to reach the exit;A:Walk straight to the back wall and use the door.
+auditorium/auditorium3_l_1__111.jpg;Q:Where is the nearest aisle;A:Turn left and walk along the row to find it.
+
+auditorium/auditorium45_114.jpg;Q:How to reach the piano on stage;A:Walk down the aisle to the stage; it’s in the center.
+auditorium/auditorium45_114.jpg;Q:Where is the upper seating area;A:Take the stairs on either side to access the balcony.
+auditorium/auditorium45_114.jpg;Q:How to exit this room;A:Turn around and use the doors at the back.
+
+auditorium/auditorium68_115.jpg;Q:How to reach the podium;A:Walk straight down the aisle toward the front stage.
+auditorium/auditorium68_115.jpg;Q:Where is the presentation screen;A:The screen is directly in front, above the whiteboard.
+
+auditorium/auditorium678_37.jpg;Q:How to find a seat here;A:Walk forward and pick any row ahead.
+auditorium/auditorium678_37.jpg;Q:Where is the staircase to upper seating;A:The staircase is on your right near the wall.
+auditorium/auditorium678_37.jpg;Q:How to exit this auditorium;A:Follow the stairs up and use the doors at the top level.
+
+auditorium/b5_20auditorium_20stravinski_46.jpg;Q:How to reach the stage;A:Walk straight down the aisle to the platform.
+auditorium/b5_20auditorium_20stravinski_46.jpg;Q:Where is the balcony seating;A:Take the stairs on either side to access the upper level.
+auditorium/b5_20auditorium_20stravinski_46.jpg;Q:How to exit this room;A:Turn around and use the doors at the back wall.
+
+auditorium/concert_143.jpg;Q:How to find a seat here;A:Move forward and pick any row ahead.
+auditorium/concert_143.jpg;Q:Where is the stage located;A:The stage is directly in front, past the seating area.
+auditorium/concert_143.jpg;Q:How to exit this auditorium;A:Turn left at the back row and follow the corridor to the doors.
+
+auditorium/d38_img_1758_1__145.jpg;Q:How to reach the lecturer’s desk;A:Walk straight down the aisle toward the front.
+auditorium/d38_img_1758_1__145.jpg;Q:Where is the nearest exit door;A:The exit door is on your right near the back wall.
+
+auditorium/drex_bossone_auditorium_202_50.jpg;Q:How to find a seat in this room;A:Walk forward and choose any row ahead.
+auditorium/drex_bossone_auditorium_202_50.jpg;Q:Where is the presentation screen located;A:The screen is directly in front, above the stage.
+
+auditorium/image1.jpg;Q:How to reach the upper seating;A:Take the stairs at the center to go up.
+auditorium/image1.jpg;Q:Where is the exit;A:Turn around and walk toward the doors at the back.
+
+auditorium/image2.jpg;Q:How to access the stage;A:Walk down the aisle and use the steps on either side.
+auditorium/image2.jpg;Q:Where is the podium located;A:The podium is in front, at the center of the stage.
+auditorium/image2.jpg;Q:How to exit this room;A:Turn left near the stage and follow the corridor to the door.
+
+auditorium/image3.jpg;Q:How to find a seat here;A:Walk forward and choose any row ahead.
+auditorium/image3.jpg;Q:Where is the exit door;A:The exit door is on your right, near the back wall.
+
+auditorium/image4.jpg;Q:How to reach the lecturer’s desk;A:Walk straight down to the wooden desk in front.
+auditorium/image4.jpg;Q:Where is the balcony seating;A:The balcony is above, accessible by stairs on your left.
+
+auditorium/puyallup_high_school_auditorium_67.jpg;Q:How to access the balcony seating;A:Take the stairs on the left to go up.
+auditorium/puyallup_high_school_auditorium_67.jpg;Q:Where is the exit;A:Turn right at the back wall and use the door.
+auditorium/puyallup_high_school_auditorium_67.jpg;Q:How to reach the stage;A:Walk straight down the aisle toward the platform.
+
+auditorium/serre43_173.jpg;Q:How to find a specific flower section;A:Walk forward and follow the yellow path lines.
+auditorium/greenhouse/serre43_173.jpg;Q:Where is the exit from this greenhouse;A:Turn around and walk toward the door near the entrance.
+auditorium/greenhouse/serre43_173.jpg;Q:How to reach the hanging plants area;A:Go straight and look up near the far wall.
+
+auditorium/sisli_1__174.jpg;Q:How to reach the escalators;A:Walk forward and turn left at the palm tree.
+auditorium/sisli_1__174.jpg;Q:Where is the upper-level shopping area;A:Take the escalators in front of you to go up.
+auditorium/sisli_1__174.jpg;Q:How to find a store on this floor;A:Walk along the corridor and check on your left.
+
+auditorium/sp_auditorium_1907_3_1__175.jpg;Q:Where is the stage located;A:The stage is directly ahead, past the seating area.
+auditorium/sp_auditorium_1907_3_1__175.jpg;Q:How to access upper-level seating;A:Take the stairs on your right to go up.
+auditorium/sp_auditorium_1907_3_1__175.jpg;Q:Where is backstage access;A:The backstage door is on your left near the stage.
+
+auditorium/star_20auditorium_202_20k_1__71.jpg;Q:How to reach the central table;A:Walk forward and turn left at the aisle.
+auditorium/star_20auditorium_202_20k_1__71.jpg;Q:Where is the exit;A:Turn around and walk toward the double doors at the back.
+auditorium/star_20auditorium_202_20k_1__71.jpg;Q:How to access the podium area;A:Walk straight ahead past the chairs to the front.
+
+auditorium/theatreroyalbristolauditorium_1__74.jpg;Q:How to reach the stage;A:Walk straight down the central aisle to the platform.
+auditorium/theatreroyalbristolauditorium_1__74.jpg;Q:Where is balcony seating;A:Take the stairs on either side to access the upper level.
+auditorium/theatreroyalbristolauditorium_1__74.jpg;Q:How to exit this theater;A:Turn around and use the doors at the back wall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

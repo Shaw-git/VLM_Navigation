@@ -1,0 +1,6002 @@
+{
+  "1": {
+    "path": "restaurant/bistro_view_of_tables.jpg",
+    "query": "Are there any obstacles in front of me",
+    "answer": "Yes, there is a table."
+  },
+  "2": {
+    "path": "restaurant/bistro_view_of_tables.jpg",
+    "query": "Anything blocking my path?",
+    "answer": "Table ahead."
+  },
+  "3": {
+    "path": "bedroom/IMG_1245.jpg",
+    "query": "How to find the bathroom door",
+    "answer": "The bathroom door is on your right, past the countertop."
+  },
+  "4": {
+    "path": "restaurant/bistro_view_of_tables.jpg",
+    "query": "Is my way clear?",
+    "answer": "No, table in front."
+  },
+  "5": {
+    "path": "waitingroom/Aug29_2007.jpg",
+    "query": "Is anything ahead I need to avoid",
+    "answer": "Yes, there\u2019s a chair right there."
+  },
+  "6": {
+    "path": "corridor/SA_97_3_772_29_l.jpg",
+    "query": "Are there stairs in front of me",
+    "answer": "Yes, on your left."
+  },
+  "7": {
+    "path": "restaurant/gaststaette1.jpg",
+    "query": "Is there anything in my way",
+    "answer": "Yes, there is a big table."
+  },
+  "8": {
+    "path": "restaurant/bistro_03_03_altavista.jpg",
+    "query": "Any obstacles ahead",
+    "answer": "Yes. Lots of tables and chairs up front."
+  },
+  "9": {
+    "path": "restaurant/food2_450.jpg",
+    "query": "Is there anything in my way",
+    "answer": "Yes, a table is in front of you."
+  },
+  "10": {
+    "path": "auditorium/4875_amphitheatre_5_1__11.jpg",
+    "query": "Where is the exit from here",
+    "answer": "The exit doors are behind you, near the top row."
+  },
+  "11": {
+    "path": "corridor/class_4_lrg.jpg",
+    "query": "Where's the nearest exit",
+    "answer": "A few dozen meters directly in front of you."
+  },
+  "12": {
+    "path": "corridor/Third_Floor_Corridor.jpg",
+    "query": "Where's the closest door",
+    "answer": "You can go a few steps ahead and turn left."
+  },
+  "13": {
+    "path": "auditorium/3344_auditorium_vide_1__9.jpg",
+    "query": "Where is the control booth",
+    "answer": "The control booth is located at the back of the room."
+  },
+  "14": {
+    "path": "bedroom/IMG_1245.jpg",
+    "query": "Where's the bathroom?",
+    "answer": "Right, beyond counter."
+  },
+  "15": {
+    "path": "bar/bar_0603.jpg",
+    "query": "Where is the bar counter located",
+    "answer": "The bar counter is straight ahead, illuminated with red lights."
+  },
+  "16": {
+    "path": "bedroom/IMG_1245.jpg",
+    "query": "Bathroom location?",
+    "answer": "To your right past counter."
+  },
+  "17": {
+    "path": "restaurant/restau_11.jpg",
+    "query": "How am I gonna get out of here",
+    "answer": "You can turn right and go for a few steps."
+  },
+  "18": {
+    "path": "videostore/2vhs.jpg",
+    "query": "How do I find the way out",
+    "answer": "Go straight and turn right."
+  },
+  "19": {
+    "path": "bar/bar_0008.jpg",
+    "query": "Where is the seating section",
+    "answer": "The seating section is behind you, near the tables."
+  },
+  "20": {
+    "path": "restaurant/restaurant_25_11_altavista.jpg",
+    "query": "What's the path to exit the room",
+    "answer": "Please go ahead for a few steps."
+  },
+  "21": {
+    "path": "auditorium/allan_20scott_20auditorium_web_1__21.jpg",
+    "query": "How to access balcony seating",
+    "answer": "Take the stairs on either side to go up."
+  },
+  "22": {
+    "path": "waitingroom/IMG_1658.jpg",
+    "query": "Can I step forward freely",
+    "answer": "No, there's a chair in front."
+  },
+  "23": {
+    "path": "restaurant/restaurant_28_16_altavista.jpg",
+    "query": "Is there anything in front of me",
+    "answer": "No."
+  },
+  "24": {
+    "path": "bedroom/IMG_3202.jpg",
+    "query": "Where is the bedside table located",
+    "answer": "The bedside table is on your right, next to the lamp near the bed."
+  },
+  "25": {
+    "path": "auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg",
+    "query": "Where is the podium located",
+    "answer": "The podium is directly in front, near the center stage."
+  },
+  "26": {
+    "path": "waitingroom/Aug29_2007.jpg",
+    "query": "Obstacle ahead?",
+    "answer": "Chair in front."
+  },
+  "27": {
+    "path": "waitingroom/rujin_femme.jpg",
+    "query": "Is the space ahead free from obstructions",
+    "answer": "Yes. Go straight ahead."
+  },
+  "28": {
+    "path": "waitingroom/Aug29_2007.jpg",
+    "query": "Anything to dodge?",
+    "answer": "Yes, chair there."
+  },
+  "29": {
+    "path": "bar/bar_0151.jpg",
+    "query": "How to find the entrance door",
+    "answer": "The entrance door is on the right, near the large windows."
+  },
+  "30": {
+    "path": "bar/bar_0243.jpg",
+    "query": "How to find the exit door",
+    "answer": "The exit door is straight ahead, past the buffet counter."
+  },
+  "31": {
+    "path": "bookstore/bookstore_25_16_altavista.jpg",
+    "query": "How to find the software section",
+    "answer": "The software section is straight ahead, past the display racks in the center."
+  },
+  "32": {
+    "path": "meeting_room/113_bis_meeting_room.jpg",
+    "query": "How do I reach the window",
+    "answer": "Turn left, take a few steps forward, then turn right. The window will be in front of you."
+  },
+  "33": {
+    "path": "bookstore/bookstore_01_09_flickr.jpg",
+    "query": "How to find the reading desk",
+    "answer": "The reading desk is straight ahead, near the center of the room."
+  },
+  "34": {
+    "path": "waitingroom/sala_de_espera_17_13_altavista.jpg",
+    "query": "Is there a stairway close by",
+    "answer": "No. But there is a table."
+  },
+  "35": {
+    "path": "restaurant/bistro_restaurant_for.jpg",
+    "query": "Where's the nearest rest area",
+    "answer": "It's in front of you."
+  },
+  "36": {
+    "path": "restaurant/restaurant_07_05_altavista.jpg",
+    "query": "Is there something in the way",
+    "answer": "Yes, there is a big table."
+  },
+  "37": {
+    "path": "bookstore/bookstore_05_14_altavista.jpg",
+    "query": "Where is the checkout counter located",
+    "answer": "The checkout counter is straight ahead, near the staff assisting customers."
+  },
+  "38": {
+    "path": "corridor/SA_97_3_772_29_l.jpg",
+    "query": "Stairs nearby?",
+    "answer": "Left side."
+  },
+  "39": {
+    "path": "waitingroom/general_waiting_area.jpg",
+    "query": "Where should I go to leave this place",
+    "answer": "Forward, then turn right."
+  },
+  "40": {
+    "path": "corridor/SA_97_3_772_29_l.jpg",
+    "query": "Any stairs ahead?",
+    "answer": "Yes, to left."
+  },
+  "41": {
+    "path": "corridor/c19.jpg",
+    "query": "Is there a place to rest here",
+    "answer": "Yes, there's a bench on your left."
+  },
+  "42": {
+    "path": "bedroom/indoor_0019.jpg",
+    "query": "How to reach the kitchen area",
+    "answer": "Walk straight past the bed, the kitchen area is visible through the hallway ahead."
+  },
+  "43": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "How to reach the stage",
+    "answer": "Walk straight down the aisle toward the platform."
+  },
+  "44": {
+    "path": "bathroom/indoor_0513.jpg",
+    "query": "Where is the sink located",
+    "answer": "The sink is on your right, near the wooden countertop."
+  },
+  "45": {
+    "path": "bathroom/b11.jpg",
+    "query": "How to find the towel rack",
+    "answer": "The towel rack is on your left, near the white tiled wall."
+  },
+  "46": {
+    "path": "restaurant/restaurant_38_18_altavista.jpg",
+    "query": "How can I leave this room",
+    "answer": "Please turn left."
+  },
+  "47": {
+    "path": "bar/bar_0019.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn right at the back wall and use the door near the neon sign."
+  },
+  "48": {
+    "path": "bar/bar_0003.jpg",
+    "query": "Where is the exit",
+    "answer": "Turn left near the counter and walk toward the door."
+  },
+  "49": {
+    "path": "bar/bar_0021.jpg",
+    "query": "Where is the seating section",
+    "answer": "The seating section is directly in front, near the bar stools."
+  },
+  "50": {
+    "path": "restaurant/gaststaette1.jpg",
+    "query": "Blockage ahead?",
+    "answer": "Large table."
+  },
+  "51": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "How to reach the escalators",
+    "answer": "Walk forward and turn left at the palm tree."
+  },
+  "52": {
+    "path": "restaurant/gaststaette1.jpg",
+    "query": "Path clear?",
+    "answer": "No, big table."
+  },
+  "53": {
+    "path": "meeting_room/conference_room4.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn left, go forward, then turn right and go forward."
+  },
+  "54": {
+    "path": "auditorium/770248_942445_1__18.jpg",
+    "query": "Where is the podium for speakers",
+    "answer": "The podium is directly in front, on the stage."
+  },
+  "55": {
+    "path": "videostore/blockbuster_46_07_flickr.jpg",
+    "query": "Is my way obstructed",
+    "answer": "No."
+  },
+  "56": {
+    "path": "restaurant/bistro_09_18_flickr.jpg",
+    "query": "What is the path I can exit here",
+    "answer": "Go ahead, a few steps and the door is on your right."
+  },
+  "57": {
+    "path": "auditorium/3195_auditorium_1__8.jpg",
+    "query": "How to reach the stage",
+    "answer": "Walk down the aisle, the stage is at the front."
+  },
+  "58": {
+    "path": "bookstore/bookstore_24_11_altavista.jpg",
+    "query": "How to reach the checkout counter",
+    "answer": "Walk straight past the shelves, the checkout counter is at the far end of the room."
+  },
+  "59": {
+    "path": "waitingroom/cab3.jpg",
+    "query": "Do I have an obstacle ahead",
+    "answer": "Yes, there's a table right there."
+  },
+  "60": {
+    "path": "bathroom/pittsburgh_IMG_4080.jpg",
+    "query": "How to find the towel rack",
+    "answer": "The towel rack is above the toilet, mounted on the wall."
+  },
+  "61": {
+    "path": "bar/bar_0360.jpg",
+    "query": "How to reach the piano area",
+    "answer": "Walk straight ahead, the piano is near the large windows on your left."
+  },
+  "62": {
+    "path": "restaurant/bistro_03_03_altavista.jpg",
+    "query": "Things blocking me?",
+    "answer": "Many tables/chairs."
+  },
+  "63": {
+    "path": "restaurant/Salle de Restaurant.jpg",
+    "query": "Where's the closest door",
+    "answer": "You can turn left and turn right, go a few steps ahead."
+  },
+  "64": {
+    "path": "restaurant/bistro_03_03_altavista.jpg",
+    "query": "Clear path?",
+    "answer": "No, furniture ahead."
+  },
+  "65": {
+    "path": "corridor/06_Right_corridor_of_the_main_hall.jpg",
+    "query": "Are there any stairs in front of me",
+    "answer": "Yes, take care."
+  },
+  "66": {
+    "path": "auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg",
+    "query": "How to reach backstage",
+    "answer": "The backstage door is on the right side of the stage."
+  },
+  "67": {
+    "path": "grocerystore/4734.jpg",
+    "query": "Any obstacles in front of me",
+    "answer": "No."
+  },
+  "68": {
+    "path": "auditorium/auditorium_465x309_1__127.jpg",
+    "query": "How to find a seat here",
+    "answer": "Walk forward and pick any row ahead."
+  },
+  "69": {
+    "path": "bedroom/imagem_003.jpg",
+    "query": "Where is the television located",
+    "answer": "The television is on your left, placed on top of the wooden dresser."
+  },
+  "70": {
+    "path": "bakery/panaderia_42_16_altavista.jpg",
+    "query": "How to reach the preparation table",
+    "answer": "Walk straight past the racks, the preparation table is on your left near the equipment."
+  },
+  "71": {
+    "path": "bar/bar_0044.jpg",
+    "query": "How to find the entrance door",
+    "answer": "The entrance is behind you, near the television on the left wall."
+  },
+  "72": {
+    "path": "bathroom/IMG_5785.jpg",
+    "query": "Where are the sinks located",
+    "answer": "The sinks are straight ahead, lined up along the tiled wall."
+  },
+  "73": {
+    "path": "bar/bar_0400.jpg",
+    "query": "Where is the seating area",
+    "answer": "The seating area is straight ahead, near the windows with curtains."
+  },
+  "74": {
+    "path": "restaurant/food2_450.jpg",
+    "query": "Obstruction ahead?",
+    "answer": "Table in front."
+  },
+  "75": {
+    "path": "bookstore/bookstore_17_10_altavista.jpg",
+    "query": "Where is the entrance door located",
+    "answer": "The entrance door is behind you, near the glass panels."
+  },
+  "76": {
+    "path": "restaurant/food2_450.jpg",
+    "query": "Blocked path?",
+    "answer": "Yes, table there."
+  },
+  "77": {
+    "path": "bar/bar_0604.jpg",
+    "query": "How to reach the television screens",
+    "answer": "Walk straight ahead, the television screens are mounted above the bar counter."
+  },
+  "78": {
+    "path": "bookstore/bookstore_02_08_flickr.jpg",
+    "query": "Where is the reading area located",
+    "answer": "The reading area is straight ahead, near the lower level surrounded by bookshelves."
+  },
+  "79": {
+    "path": "restaurant/int655.jpg",
+    "query": "Is there anything in front of me",
+    "answer": "Yes, there's a chair."
+  },
+  "80": {
+    "path": "restaurant/restaurante_31_18_altavista.jpg",
+    "query": "Is there a stairway",
+    "answer": "Yes, go ahead and it's on your right."
+  },
+  "81": {
+    "path": "bedroom/indoor_0056.jpg",
+    "query": "How to reach the sofa area",
+    "answer": "The sofa area is straight ahead, next to the triangular coffee table."
+  },
+  "82": {
+    "path": "corridor/room513.jpg",
+    "query": "Is there an obstacle ahead",
+    "answer": "Yes, there's a table directly to your left."
+  },
+  "83": {
+    "path": "bathroom/b11.jpg",
+    "query": "Where is the mirror located",
+    "answer": "The mirror is above the sink, straight ahead near the wooden countertop."
+  },
+  "84": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "How to find the piano",
+    "answer": "Walk straight to the stage, it\u2019s on the left side."
+  },
+  "85": {
+    "path": "hospitalroom/hospital_room02.jpg",
+    "query": " How can I leave here",
+    "answer": " Go straight for a few meters and open the right door."
+  },
+  "86": {
+    "path": "auditorium/4875_amphitheatre_5_1__11.jpg",
+    "query": "Exit location?",
+    "answer": "Behind, top row."
+  },
+  "87": {
+    "path": "bathroom/b5.jpg",
+    "query": "How to find the towel rack",
+    "answer": "Walk straight ahead, the towel rack is above the toilet on your right."
+  },
+  "88": {
+    "path": "auditorium/4875_amphitheatre_5_1__11.jpg",
+    "query": "How to exit?",
+    "answer": "Doors behind at top."
+  },
+  "89": {
+    "path": "bar/bar_0316.jpg",
+    "query": "How to reach the bar counter",
+    "answer": "Walk straight to the left side, the bar counter is near the high chairs."
+  },
+  "90": {
+    "path": "bar/bar_0061.jpg",
+    "query": "Where is the bar counter",
+    "answer": "The bar counter is straight ahead, past the pool table on your right side."
+  },
+  "91": {
+    "path": "restaurant/bistro_09_23_flickr.jpg",
+    "query": "How can I leave",
+    "answer": "Go ahead, a few steps and turn right."
+  },
+  "92": {
+    "path": "auditorium/d38_img_1758_1__145.jpg",
+    "query": "Where is the nearest exit door",
+    "answer": "The exit door is on your right near the back wall."
+  },
+  "93": {
+    "path": "grocerystore/4734.jpg",
+    "query": "Is there anything in front of me",
+    "answer": "Yes, there's a cart right in front of you."
+  },
+  "94": {
+    "path": "waitingroom/wroom2.jpg",
+    "query": "What\u2019s the direction to leave here",
+    "answer": "Move ahead, then left."
+  },
+  "95": {
+    "path": "restaurant/bistro_01.jpg",
+    "query": "How can I leave here",
+    "answer": "Turn left for a few steps."
+  },
+  "96": {
+    "path": "corridor/room416.jpg",
+    "query": "Any obstacles here",
+    "answer": "No, you may go directly."
+  },
+  "97": {
+    "path": "bar/bar_0087.jpg",
+    "query": "Where is the seating area",
+    "answer": "The seating area is on the left side, near the small round tables."
+  },
+  "98": {
+    "path": "corridor/class_4_lrg.jpg",
+    "query": "Closest exit?",
+    "answer": "Straight ahead."
+  },
+  "99": {
+    "path": "restaurant/40_salle_restaurant.jpg",
+    "query": "How can I exit here",
+    "answer": "Go straight for a few steps and turn left."
+  },
+  "100": {
+    "path": "corridor/class_4_lrg.jpg",
+    "query": "Exit direction?",
+    "answer": "Forward some meters."
+  },
+  "101": {
+    "path": "auditorium/658_1_457_1__14.jpg",
+    "query": "Where is the seating area for guests",
+    "answer": "The seating area is directly ahead, past the open floor space."
+  },
+  "102": {
+    "path": "bedroom/IMG_4830.jpg",
+    "query": "Where is the dining table located",
+    "answer": "The dining table is on your right, near the chairs next to the window."
+  },
+  "103": {
+    "path": "bathroom/indoor_0323.jpg",
+    "query": "Where is the lamp located",
+    "answer": "The lamp is on your right, near the bedside table."
+  },
+  "104": {
+    "path": "waitingroom/JHC_3.jpg",
+    "query": "How do I leave this spot",
+    "answer": "Go straight ahead."
+  },
+  "105": {
+    "path": "auditorium/amphi_p_1__82.jpg",
+    "query": "How to reach the chalkboard area",
+    "answer": "Move forward along the aisle toward the front wall."
+  },
+  "106": {
+    "path": "restaurant/restaurant_07_08_altavista.jpg",
+    "query": "Any obstacles in front of me",
+    "answer": "No. You can go directly."
+  },
+  "107": {
+    "path": "bedroom/8_cuarto.jpg",
+    "query": "How to reach the bed",
+    "answer": "The bed is on your left, next to the wall."
+  },
+  "108": {
+    "path": "meeting_room/Board_Room.jpg",
+    "query": "How to reach the window",
+    "answer": "Turn left, take a few steps forward."
+  },
+  "109": {
+    "path": "auditorium/auditorium_101.jpg",
+    "query": "How to reach the podium",
+    "answer": "Walk forward along the aisle toward the stage."
+  },
+  "110": {
+    "path": "corridor/Third_Floor_Corridor.jpg",
+    "query": "Nearest door?",
+    "answer": "Few steps then left."
+  },
+  "111": {
+    "path": "restaurant/gaststaette15.jpg",
+    "query": "Is there an obstacle",
+    "answer": "Yes, there's a table in front of you."
+  },
+  "112": {
+    "path": "corridor/Third_Floor_Corridor.jpg",
+    "query": "Door location?",
+    "answer": "Ahead then left."
+  },
+  "113": {
+    "path": "bookstore/bookstore_19_13_altavista.jpg",
+    "query": "Where is the packaging section located",
+    "answer": "The packaging section is on your left, near the boxes stacked on a table."
+  },
+  "114": {
+    "path": "bar/bar_0019.jpg",
+    "query": "How to access the bar area",
+    "answer": "Go straight past the tables toward the illuminated counter."
+  },
+  "115": {
+    "path": "bakery/boulangerie_26_18_yahoo.jpg",
+    "query": "Where is the seating area located",
+    "answer": "The seating area is on your left, near the tables with tablecloths."
+  },
+  "116": {
+    "path": "bar/bar_0017.jpg",
+    "query": "Where is the restroom",
+    "answer": "Turn left near the counter and follow the hallway."
+  },
+  "117": {
+    "path": "bar/bar_0164.jpg",
+    "query": "Where is the bar counter",
+    "answer": "The bar counter is straight ahead, near the hanging lights."
+  },
+  "118": {
+    "path": "corridor/TA_99_2_0524_25_l.jpg",
+    "query": "How can I leave this room",
+    "answer": "You can open the door directly to your right."
+  },
+  "119": {
+    "path": "bathroom/img_1115.jpg",
+    "query": "How to reach the sink area",
+    "answer": "Walk straight into the bathroom, the sink is on your left near the mirror."
+  },
+  "120": {
+    "path": "meeting_room/conferenceroomsmall2.jpg",
+    "query": "How do I exit this room",
+    "answer": "Turn right and go forward, then turn left and go forward."
+  },
+  "121": {
+    "path": "bedroom/IMG_2123.jpg",
+    "query": "How to reach the window",
+    "answer": "Walk straight past the sofa, the window is directly ahead."
+  },
+  "122": {
+    "path": "auditorium/3344_auditorium_vide_1__9.jpg",
+    "query": "Control booth location?",
+    "answer": "Room's back."
+  },
+  "123": {
+    "path": "bakery/famous_bakery_06_16_altavista.jpg",
+    "query": "Where is the preparation area",
+    "answer": "The preparation area is in front of you, near the chefs working at the tables."
+  },
+  "124": {
+    "path": "auditorium/3344_auditorium_vide_1__9.jpg",
+    "query": "Where's control?",
+    "answer": "At rear."
+  },
+  "125": {
+    "path": "bar/bar_0016.jpg",
+    "query": "Where is the drinks shelf",
+    "answer": "Turn right at the counter and look behind it."
+  },
+  "126": {
+    "path": "grocerystore/9d37cca1_088e_4812_a319_9f8d3fcf37a1.jpg",
+    "query": "Is there an obstacle in front of me",
+    "answer": "No, you can go straight."
+  },
+  "127": {
+    "path": "restaurant/restaurant_30_15_altavista.jpg",
+    "query": "Are there stairs up ahead",
+    "answer": "No."
+  },
+  "128": {
+    "path": "bar/bar_0177.jpg",
+    "query": "Where is the bar counter",
+    "answer": "The bar counter is at the far end of the room, past the tables on your right."
+  },
+  "129": {
+    "path": "auditorium/3344_auditorium_vide_1__9.jpg",
+    "query": "How to reach the presentation podium",
+    "answer": "Walk straight down the aisle to the stage."
+  },
+  "130": {
+    "path": "auditorium/2100733051_3b8ff268b5_o_1__4.jpg",
+    "query": "Where is the piano located",
+    "answer": "The piano is on the left side of the stage."
+  },
+  "131": {
+    "path": "corridor/c12.jpg",
+    "query": "Where's the nearest rest area",
+    "answer": "It's on your right."
+  },
+  "132": {
+    "path": "restaurant/witches_bistro_in_benidorm_large04.jpg",
+    "query": "Are there any obstacles",
+    "answer": "No. You can go directly."
+  },
+  "133": {
+    "path": "bookstore/00114320c9df07c3329506.jpg",
+    "query": "How to reach the checkout counter",
+    "answer": "Walk straight past the aisles, the checkout counter is ahead near the end of the room."
+  },
+  "134": {
+    "path": "bar/bar_0603.jpg",
+    "query": "Bar location?",
+    "answer": "Ahead, red lights."
+  },
+  "135": {
+    "path": "auditorium/amphivide_1__87.jpg",
+    "query": "How to access seating rows",
+    "answer": "Walk forward and take any row ahead."
+  },
+  "136": {
+    "path": "bar/bar_0603.jpg",
+    "query": "Counter position?",
+    "answer": "Straight, lit red."
+  },
+  "137": {
+    "path": "waitingroom/waitingroom04.jpg",
+    "query": "Is the path clear ahead",
+    "answer": "No, there's a table blocking the way."
+  },
+  "138": {
+    "path": "bookstore/bookstore_16_24_flickr.jpg",
+    "query": "How to reach the central reading area",
+    "answer": "Walk straight past the lower-level shelves, the central reading area is directly ahead."
+  },
+  "139": {
+    "path": "stairscase/escalier46.jpg",
+    "query": "Is there a step I need to take soon",
+    "answer": "Yes, stairs are ahead."
+  },
+  "140": {
+    "path": "dining_room/2dining_room.jpg",
+    "query": "How can I leave this building",
+    "answer": "There's an obstacle ahead of you. Stay to the right and go straight."
+  },
+  "141": {
+    "path": "bar/bar_0016.jpg",
+    "query": "How to reach the bar counter",
+    "answer": "Walk straight ahead past the chairs, the counter is in front."
+  },
+  "142": {
+    "path": "bakery/bakery_06_06_altavista.jpg",
+    "query": "How to reach the counter",
+    "answer": "Walk straight past the column, the counter is on your left near the pastries."
+  },
+  "143": {
+    "path": "restaurant/restaurante_50_18_altavista.jpg",
+    "query": "How can I leave here",
+    "answer": "Please go forward."
+  },
+  "144": {
+    "path": "auditorium/auditorium_2__122.jpg",
+    "query": "Where is the presentation screen",
+    "answer": "The screen is directly in front, above the stage."
+  },
+  "145": {
+    "path": "bar/bar_0027.jpg",
+    "query": "How to access the bar area",
+    "answer": "Go straight past the columns toward the wooden counter."
+  },
+  "146": {
+    "path": "restaurant/restau_11.jpg",
+    "query": "Exit route?",
+    "answer": "Right then forward."
+  },
+  "147": {
+    "path": "auditorium/auditorium3_l_1__111.jpg",
+    "query": "How to reach the exit",
+    "answer": "Walk straight to the back wall and use the door."
+  },
+  "148": {
+    "path": "restaurant/restau_11.jpg",
+    "query": "How to leave?",
+    "answer": "Turn right walk."
+  },
+  "149": {
+    "path": "corridor/PASILLO2.jpg",
+    "query": "Where are the nearest stairs",
+    "answer": "It's a few dozen meters to your right."
+  },
+  "150": {
+    "path": "bookstore/9f63b46ad67dbc0868afa77a45d339bb.jpg",
+    "query": "Where are the children's books located",
+    "answer": "The children's books are on your left, near the colorful shelves."
+  },
+  "151": {
+    "path": "auditorium/3195_auditorium_1__8.jpg",
+    "query": "Where are the exits",
+    "answer": "Turn around and walk toward the doors at the back."
+  },
+  "152": {
+    "path": "bar/bar_0293.jpg",
+    "query": "Where is the seating area",
+    "answer": "The seating area is straight ahead, past the wooden columns."
+  },
+  "153": {
+    "path": "videostore/doc48751f34922.jpg",
+    "query": "Is there something ahead that could trip me",
+    "answer": "Yes, there's a large cabinet in front of you."
+  },
+  "154": {
+    "path": "bookstore/9f63b46ad67dbc0868afa77a45d339bb.jpg",
+    "query": "How to reach the counter",
+    "answer": "Walk straight past the shelves, the counter is ahead near the column."
+  },
+  "155": {
+    "path": "bar/bar_0008.jpg",
+    "query": "How to reach the bar area",
+    "answer": "Walk forward past the tables toward the illuminated counter."
+  },
+  "156": {
+    "path": "meeting_room/meeting1.jpg",
+    "query": "How do I reach the window",
+    "answer": "Turn left, go forward, then turn left again, and go forward."
+  },
+  "157": {
+    "path": "restaurant/restaurant_20_13_altavista.jpg",
+    "query": "How can I leave here",
+    "answer": "Please go directly."
+  },
+  "158": {
+    "path": "videostore/2vhs.jpg",
+    "query": "Exit path?",
+    "answer": "Straight then right."
+  },
+  "159": {
+    "path": "auditorium/auditorium678_37.jpg",
+    "query": "Where is the staircase to upper seating",
+    "answer": "The staircase is on your right near the wall."
+  },
+  "160": {
+    "path": "videostore/2vhs.jpg",
+    "query": "Way out?",
+    "answer": "Forward, then right."
+  },
+  "161": {
+    "path": "restaurant/bistro_22_16_altavista.jpg",
+    "query": "Where's the closest door",
+    "answer": "You can go a few steps ahead."
+  },
+  "162": {
+    "path": "corridor/pasillo.jpg",
+    "query": "Is there anything in my way",
+    "answer": "No."
+  },
+  "163": {
+    "path": "bookstore/bookstore_03_02_altavista.jpg",
+    "query": "Where is the checkout counter located",
+    "answer": "The checkout counter is straight ahead, near the cash register and desk."
+  },
+  "164": {
+    "path": "corridor/Rimi_Corridor.jpg",
+    "query": "Where's the nearest resting place here",
+    "answer": "There's a chair in front of you on your left."
+  },
+  "165": {
+    "path": "restaurant/bistropic.jpg",
+    "query": "What's the best way out of here",
+    "answer": "Go straight and the door is on your left."
+  },
+  "166": {
+    "path": "bar/bar_0017.jpg",
+    "query": "How to find a seat",
+    "answer": "Move forward and sit at any stool near the counter."
+  },
+  "167": {
+    "path": "stairscase/0307280855117les8.jpg",
+    "query": "Are there stairs nearby",
+    "answer": "Yes, it's on your right."
+  },
+  "168": {
+    "path": "waitingroom/waiting_room_16_13_altavista.jpg",
+    "query": "Can I step forward freely",
+    "answer": "No, there's a chair in front."
+  },
+  "169": {
+    "path": "bar/bar_0402.jpg",
+    "query": "How to find the exit door",
+    "answer": "The exit door is straight ahead, past the tables near the glass wall."
+  },
+  "170": {
+    "path": "bar/bar_0008.jpg",
+    "query": "Seating area?",
+    "answer": "Behind near tables."
+  },
+  "171": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "How to access balcony seating",
+    "answer": "Take the stairs on either side to go up."
+  },
+  "172": {
+    "path": "bar/bar_0008.jpg",
+    "query": "Where to sit?",
+    "answer": "Back by tables."
+  },
+  "173": {
+    "path": "bar/bar_0239.jpg",
+    "query": "How to reach the artwork on the wall",
+    "answer": "Walk straight past the tables, the artwork is directly in front of you."
+  },
+  "174": {
+    "path": "auditorium/auditorium_6__126.jpg",
+    "query": "How to reach the stage",
+    "answer": "Walk straight down the aisle to the platform."
+  },
+  "175": {
+    "path": "waitingroom/sala_de_espera_01_14_altavista.jpg",
+    "query": "What's my path to get out",
+    "answer": "Go forward a few steps and turn left."
+  },
+  "176": {
+    "path": "bedroom/Deluxe_room.jpg",
+    "query": "How to reach the window",
+    "answer": "Walk straight past the beds, the window is directly ahead, overlooking the city."
+  },
+  "177": {
+    "path": "bookstore/bookstore_02_08_flickr.jpg",
+    "query": "How to find the staircase",
+    "answer": "The staircase is on your left, leading to the upper levels of bookshelves."
+  },
+  "178": {
+    "path": "bar/bar_0562.jpg",
+    "query": "How to reach the exit door",
+    "answer": "Walk straight past the buffet counter, the exit door is at the far end of the room."
+  },
+  "179": {
+    "path": "bedroom/img_1115.jpg",
+    "query": "How to reach the bathroom",
+    "answer": "Walk straight through the doorway, the bathroom is ahead."
+  },
+  "180": {
+    "path": "auditorium/auditorium_mc2_1__94.jpg",
+    "query": "How to find a seat",
+    "answer": "Walk forward and choose any row ahead."
+  },
+  "181": {
+    "path": "bookstore/bookstore_03_04_altavista.jpg",
+    "query": "How to find the bookshelves",
+    "answer": "The bookshelves are on your left, arranged in rows along the walls."
+  },
+  "182": {
+    "path": "restaurant/restaurant_25_11_altavista.jpg",
+    "query": "Exit direction?",
+    "answer": "Walk forward."
+  },
+  "183": {
+    "path": "auditorium/amphivide_1__87.jpg",
+    "query": "Where is the nearest exit door",
+    "answer": "The exit door is on your right, near the back wall."
+  },
+  "184": {
+    "path": "restaurant/restaurant_25_11_altavista.jpg",
+    "query": "How to exit?",
+    "answer": "Few steps ahead."
+  },
+  "185": {
+    "path": "auditorium/serre43_173.jpg",
+    "query": "How to find a specific flower section",
+    "answer": "Walk forward and follow the yellow path lines."
+  },
+  "186": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "Where is the piano located",
+    "answer": "The piano is on the right side of the stage."
+  },
+  "187": {
+    "path": "auditorium/auditorium_1__121.jpg",
+    "query": "Where is the exit door located",
+    "answer": "The exit door is on your right, near the back wall."
+  },
+  "188": {
+    "path": "bookstore/bookstore_25_16_altavista.jpg",
+    "query": "Where is the magazine rack located",
+    "answer": "The magazine rack is on your left, near the aisle."
+  },
+  "189": {
+    "path": "corridor/sorbonne_corridor_01.jpg",
+    "query": "Is there anything in front of me",
+    "answer": "No. Keep going straight."
+  },
+  "190": {
+    "path": "corridor/corridor_2.jpg",
+    "query": "Are there any obstacles in front of me",
+    "answer": "No. You can go directly."
+  },
+  "191": {
+    "path": "stairscase/AT_97_4_396_33_l.jpg",
+    "query": "Are steps directly in front of me",
+    "answer": "Yes, stairs are on your right."
+  },
+  "192": {
+    "path": "restaurant/bistro_19_10_altavista.jpg",
+    "query": "Is there anything in front of me",
+    "answer": "Yes, there's a table right in front of you."
+  },
+  "193": {
+    "path": "bar/bar_0415.jpg",
+    "query": "How to reach the seating area",
+    "answer": "Walk straight ahead, the seating area is near the red sofas on your right."
+  },
+  "194": {
+    "path": "auditorium/allan_20scott_20auditorium_web_1__21.jpg",
+    "query": "Balcony access?",
+    "answer": "Stairs either side."
+  },
+  "195": {
+    "path": "restaurant/restaurante_04_18_altavista.jpg",
+    "query": "Are there stairs up here",
+    "answer": "Yes, it's ahead of you."
+  },
+  "196": {
+    "path": "auditorium/allan_20scott_20auditorium_web_1__21.jpg",
+    "query": "Reach balcony?",
+    "answer": "Use side stairs."
+  },
+  "197": {
+    "path": "bar/bar_0042.jpg",
+    "query": "How to reach the menu board",
+    "answer": "Walk straight ahead, the menu board is on the right wall near the fireplace."
+  },
+  "198": {
+    "path": "restaurant/restaurante_14_06_altavista.jpg",
+    "query": "Are there any obstacles in front of me",
+    "answer": "Yes, there is a table."
+  },
+  "199": {
+    "path": "restaurant/restaurant_05_20_altavista.jpg",
+    "query": "Is there a barrier in front of me",
+    "answer": "Yes, there is a table in front of you."
+  },
+  "200": {
+    "path": "fastfood_restaurant/hut4.jpg",
+    "query": "What is the path I can exit here",
+    "answer": "Go straight for a few steps and turn left."
+  },
+  "201": {
+    "path": "kitchen/int820.jpg",
+    "query": "How do I reach the microwave",
+    "answer": "Take a few steps forward, and the microwave will be to your right."
+  },
+  "202": {
+    "path": "restaurant/restaurant_11_19_altavista.jpg",
+    "query": "How can I leave here",
+    "answer": "Please go straight for a few steps."
+  },
+  "203": {
+    "path": "stairscase/AT_04_02_3000_35_l.jpg",
+    "query": "Are stairs coming up soon",
+    "answer": "Yes, on the right."
+  },
+  "204": {
+    "path": "bedroom/image_0009.jpg",
+    "query": "How to find the balcony",
+    "answer": "The balcony is straight ahead, past the sliding glass doors."
+  },
+  "205": {
+    "path": "bar/bar_0028.jpg",
+    "query": "How to reach the counter stools",
+    "answer": "Walk forward past the tables toward the bar."
+  },
+  "206": {
+    "path": "waitingroom/IMG_1658.jpg",
+    "query": "Clear to move?",
+    "answer": "No, chair ahead."
+  },
+  "207": {
+    "path": "videostore/videotheque_02_02_flickr.jpg",
+    "query": "Can I keep walking ahead safely",
+    "answer": "Yes. Please go ahead."
+  },
+  "208": {
+    "path": "waitingroom/IMG_1658.jpg",
+    "query": "Path blocked?",
+    "answer": "Yes by chair."
+  },
+  "209": {
+    "path": "bookstore/bookstore_01.jpg",
+    "query": "How to reach the bookshelves",
+    "answer": "Walk straight past the greeting card stand, the bookshelves are along the back wall."
+  },
+  "210": {
+    "path": "auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg",
+    "query": "How to reach the stage from here",
+    "answer": "Walk down the stairs and head straight toward the platform."
+  },
+  "211": {
+    "path": "waitingroom/105NC_New_Reception_area_on_7th_floor.jpg",
+    "query": "Any furniture in my immediate path",
+    "answer": "Yes, a table is ahead of you."
+  },
+  "212": {
+    "path": "bar/bar_0360.jpg",
+    "query": "Where is the bar counter",
+    "answer": "The bar counter is on your right, past the wooden columns."
+  },
+  "213": {
+    "path": "waitingroom/waiting_ig.jpg",
+    "query": "What's my best route to exit",
+    "answer": "Go straight, exit door on left."
+  },
+  "214": {
+    "path": "auditorium/drex_bossone_auditorium_202_50.jpg",
+    "query": "Where is the presentation screen located",
+    "answer": "The screen is directly in front, above the stage."
+  },
+  "215": {
+    "path": "bar/bar_0562.jpg",
+    "query": "Where is the buffet counter",
+    "answer": "The buffet counter is straight ahead, near the curved wooden section."
+  },
+  "216": {
+    "path": "stairscase/D16a.jpg",
+    "query": "Is there a stairway",
+    "answer": "Yes, just ahead."
+  },
+  "217": {
+    "path": "bar/bar_0004.jpg",
+    "query": "How to find a seat",
+    "answer": "Move forward and sit at any stool near the counter."
+  },
+  "218": {
+    "path": "restaurant/restaurant_28_16_altavista.jpg",
+    "query": "Clear ahead?",
+    "answer": "Yes."
+  },
+  "219": {
+    "path": "stairscase/HO_06_04_4000_07_l.jpg",
+    "query": "Should I anticipate stairs soon ahead",
+    "answer": "Yes, straight ahead on the left."
+  },
+  "220": {
+    "path": "restaurant/restaurant_28_16_altavista.jpg",
+    "query": "Obstacles?",
+    "answer": "None."
+  },
+  "221": {
+    "path": "bakery/boulangerie_47_14_altavista.jpg",
+    "query": "Where is the bread table",
+    "answer": "The bread table is straight ahead, near the chef slicing bread."
+  },
+  "222": {
+    "path": "meeting_room/Renovated_Meeting_Room_2.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn left, take a few steps forward, then turn right. The door will be in front of you."
+  },
+  "223": {
+    "path": "bakery/panaderia_42_16_altavista.jpg",
+    "query": "Where is the baking rack",
+    "answer": "The baking rack is straight ahead, near the trays of dough."
+  },
+  "224": {
+    "path": "bookstore/bookstore_03_02_altavista.jpg",
+    "query": "How to reach the clothing section",
+    "answer": "The clothing section is behind you, near the racks along the back wall."
+  },
+  "225": {
+    "path": "bookstore/bookstore_05_14_altavista.jpg",
+    "query": "How to find the display shelf",
+    "answer": "The display shelf is in the center of the room, surrounded by books."
+  },
+  "226": {
+    "path": "bar/bar_0027.jpg",
+    "query": "Where is the entrance door",
+    "answer": "The entrance is on your left, near the seating area."
+  },
+  "227": {
+    "path": "restaurant/restaurant_17_08_altavista.jpg",
+    "query": "Any obstacles ahead",
+    "answer": "No."
+  },
+  "228": {
+    "path": "auditorium/280974993_7e04c2dd2d_1__5.jpg",
+    "query": "How to reach the exit",
+    "answer": "Walk straight to the back and use the door near the screen."
+  },
+  "229": {
+    "path": "videostore/videoclub_04_17_flickr.jpg",
+    "query": "Is anything in my immediate way",
+    "answer": "No."
+  },
+  "230": {
+    "path": "bedroom/IMG_3202.jpg",
+    "query": "Nightstand?",
+    "answer": "Right by bed."
+  },
+  "231": {
+    "path": "auditorium/4875_amphitheatre_5_1__11.jpg",
+    "query": "How to reach the seating area",
+    "answer": "Walk straight ahead and take any row of seats."
+  },
+  "232": {
+    "path": "bedroom/IMG_3202.jpg",
+    "query": "Table location?",
+    "answer": "Right near lamp."
+  },
+  "233": {
+    "path": "stairscase/AT_01_6B_5479_32_l.jpg",
+    "query": "Is there a stairway ahead",
+    "answer": "Yes, directly in front of you."
+  },
+  "234": {
+    "path": "bar/bar_0293.jpg",
+    "query": "How to reach the bar counter",
+    "answer": "The bar counter is on your left, near the stools."
+  },
+  "235": {
+    "path": "bar/bar_0207.jpg",
+    "query": "Where is the bar counter located",
+    "answer": "The bar counter is on your left, near the row of stools."
+  },
+  "236": {
+    "path": "corridor/room507.jpg",
+    "query": "Where's the nearest door",
+    "answer": "Just on your left."
+  },
+  "237": {
+    "path": "bathroom/roomscan34.jpg",
+    "query": "Where are the mirrors located",
+    "answer": "The mirrors are above each sink, straight ahead near the wall."
+  },
+  "238": {
+    "path": "bar/bar_0100.jpg",
+    "query": "Where is the exit door",
+    "answer": "The exit door is on the left side, past the bar counter."
+  },
+  "239": {
+    "path": "waitingroom/71_full.jpg",
+    "query": "Is the area ahead obstacle-free",
+    "answer": "No, there's a table blocking your way."
+  },
+  "240": {
+    "path": "bar/bar_0602.jpg",
+    "query": "How to find the entrance door",
+    "answer": "The entrance door is on your left, near the glass windows."
+  },
+  "241": {
+    "path": "bar/bar_0019.jpg",
+    "query": "Where is the entrance door",
+    "answer": "The entrance is on your left near the seating area."
+  },
+  "242": {
+    "path": "auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg",
+    "query": "Podium position?",
+    "answer": "Front center."
+  },
+  "243": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "How to reach the stage",
+    "answer": "Walk straight down the central aisle to the platform."
+  },
+  "244": {
+    "path": "auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg",
+    "query": "Where's podium?",
+    "answer": "Straight ahead center."
+  },
+  "245": {
+    "path": "meeting_room/chateau_salle_conference01.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn left, go forward, then turn right and go forward, and turn left."
+  },
+  "246": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Where is backstage access",
+    "answer": "The backstage door is on your left near the stage."
+  },
+  "247": {
+    "path": "corridor/020103_Commection_Corridor_D.jpg",
+    "query": "Are there any stairs in front of me",
+    "answer": "Yes, it's right in front of you."
+  },
+  "248": {
+    "path": "bar/bar_0164.jpg",
+    "query": "How to find the seating area",
+    "answer": "The seating area is on your right, near the wooden tables."
+  },
+  "249": {
+    "path": "auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg",
+    "query": "How to reach the upper seating area",
+    "answer": "Take the stairs on the left side to go up."
+  },
+  "250": {
+    "path": "bar/bar_0391.jpg",
+    "query": "How to find the lounge area",
+    "answer": "The lounge area is on your left, near the red sofa."
+  },
+  "251": {
+    "path": "bar/bar_0004.jpg",
+    "query": "Where is the restroom",
+    "answer": "Turn right near the counter and follow the hallway."
+  },
+  "252": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "How to find a store on this floor",
+    "answer": "Walk along the corridor and check on your left."
+  },
+  "253": {
+    "path": "waitingroom/Bistro_3_BMP.jpg",
+    "query": "Is my forward path safe and clear",
+    "answer": "Yes, you can go ahead."
+  },
+  "254": {
+    "path": "waitingroom/rujin_femme.jpg",
+    "query": "Clear path?",
+    "answer": "Yes, proceed."
+  },
+  "255": {
+    "path": "bookstore/bookstore_31_01_flickr.jpg",
+    "query": "Where are the ladders located",
+    "answer": "The ladders are on your right, near the tall wooden bookshelves."
+  },
+  "256": {
+    "path": "waitingroom/rujin_femme.jpg",
+    "query": "Obstacles ahead?",
+    "answer": "No, go straight."
+  },
+  "257": {
+    "path": "bookstore/bookstore_31_01_flickr.jpg",
+    "query": "How to find the novels section",
+    "answer": "The novels section is straight ahead, displayed on the middle shelves."
+  },
+  "258": {
+    "path": "auditorium/amphitheatre_2__86.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn around and use the doors at the back wall."
+  },
+  "259": {
+    "path": "restaurant/bistro_01_06_altavista.jpg",
+    "query": "Is there an obstacle here",
+    "answer": "Yes, there is a chair in front of you."
+  },
+  "260": {
+    "path": "bar/bar_0008.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn right at the back wall and use the door near the neon sign."
+  },
+  "261": {
+    "path": "bathroom/bath98.jpg",
+    "query": "How to reach the sink area",
+    "answer": "The sink area is on your left, near the wooden cabinets."
+  },
+  "262": {
+    "path": "bar/bar_0444.jpg",
+    "query": "Where is the dining area located",
+    "answer": "The dining area is straight ahead, near the large window overlooking greenery."
+  },
+  "263": {
+    "path": "bar/bar_0007.jpg",
+    "query": "How to access the drinks shelf",
+    "answer": "Go straight to the counter and look behind it."
+  },
+  "264": {
+    "path": "bedroom/IMG_9810.jpg",
+    "query": "How to find the window",
+    "answer": "The window is straight ahead, near the red curtains above the radiator."
+  },
+  "265": {
+    "path": "bedroom/IMG_1245.jpg",
+    "query": "Where is the mirror located",
+    "answer": "The mirror is straight ahead, above the granite countertop."
+  },
+  "266": {
+    "path": "bar/bar_0151.jpg",
+    "query": "Entry door?",
+    "answer": "Right by windows."
+  },
+  "267": {
+    "path": "restaurant/060630_imaginaire_salle_4.jpg",
+    "query": "How do I leave here",
+    "answer": "Just go ahead for a few steps."
+  },
+  "268": {
+    "path": "bar/bar_0151.jpg",
+    "query": "Where's entrance?",
+    "answer": "Right near glass."
+  },
+  "269": {
+    "path": "auditorium/puyallup_high_school_auditorium_67.jpg",
+    "query": "Where is the exit",
+    "answer": "Turn right at the back wall and use the door."
+  },
+  "270": {
+    "path": "auditorium/auditorium_2__122.jpg",
+    "query": "How to find a seat in this room",
+    "answer": "Walk down the aisle and pick any row ahead."
+  },
+  "271": {
+    "path": "corridor/CA_97_3_283_6_l.jpg",
+    "query": "How am I gonna get out of here",
+    "answer": "You can turn right."
+  },
+  "272": {
+    "path": "bookstore/bookstore_24_11_altavista.jpg",
+    "query": "Where are the textbooks located",
+    "answer": "The textbooks are on your right, arranged on the black shelves."
+  },
+  "273": {
+    "path": "bedroom/dscf0936.jpg",
+    "query": "Where is the radiator located",
+    "answer": "The radiator is straight ahead, below the window near the wall."
+  },
+  "274": {
+    "path": "bedroom/bedroom6.jpg",
+    "query": "How to find the door",
+    "answer": "The door is straight ahead, near the corner of the room."
+  },
+  "275": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "How to exit this theater",
+    "answer": "Turn around and use the doors at the back wall."
+  },
+  "276": {
+    "path": "bookstore/bookstore_35_11_altavista.jpg",
+    "query": "How to find the reading area",
+    "answer": "The reading area is on your left, near the windows with curtains."
+  },
+  "277": {
+    "path": "auditorium/518964327_72ac53c57a_o_1__13.jpg",
+    "query": "Where is the upper-level seating",
+    "answer": "Take the stairs on your right to reach the balcony."
+  },
+  "278": {
+    "path": "bar/bar_0243.jpg",
+    "query": "Exit location?",
+    "answer": "Ahead past buffet."
+  },
+  "279": {
+    "path": "restaurant/Photo_136.jpg",
+    "query": "Is there something in the way",
+    "answer": "Yes, there's a table directly to your left."
+  },
+  "280": {
+    "path": "bar/bar_0243.jpg",
+    "query": "Way out?",
+    "answer": "Forward beyond counter."
+  },
+  "281": {
+    "path": "stairscase/101.jpg",
+    "query": "Are there stairs up ahead of me",
+    "answer": "Yes. It's on your left."
+  },
+  "282": {
+    "path": "bedroom/indoor_0057.jpg",
+    "query": "How to find the balcony door",
+    "answer": "The balcony door is straight ahead, past the sofa near the glass sliding doors."
+  },
+  "283": {
+    "path": "bathroom/indoor_0332.jpg",
+    "query": "Where is the basket located",
+    "answer": "The basket is on your left, near the bedside table."
+  },
+  "284": {
+    "path": "videostore/videoteca_13_10_altavista.jpg",
+    "query": "Is my immediate way clear",
+    "answer": "Yes."
+  },
+  "285": {
+    "path": "bar/bar_0602.jpg",
+    "query": "Where is the seating area",
+    "answer": "The seating area is straight ahead, near the candle-lit tables."
+  },
+  "286": {
+    "path": "auditorium/allan_20scott_20auditorium_web_1__21.jpg",
+    "query": "Where is the nearest exit",
+    "answer": "Turn left at the back wall and use the doors."
+  },
+  "287": {
+    "path": "livingroom/img_0048.jpg",
+    "query": "Where is the door to another room",
+    "answer": "take a few steps forward, the door is in front of you."
+  },
+  "288": {
+    "path": "stairscase/AT_04_03_2000_52_l.jpg",
+    "query": "Any stairs ahead",
+    "answer": "Yes, on your left."
+  },
+  "289": {
+    "path": "bedroom/indoor_0019.jpg",
+    "query": "Where is the television located",
+    "answer": "The television is on your left, placed on the stand near the wall."
+  },
+  "290": {
+    "path": "bookstore/bookstore_25_16_altavista.jpg",
+    "query": "Software location?",
+    "answer": "Ahead past racks."
+  },
+  "291": {
+    "path": "bar/bar_0012.jpg",
+    "query": "How to find a seat",
+    "answer": "Walk forward and sit at any stool near the counter."
+  },
+  "292": {
+    "path": "bookstore/bookstore_25_16_altavista.jpg",
+    "query": "Where's software?",
+    "answer": "Forward center."
+  },
+  "293": {
+    "path": "auditorium/amphitheatre_bastille_1__23.jpg",
+    "query": "How to reach the speaker podium",
+    "answer": "Walk down the steps and head straight to the stage."
+  },
+  "294": {
+    "path": "bathroom/img_1115.jpg",
+    "query": "Where is the bathroom located",
+    "answer": "The bathroom is straight ahead, past the doorway near the armchair."
+  },
+  "295": {
+    "path": "waitingroom/800px_VTBS_Waiting_room_of_Thai_Airways.jpg",
+    "query": "Do I have any obstruction directly ahead",
+    "answer": "Yes, there are two chairs."
+  },
+  "296": {
+    "path": "waitingroom/waiting_room_33_15_altavista.jpg",
+    "query": "Do I have something in front of me",
+    "answer": "Yes, there's a chair ahead of you."
+  },
+  "297": {
+    "path": "bedroom/indoor_0057.jpg",
+    "query": "Where is the dining table located",
+    "answer": "The dining table is on your left, near the chairs and lamp."
+  },
+  "298": {
+    "path": "bathroom/room357.jpg",
+    "query": "How to find the toilet",
+    "answer": "The toilet is straight ahead, next to the window near the plants."
+  },
+  "299": {
+    "path": "videostore/videoteca_06_12_flickr.jpg",
+    "query": "Do I have an obstacle ahead",
+    "answer": "Yes, there is a big shelf."
+  },
+  "300": {
+    "path": "bookstore/bookstore_35_11_altavista.jpg",
+    "query": "Where are the display tables located",
+    "answer": "The display tables are in the center of the room, surrounded by bookshelves."
+  },
+  "301": {
+    "path": "bar/bar_0100.jpg",
+    "query": "How to reach the bar counter",
+    "answer": "Walk straight ahead, the counter is directly in front of you."
+  },
+  "302": {
+    "path": "meeting_room/113_bis_meeting_room.jpg",
+    "query": "Window path?",
+    "answer": "Left, forward, right."
+  },
+  "303": {
+    "path": "kindergarden/100_0034.jpg",
+    "query": "How to exit this room",
+    "answer": "a few steps forward, turn left, and the door will be directly in front of you."
+  },
+  "304": {
+    "path": "meeting_room/113_bis_meeting_room.jpg",
+    "query": "Reach window?",
+    "answer": "Left then right ahead."
+  },
+  "305": {
+    "path": "corridor/1st_floor_hallway.jpg",
+    "query": "How can I exit here",
+    "answer": "Please take a few steps forward."
+  },
+  "306": {
+    "path": "auditorium/amphi_1__81.jpg",
+    "query": "Where is the control room",
+    "answer": "The control room is behind you, near the upper seating area."
+  },
+  "307": {
+    "path": "waitingroom/1114_Milton_Road_3.jpg",
+    "query": "How can I leave this room quickly",
+    "answer": "Go ahead."
+  },
+  "308": {
+    "path": "auditorium/auditorium_101.jpg",
+    "query": "Where is the control booth located",
+    "answer": "The control booth is at the back, near the upper seating area."
+  },
+  "309": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "Where is balcony seating",
+    "answer": "Take the stairs on either side to access the upper level."
+  },
+  "310": {
+    "path": "bathroom/interior016.jpg",
+    "query": "Where is the toilet located",
+    "answer": "The toilet is straight ahead, near the shelves with decorative items."
+  },
+  "311": {
+    "path": "bar/bar_0047.jpg",
+    "query": "How to reach the stage area",
+    "answer": "Walk straight ahead, the stage is at the far end of the room."
+  },
+  "312": {
+    "path": "bookstore/bookstore_03_04_altavista.jpg",
+    "query": "Where are the display tables located",
+    "answer": "The display tables are straight ahead, near the center of the room surrounded by aisles."
+  },
+  "313": {
+    "path": "auditorium/auditorium_photo1_af3f1_130.jpg",
+    "query": "Where is the nearest exit",
+    "answer": "Turn around and use the doors at the back wall."
+  },
+  "314": {
+    "path": "bookstore/bookstore_01_09_flickr.jpg",
+    "query": "Desk location?",
+    "answer": "Ahead center."
+  },
+  "315": {
+    "path": "auditorium/auditorium45_114.jpg",
+    "query": "How to reach the piano on stage",
+    "answer": "Walk down the aisle to the stage, it's in the center."
+  },
+  "316": {
+    "path": "bookstore/bookstore_01_09_flickr.jpg",
+    "query": "Where's reading desk?",
+    "answer": "Middle of room."
+  },
+  "317": {
+    "path": "restaurant/bistro_01_11_altavista.jpg",
+    "query": "How can I exit here",
+    "answer": "Go ahead and turn right."
+  },
+  "318": {
+    "path": "restaurant/restaurant_46_13_altavista.jpg",
+    "query": "Any obstacles here",
+    "answer": "Yes, there is a big table ahead of you."
+  },
+  "319": {
+    "path": "corridor/2326_2.jpg",
+    "query": "Are there stairs up ahead",
+    "answer": "Yes, the stairs down are on your right."
+  },
+  "320": {
+    "path": "computerroom/_7BB05260_2CB9_464F_8403_ABFA52061E3E_.jpg",
+    "query": "Is there any obstacle in front of me",
+    "answer": "Yes, there's a big table on the floor."
+  },
+  "321": {
+    "path": "bar/bar_0207.jpg",
+    "query": "How to reach the lounge area",
+    "answer": "Walk straight along the carpeted path, the lounge area is on your right."
+  },
+  "322": {
+    "path": "restaurant/dsc000085ox.jpg",
+    "query": "Where's the nearest door",
+    "answer": "Please go forward and turn left."
+  },
+  "323": {
+    "path": "bedroom/dscf0936.jpg",
+    "query": "How to find the wardrobe",
+    "answer": "The wardrobe is on your right, next to the television near the corner."
+  },
+  "324": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn around and use the doors at the back wall."
+  },
+  "325": {
+    "path": "bar/bar_0243.jpg",
+    "query": "Where is the dining area",
+    "answer": "The dining area is on the right side, near the row of black chairs."
+  },
+  "326": {
+    "path": "waitingroom/sala_de_espera_17_13_altavista.jpg",
+    "query": "Stairs nearby?",
+    "answer": "No, just table."
+  },
+  "327": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "Where is balcony seating",
+    "answer": "Take the stairs on either side to go up."
+  },
+  "328": {
+    "path": "waitingroom/sala_de_espera_17_13_altavista.jpg",
+    "query": "Any stairs?",
+    "answer": "No, table here."
+  },
+  "329": {
+    "path": "auditorium/b5_20auditorium_20stravinski_46.jpg",
+    "query": "How to reach the stage",
+    "answer": "Walk straight down the aisle to the platform."
+  },
+  "330": {
+    "path": "auditorium/amphi_gb2_1_1__22.jpg",
+    "query": "How to find a seat here",
+    "answer": "Walk forward and pick any row ahead."
+  },
+  "331": {
+    "path": "grocerystore/groceries01.jpg",
+    "query": "Is there something in the way",
+    "answer": "No.You can go directly."
+  },
+  "332": {
+    "path": "auditorium/11472676233attendees_in_the_main_auditorium_1_1__3.jpg",
+    "query": "How to reach the podium",
+    "answer": "Move forward along the aisle to the stage ahead."
+  },
+  "333": {
+    "path": "restaurant/restaurante_28_20_altavista.jpg",
+    "query": "Is there a stairway here",
+    "answer": "No."
+  },
+  "334": {
+    "path": "bar/bar_0013.jpg",
+    "query": "How to access the bar area",
+    "answer": "Go straight past the tables toward the illuminated counter."
+  },
+  "335": {
+    "path": "bedroom/bedroom6.jpg",
+    "query": "Where is the chair located",
+    "answer": "The chair is on your left, near the window."
+  },
+  "336": {
+    "path": "bar/bar_0021.jpg",
+    "query": "How to reach the dartboard area",
+    "answer": "Turn right near the counter and walk toward the back wall."
+  },
+  "337": {
+    "path": "bookstore/00114320c9df07c3329506.jpg",
+    "query": "Where are the magazines located",
+    "answer": "The magazines are on your left, near the first aisle."
+  },
+  "338": {
+    "path": "restaurant/bistro_restaurant_for.jpg",
+    "query": "Rest spot?",
+    "answer": "Straight ahead."
+  },
+  "339": {
+    "path": "bathroom/indoor_0332.jpg",
+    "query": "How to find the bathroom",
+    "answer": "Walk straight past the bed, the bathroom is through the doorway ahead."
+  },
+  "340": {
+    "path": "restaurant/bistro_restaurant_for.jpg",
+    "query": "Seating nearby?",
+    "answer": "Front of you."
+  },
+  "341": {
+    "path": "bar/bar_0169.jpg",
+    "query": "Where is the entrance door",
+    "answer": "The entrance door is behind you, near the glass panels."
+  },
+  "342": {
+    "path": "bedroom/IMG_3202.jpg",
+    "query": "How to reach the seating area",
+    "answer": "Walk straight past the bed, the seating area is visible through the open partition ahead."
+  },
+  "343": {
+    "path": "bookstore/bookstore_16_24_flickr.jpg",
+    "query": "Where are the upper-level bookshelves located",
+    "answer": "The upper-level bookshelves are visible on the balcony, accessible by the stairs on your left."
+  },
+  "344": {
+    "path": "kindergarden/Classroom_109.jpg",
+    "query": "How do I reach the television",
+    "answer": "Turn right, take a few steps forward, then turn left and walk a few more steps forward. Finally, turn right."
+  },
+  "345": {
+    "path": "corridor/va_04_01_5000_32_l.jpg",
+    "query": "Where's the nearest staircase",
+    "answer": "It's just to your right."
+  },
+  "346": {
+    "path": "bedroom/IMG_8705.jpg",
+    "query": "Where is the desk located",
+    "answer": "The desk is straight ahead, near the chair and lamp."
+  },
+  "347": {
+    "path": "restaurant/redr.jpg",
+    "query": "Where's the closest door",
+    "answer": "You can go a few steps ahead and turn right."
+  },
+  "348": {
+    "path": "bedroom/Gold_Class_600SS_Room_King.jpg",
+    "query": "How to reach the bedside table",
+    "answer": "The bedside table is on your left, next to the lamp near the bed."
+  },
+  "349": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "How to access upper-level seating",
+    "answer": "Take the stairs on your right to go up."
+  },
+  "350": {
+    "path": "restaurant/restaurant_07_05_altavista.jpg",
+    "query": "Blocked path?",
+    "answer": "Large table."
+  },
+  "351": {
+    "path": "auditorium/audit400_1__89.jpg",
+    "query": "How to find a seat here",
+    "answer": "Walk forward and choose any row ahead."
+  },
+  "352": {
+    "path": "restaurant/restaurant_07_05_altavista.jpg",
+    "query": "Obstacle?",
+    "answer": "Big table ahead."
+  },
+  "353": {
+    "path": "restaurant/ristorante_1.jpg",
+    "query": "Are there any obstacles in front of me",
+    "answer": "Yes, there are lots of chairs and tables."
+  },
+  "354": {
+    "path": "bar/bar_0047.jpg",
+    "query": "Where is the seating area",
+    "answer": "The seating area is spread across the room, with chairs and tables arranged around."
+  },
+  "355": {
+    "path": "kitchen/int474.jpg",
+    "query": "How do I reach the refrigerator",
+    "answer": "Take a few steps forward, and the refrigerator will be to your left."
+  },
+  "356": {
+    "path": "videostore/videoclub_14_07_altavista.jpg",
+    "query": "Any obstacles right in front",
+    "answer": "No, there's a chair on your right."
+  },
+  "357": {
+    "path": "waitingroom/salat2.jpg",
+    "query": "How do I leave from here easily",
+    "answer": "Go forward."
+  },
+  "358": {
+    "path": "bar/bar_0444.jpg",
+    "query": "How to reach the bar stools",
+    "answer": "Walk straight past the tables, the bar stools are on your left near the counter."
+  },
+  "359": {
+    "path": "stairscase/bergot2.jpg",
+    "query": "Is a staircase ahead of me now",
+    "answer": "Yes, go straight ahead."
+  },
+  "360": {
+    "path": "stairscase/1115735139.jpg",
+    "query": "Is there a stairway close by",
+    "answer": "Yes, straight ahead on your left."
+  },
+  "361": {
+    "path": "auditorium/d38_img_1758_1__145.jpg",
+    "query": "How to reach the lecturer's desk",
+    "answer": "Walk straight down the aisle toward the front."
+  },
+  "362": {
+    "path": "bookstore/bookstore_05_14_altavista.jpg",
+    "query": "Checkout location?",
+    "answer": "Ahead by staff."
+  },
+  "363": {
+    "path": "corridor/5_1_02_Corridor_2.jpg",
+    "query": "How to exit this room",
+    "answer": "Go directly to a few steps."
+  },
+  "364": {
+    "path": "bookstore/bookstore_05_14_altavista.jpg",
+    "query": "Where's register?",
+    "answer": "Front near helpers."
+  },
+  "365": {
+    "path": "bar/bar_0169.jpg",
+    "query": "How to reach the dining area",
+    "answer": "Walk straight past the column, the dining area is on the left side near the windows."
+  },
+  "366": {
+    "path": "auditorium/concert_143.jpg",
+    "query": "How to exit this auditorium",
+    "answer": "Turn left at the back row and follow the corridor to the doors."
+  },
+  "367": {
+    "path": "bedroom/child4.jpg",
+    "query": "How to find the table",
+    "answer": "The table is straight ahead, near the center of the room."
+  },
+  "368": {
+    "path": "bar/bar_0015.jpg",
+    "query": "How to reach the dartboard area",
+    "answer": "Turn right near the counter and walk toward the back wall."
+  },
+  "369": {
+    "path": "bathroom/pittsburgh_IMG_4080.jpg",
+    "query": "Where is the sink located",
+    "answer": "The sink is on your left, near the countertop with toiletries."
+  },
+  "370": {
+    "path": "auditorium/auditorium68_115.jpg",
+    "query": "Where is the presentation screen",
+    "answer": "The screen is directly in front, above the whiteboard."
+  },
+  "371": {
+    "path": "corridor/n457069.jpg",
+    "query": "Where's the nearest rest area",
+    "answer": "It's just to your left."
+  },
+  "372": {
+    "path": "waitingroom/WtRoomJan06.jpg",
+    "query": "Do I have any obstruction directly ahead",
+    "answer": "Yes, there are lots of chairs."
+  },
+  "373": {
+    "path": "auditorium/amphitheatre1_1__24.jpg",
+    "query": "How to find a seat in this room",
+    "answer": "Walk forward and choose any row ahead."
+  },
+  "374": {
+    "path": "waitingroom/general_waiting_area.jpg",
+    "query": "Exit route?",
+    "answer": "Ahead then right."
+  },
+  "375": {
+    "path": "waitingroom/Waiting_Room_1.jpg",
+    "query": "How can I safely exit",
+    "answer": "Move straight ahead and turn right."
+  },
+  "376": {
+    "path": "waitingroom/general_waiting_area.jpg",
+    "query": "How to exit?",
+    "answer": "Forward, right turn."
+  },
+  "377": {
+    "path": "bookstore/bookstore_01.jpg",
+    "query": "Where are the greeting cards located",
+    "answer": "The greeting cards are straight ahead, displayed on the rotating stand near the center of the room."
+  },
+  "378": {
+    "path": "corridor/pasillo_1_c.jpg",
+    "query": "What's the path to the room",
+    "answer": "You should take a few steps to your right."
+  },
+  "379": {
+    "path": "waitingroom/egf_waitingroom.jpg",
+    "query": "Can you tell me the way to leave",
+    "answer": "Move straight and the door is on your left."
+  },
+  "380": {
+    "path": "corridor/c4.jpg",
+    "query": "How far is the nearest door",
+    "answer": "About a hundred meters in front of you."
+  },
+  "381": {
+    "path": "auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg",
+    "query": "Where is the control booth located",
+    "answer": "The control booth is behind you, near the upper wall."
+  },
+  "382": {
+    "path": "meeting_room/meeting_room1_1.jpg",
+    "query": "How do I exit this room",
+    "answer": "Turn right, go forward, then turn left and go forward."
+  },
+  "383": {
+    "path": "bedroom/IMG_1566.jpg",
+    "query": "Where is the bedside table located",
+    "answer": "The bedside table is on your right, near the lamp next to the bed."
+  },
+  "384": {
+    "path": "restaurant/food4_450.jpg",
+    "query": "How do I get out of here",
+    "answer": "Please go ahead for a few steps."
+  },
+  "385": {
+    "path": "restaurant/restaurant_18_15_altavista.jpg",
+    "query": "Is there anything in front of me",
+    "answer": "No, you can go directly."
+  },
+  "386": {
+    "path": "corridor/c19.jpg",
+    "query": "Rest spot?",
+    "answer": "Bench to left."
+  },
+  "387": {
+    "path": "meeting_room/P1010091.jpg",
+    "query": "How do I reach the whiteboard",
+    "answer": "Turn left and go forward."
+  },
+  "388": {
+    "path": "corridor/c19.jpg",
+    "query": "Seating available?",
+    "answer": "Left side bench."
+  },
+  "389": {
+    "path": "stairscase/273_2_zoom_1_aminta_grand_hotel_sorrento_lounge.jpg",
+    "query": "Is there a staircase ahead",
+    "answer": "Yes, directly in front of you."
+  },
+  "390": {
+    "path": "bakery/boulangerie_26_18_yahoo.jpg",
+    "query": "How to reach the bakery counter",
+    "answer": "Walk straight ahead past the tables, the bakery counter is on your right near the glass display."
+  },
+  "391": {
+    "path": "bar/bar_0316.jpg",
+    "query": "Where is the seating area",
+    "answer": "The seating area is straight ahead, near the blue chairs and tables."
+  },
+  "392": {
+    "path": "auditorium/amphi_p_1__82.jpg",
+    "query": "Where is the nearest exit door",
+    "answer": "The exit door is on your right, near the back wall."
+  },
+  "393": {
+    "path": "restaurant/restaurant_23_18_altavista.jpg",
+    "query": "Any obstacles here",
+    "answer": "Yes, a table is in front of you."
+  },
+  "394": {
+    "path": "bar/bar_0009.jpg",
+    "query": "Where is the drinks shelf",
+    "answer": "Turn right at the counter and look behind it."
+  },
+  "395": {
+    "path": "bedroom/aa016560.jpg",
+    "query": "Where is the fireplace located",
+    "answer": "The fireplace is straight ahead, near the chairs."
+  },
+  "396": {
+    "path": "auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg",
+    "query": "Where is the stage located",
+    "answer": "Walk straight down the aisle to the platform."
+  },
+  "397": {
+    "path": "restaurant/salle45.jpg",
+    "query": "Are there stairs",
+    "answer": "No."
+  },
+  "398": {
+    "path": "bedroom/indoor_0019.jpg",
+    "query": "Kitchen path?",
+    "answer": "Past bed, down hall."
+  },
+  "399": {
+    "path": "bakery/famous_bakery_06_16_altavista.jpg",
+    "query": "How to find the ovens",
+    "answer": "The ovens are straight ahead, past the workstations on your left."
+  },
+  "400": {
+    "path": "bedroom/indoor_0019.jpg",
+    "query": "Find kitchen?",
+    "answer": "Beyond bed ahead."
+  },
+  "401": {
+    "path": "restaurant/restaurant_12_08_altavista.jpg",
+    "query": "Is there something in the way",
+    "answer": "Yes, there's a long table here."
+  },
+  "402": {
+    "path": "auditorium/auditorium_465x309_1__127.jpg",
+    "query": "Where is backstage access",
+    "answer": "The backstage door is on your right near the stage."
+  },
+  "403": {
+    "path": "corridor/staffroom_corridor.jpg",
+    "query": "What's the best way out of here",
+    "answer": "Go a few meters and open the door."
+  },
+  "404": {
+    "path": "bakery/new_bakery_23_03_altavista.jpg",
+    "query": "How to find the shelves with items",
+    "answer": "The shelves are straight ahead, past the counter near the wall."
+  },
+  "405": {
+    "path": "bookstore/bookstore_19_16_altavista.jpg",
+    "query": "Where are the bookshelves located",
+    "answer": "The bookshelves are straight ahead, along the back wall near the sign."
+  },
+  "406": {
+    "path": "lobby/lobby20.jpg",
+    "query": "How to go upstairs",
+    "answer": "The stairs are in front and to your left."
+  },
+  "407": {
+    "path": "stairscase/0341_treppe.jpg",
+    "query": "Are stairs coming up ahead",
+    "answer": "Yes, it's on your right."
+  },
+  "408": {
+    "path": "bathroom/dsc3101.jpg",
+    "query": "Where is the toilet located",
+    "answer": "The toilet is straight ahead, visible through the open doorway."
+  },
+  "409": {
+    "path": "auditorium/280974993_7e04c2dd2d_1__5.jpg",
+    "query": "Where is the control room",
+    "answer": "Turn left at the back wall and enter through the door."
+  },
+  "410": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "Stage access?",
+    "answer": "Down center aisle."
+  },
+  "411": {
+    "path": "bar/bar_0156.jpg",
+    "query": "Where is the exit door",
+    "answer": "The exit door is on your left, near the wall with decorations."
+  },
+  "412": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "Get to stage?",
+    "answer": "Walk forward aisle."
+  },
+  "413": {
+    "path": "auditorium/star_20auditorium_202_20k_1__71.jpg",
+    "query": "How to reach the central table",
+    "answer": "Walk forward and turn left at the aisle."
+  },
+  "414": {
+    "path": "bathroom/b6.jpg",
+    "query": "How to reach the toilet",
+    "answer": "The toilet is on your left, near the blue bin next to the radiator."
+  },
+  "415": {
+    "path": "bar/bar_0177.jpg",
+    "query": "How to find the exit door",
+    "answer": "The exit door is straight ahead, past the coat racks on your left."
+  },
+  "416": {
+    "path": "bedroom/bed140.jpg",
+    "query": "Where is the wardrobe located",
+    "answer": "The wardrobe is straight ahead, near the right wall next to the window."
+  },
+  "417": {
+    "path": "meeting_room/salle_reunion11.jpg",
+    "query": "How do I reach to the door",
+    "answer": "Turn left, go forward, then turn right and go forward. Finally, turn left."
+  },
+  "418": {
+    "path": "bar/bar_0015.jpg",
+    "query": "Where is the seating section",
+    "answer": "The seating section is directly in front, near the bar stools."
+  },
+  "419": {
+    "path": "bar/bar_0402.jpg",
+    "query": "Where is the bar counter located",
+    "answer": "The bar counter is on your left, near the stools."
+  },
+  "420": {
+    "path": "bedroom/IMG_4830.jpg",
+    "query": "How to find the door",
+    "answer": "The door is straight ahead, past the television cabinet near the corner."
+  },
+  "421": {
+    "path": "bar/bar_0312.jpg",
+    "query": "Where is the bar counter located",
+    "answer": "The bar counter is directly in front of you, near the bottles on display."
+  },
+  "422": {
+    "path": "bathroom/indoor_0513.jpg",
+    "query": "Sink position?",
+    "answer": "Right by counter."
+  },
+  "423": {
+    "path": "restaurant/restaurant_23_05_altavista.jpg",
+    "query": "Is there an obstacle ahead",
+    "answer": "Yes, there are lots of chairs."
+  },
+  "424": {
+    "path": "bathroom/indoor_0513.jpg",
+    "query": "Where's sink?",
+    "answer": "Right side."
+  },
+  "425": {
+    "path": "bar/bar_0104.jpg",
+    "query": "Where is the lounge area",
+    "answer": "The lounge area is on your right, near the yellow sofas."
+  },
+  "426": {
+    "path": "auditorium/amphitheatre1_1__24.jpg",
+    "query": "Where is the lecturer's desk",
+    "answer": "The desk is directly in front, near the stage."
+  },
+  "427": {
+    "path": "bedroom/imagem_003.jpg",
+    "query": "How to reach the bathroom",
+    "answer": "The bathroom is straight ahead, through the open door near the dresser."
+  },
+  "428": {
+    "path": "restaurant/interior.jpg",
+    "query": "How do I leave here",
+    "answer": "Go straight for a few steps."
+  },
+  "429": {
+    "path": "bar/bar_0354.jpg",
+    "query": "Where is the bar counter",
+    "answer": "The bar counter is on the right side, near the wooden panel."
+  },
+  "430": {
+    "path": "auditorium/auditorium_topview_1__135.jpg",
+    "query": "How to reach the lower seating area",
+    "answer": "Walk down the stairs in front of you."
+  },
+  "431": {
+    "path": "bookstore/108_htmlarea_perso_630_1_L.jpg",
+    "query": "Where is the display table located",
+    "answer": "The display table is on your right, near the lamps."
+  },
+  "432": {
+    "path": "mall/SHOPPING_MALL_PIC.jpg",
+    "query": "How to go upstairs",
+    "answer": "An escalator is in front of you."
+  },
+  "433": {
+    "path": "waitingroom/be158920.jpg",
+    "query": "What's the easiest way to exit here",
+    "answer": "Turn left and turn right, Move ahead."
+  },
+  "434": {
+    "path": "bathroom/b11.jpg",
+    "query": "Towel location?",
+    "answer": "Left by tiles."
+  },
+  "435": {
+    "path": "bar/bar_0604.jpg",
+    "query": "Where is the dining area located",
+    "answer": "The dining area is on your left, near the round tables with black chairs."
+  },
+  "436": {
+    "path": "bathroom/b11.jpg",
+    "query": "Where's towels?",
+    "answer": "Left wall side."
+  },
+  "437": {
+    "path": "bakery/boulangerie_06_21_yahoo.jpg",
+    "query": "How to reach the bakery display",
+    "answer": "Walk straight ahead, the bakery display is in front of you near the curved wooden shelf."
+  },
+  "438": {
+    "path": "auditorium/auditorium_topview_1__135.jpg",
+    "query": "How to exit this room",
+    "answer": "Follow the stairs up and use the doors at the top."
+  },
+  "439": {
+    "path": "bedroom/IMG_4829.jpg",
+    "query": "How to reach the bed",
+    "answer": "The bed is straight ahead, near the artwork on the wall."
+  },
+  "440": {
+    "path": "bedroom/child4.jpg",
+    "query": "Where is the toy shelf located",
+    "answer": "The toy shelf is on your right, above the bed near the window."
+  },
+  "441": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Where is the stage located",
+    "answer": "The stage is directly ahead, past the seating area."
+  },
+  "442": {
+    "path": "bookstore/bookstore_19_16_altavista.jpg",
+    "query": "How to find the display table",
+    "answer": "The display table is in the center of the room, surrounded by bookshelves."
+  },
+  "443": {
+    "path": "restaurant/bistro_01_03_altavista.jpg",
+    "query": "How am I gonna get out of here",
+    "answer": "Turn left and go straight for a few steps, then turn right."
+  },
+  "444": {
+    "path": "restaurant/Salle_de_Restaurant_2.jpg",
+    "query": "Is there anything in front of me",
+    "answer": "Yes. A table is in front of you."
+  },
+  "445": {
+    "path": "corridor/050709_bild7_Schulhaus_Korridor.jpg",
+    "query": "Are there any obstacles ahead of me",
+    "answer": "No, you can go directly."
+  },
+  "446": {
+    "path": "restaurant/restaurant_38_18_altavista.jpg",
+    "query": "Exit direction?",
+    "answer": "Turn left."
+  },
+  "447": {
+    "path": "bedroom/IMG_9810.jpg",
+    "query": "Where is the desk located",
+    "answer": "The desk is on your left, near the lamp and chair."
+  },
+  "448": {
+    "path": "restaurant/restaurant_38_18_altavista.jpg",
+    "query": "Way out?",
+    "answer": "Left turn."
+  },
+  "449": {
+    "path": "bar/bar_0136.jpg",
+    "query": "How to reach the bar counter",
+    "answer": "Walk straight ahead, the counter is on the left side near the chairs."
+  },
+  "450": {
+    "path": "restaurant/restaurante_19_15_altavista.jpg",
+    "query": "Are there any obstacles",
+    "answer": "No, you can go ahead."
+  },
+  "451": {
+    "path": "waitingroom/7.jpg",
+    "query": "Any furniture in my immediate path",
+    "answer": "Yes, a chair is ahead of you."
+  },
+  "452": {
+    "path": "auditorium/auditorium_6__126.jpg",
+    "query": "Where is the nearest exit",
+    "answer": "Turn left at the back and use the doors on the wall."
+  },
+  "453": {
+    "path": "auditorium/amphi01_1__77.jpg",
+    "query": "How to find a seat",
+    "answer": "Walk forward and pick any row ahead."
+  },
+  "454": {
+    "path": "auditorium/auditorium_1__121.jpg",
+    "query": "How to reach the podium",
+    "answer": "Move forward along the aisle toward the front stage."
+  },
+  "455": {
+    "path": "office/office1.jpg",
+    "query": "How to reach the window",
+    "answer": "Turn right, take a few steps forward, and then turn left."
+  },
+  "456": {
+    "path": "bedroom/easyst031.jpg",
+    "query": "How to reach the green dresser",
+    "answer": "The green dresser is on your left, next to the potted plant near the wall."
+  },
+  "457": {
+    "path": "auditorium/b5_20auditorium_20stravinski_46.jpg",
+    "query": "How to exit this room",
+    "answer": "Turn around and use the doors at the back wall."
+  },
+  "458": {
+    "path": "bar/bar_0019.jpg",
+    "query": "Exit path?",
+    "answer": "Right back, neon door."
+  },
+  "459": {
+    "path": "bar/bar_0044.jpg",
+    "query": "Where is the counter",
+    "answer": "The counter is straight ahead, past the seating area."
+  },
+  "460": {
+    "path": "bar/bar_0019.jpg",
+    "query": "How to leave?",
+    "answer": "Right then neon exit."
+  },
+  "461": {
+    "path": "bar/bar_0024.jpg",
+    "query": "Where is the restroom",
+    "answer": "Walk forward and turn left at the corner near the wall."
+  },
+  "462": {
+    "path": "restaurant/2006_11_tastingroom.jpg",
+    "query": "Are there any obstacles",
+    "answer": "Yes, there's a table in front of you."
+  },
+  "463": {
+    "path": "bedroom/img_1039.jpg",
+    "query": "Where is the bed located",
+    "answer": "The bed is straight ahead, covered with a pink and orange duvet."
+  },
+  "464": {
+    "path": "gameroom/CA_97_5_294_22_l.jpg",
+    "query": "Are there stairs up ahead",
+    "answer": "Yes, it's directly to your left."
+  },
+  "465": {
+    "path": "bookstore/bookstore_19_13_altavista.jpg",
+    "query": "How to reach the gift rack",
+    "answer": "Walk straight past the packaging section, the gift rack is on your right near the wall."
+  },
+  "466": {
+    "path": "bathroom/b5.jpg",
+    "query": "Where is the sink located",
+    "answer": "The sink is straight ahead, near the left wall."
+  },
+  "467": {
+    "path": "auditorium/amphi_gb2_1_1__22.jpg",
+    "query": "How to access upper seating rows",
+    "answer": "Take the stairs on either side of the room."
+  },
+  "468": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "Where is the upper-level shopping area",
+    "answer": "Take the escalators in front of you to go up."
+  },
+  "469": {
+    "path": "bar/bar_0087.jpg",
+    "query": "How to find the entrance door",
+    "answer": "The entrance door is on the left, near the \"Caffrey's\" sign."
+  },
+  "470": {
+    "path": "bar/bar_0003.jpg",
+    "query": "Exit location?",
+    "answer": "Left past counter."
+  },
+  "471": {
+    "path": "bakery/boulangerie_47_14_altavista.jpg",
+    "query": "How to reach the trash bin",
+    "answer": "Walk straight past the bread table, the trash bin is near the counter on your right."
+  },
+  "472": {
+    "path": "bar/bar_0003.jpg",
+    "query": "Way out?",
+    "answer": "Left by counter."
+  },
+  "473": {
+    "path": "auditorium/auditorium_photo1_af3f1_130.jpg",
+    "query": "How to access the podium",
+    "answer": "Walk straight down the aisle toward the stage."
+  },
+  "474": {
+    "path": "grocerystore/023_supermarkt.jpg",
+    "query": "How do I get out of here",
+    "answer": "Just open the door a dozen meters ahead."
+  },
+  "475": {
+    "path": "bar/bar_0013.jpg",
+    "query": "Where is the entrance door",
+    "answer": "The entrance is on your left near the seating area."
+  },
+  "476": {
+    "path": "bookstore/bookstore_27_01_altavista.jpg",
+    "query": "How to find the entrance door",
+    "answer": "The entrance door is behind you, near the glass panels."
+  },
+  "477": {
+    "path": "bar/bar_0158.jpg",
+    "query": "How to find the seating area",
+    "answer": "The seating area is straight ahead, near the large windows."
+  },
+  "478": {
+    "path": "bedroom/indoor_0056.jpg",
+    "query": "Where is the bookshelf located",
+    "answer": "The bookshelf is on your right, near the bed and small table."
+  },
+  "479": {
+    "path": "bathroom/roomscan34.jpg",
+    "query": "How to reach the shower area",
+    "answer": "Walk straight past the sinks, the shower area is behind the glass door."
+  },
+  "480": {
+    "path": "office/homeoff007.jpg",
+    "query": "How to exit this room",
+    "answer": "Go straight ahead and open the door."
+  },
+  "481": {
+    "path": "bar/bar_0021.jpg",
+    "query": "Seating area?",
+    "answer": "Front by stools."
+  },
+  "482": {
+    "path": "bar/bar_0021.jpg",
+    "query": "Where to sit?",
+    "answer": "Ahead near bar."
+  },
+  "483": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "Escalator route?",
+    "answer": "Forward, left at tree."
+  },
+  "484": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "Find escalators?",
+    "answer": "Walk then left."
+  },
+  "485": {
+    "path": "meeting_room/conference_room4.jpg",
+    "query": "Exit path?",
+    "answer": "Left, forward, right."
+  },
+  "486": {
+    "path": "meeting_room/conference_room4.jpg",
+    "query": "Way out?",
+    "answer": "Left then right ahead."
+  },
+  "487": {
+    "path": "auditorium/770248_942445_1__18.jpg",
+    "query": "Speaker stand?",
+    "answer": "Front center stage."
+  },
+  "488": {
+    "path": "auditorium/770248_942445_1__18.jpg",
+    "query": "Podium location?",
+    "answer": "On stage ahead."
+  },
+  "489": {
+    "path": "videostore/blockbuster_46_07_flickr.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "490": {
+    "path": "videostore/blockbuster_46_07_flickr.jpg",
+    "query": "Blocked?",
+    "answer": "No obstacles."
+  },
+  "491": {
+    "path": "restaurant/bistro_09_18_flickr.jpg",
+    "query": "Exit route?",
+    "answer": "Forward, right door."
+  },
+  "492": {
+    "path": "restaurant/bistro_09_18_flickr.jpg",
+    "query": "How to leave?",
+    "answer": "Walk then right."
+  },
+  "493": {
+    "path": "auditorium/3195_auditorium_1__8.jpg",
+    "query": "Stage access?",
+    "answer": "Down aisle forward."
+  },
+  "494": {
+    "path": "auditorium/3195_auditorium_1__8.jpg",
+    "query": "Get to stage?",
+    "answer": "Walk front aisle."
+  },
+  "495": {
+    "path": "bookstore/bookstore_24_11_altavista.jpg",
+    "query": "Register location?",
+    "answer": "Past shelves, back."
+  },
+  "496": {
+    "path": "bookstore/bookstore_24_11_altavista.jpg",
+    "query": "Find checkout?",
+    "answer": "Through shelves end."
+  },
+  "497": {
+    "path": "waitingroom/cab3.jpg",
+    "query": "Blocked?",
+    "answer": "Table ahead."
+  },
+  "498": {
+    "path": "waitingroom/cab3.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, table front."
+  },
+  "499": {
+    "path": "bathroom/pittsburgh_IMG_4080.jpg",
+    "query": "Towel location?",
+    "answer": "Over toilet."
+  },
+  "500": {
+    "path": "bathroom/pittsburgh_IMG_4080.jpg",
+    "query": "Where's towels?",
+    "answer": "Wall above toilet."
+  },
+  "501": {
+    "path": "bar/bar_0360.jpg",
+    "query": "Piano location?",
+    "answer": "Ahead left windows."
+  },
+  "502": {
+    "path": "bar/bar_0360.jpg",
+    "query": "Find piano?",
+    "answer": "Forward left side."
+  },
+  "503": {
+    "path": "restaurant/Salle de Restaurant.jpg",
+    "query": "Nearest exit?",
+    "answer": "Left then right."
+  },
+  "504": {
+    "path": "restaurant/Salle de Restaurant.jpg",
+    "query": "Door location?",
+    "answer": "Left-right ahead."
+  },
+  "505": {
+    "path": "corridor/06_Right_corridor_of_the_main_hall.jpg",
+    "query": "Stairs ahead?",
+    "answer": "Yes, caution."
+  },
+  "506": {
+    "path": "corridor/06_Right_corridor_of_the_main_hall.jpg",
+    "query": "Steps front?",
+    "answer": "Yes present."
+  },
+  "507": {
+    "path": "auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg",
+    "query": "Backstage access?",
+    "answer": "Stage right door."
+  },
+  "508": {
+    "path": "auditorium/auditorium_side_20view_20of_20stage_empty_1__34.jpg",
+    "query": "Find backstage?",
+    "answer": "Right stage side."
+  },
+  "509": {
+    "path": "grocerystore/4734.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "510": {
+    "path": "grocerystore/4734.jpg",
+    "query": "Blocked?",
+    "answer": "No."
+  },
+  "511": {
+    "path": "auditorium/auditorium_465x309_1__127.jpg",
+    "query": "Seating?",
+    "answer": "Choose any row."
+  },
+  "512": {
+    "path": "auditorium/auditorium_465x309_1__127.jpg",
+    "query": "Where to sit?",
+    "answer": "Forward rows."
+  },
+  "513": {
+    "path": "bedroom/imagem_003.jpg",
+    "query": "TV position?",
+    "answer": "Left on dresser."
+  },
+  "514": {
+    "path": "bedroom/imagem_003.jpg",
+    "query": "Where's TV?",
+    "answer": "Left side cabinet."
+  },
+  "515": {
+    "path": "bakery/panaderia_42_16_altavista.jpg",
+    "query": "Prep table?",
+    "answer": "Past racks left."
+  },
+  "516": {
+    "path": "bakery/panaderia_42_16_altavista.jpg",
+    "query": "Find work table?",
+    "answer": "Beyond racks left."
+  },
+  "517": {
+    "path": "bar/bar_0044.jpg",
+    "query": "Entry door?",
+    "answer": "Back left wall."
+  },
+  "518": {
+    "path": "bar/bar_0044.jpg",
+    "query": "Where's entrance?",
+    "answer": "Behind near TV."
+  },
+  "519": {
+    "path": "bathroom/IMG_5785.jpg",
+    "query": "Sinks position?",
+    "answer": "Ahead on wall."
+  },
+  "520": {
+    "path": "bathroom/IMG_5785.jpg",
+    "query": "Where's sinks?",
+    "answer": "Front tiled wall."
+  },
+  "521": {
+    "path": "bar/bar_0400.jpg",
+    "query": "Seating location?",
+    "answer": "Ahead by windows."
+  },
+  "522": {
+    "path": "bar/bar_0400.jpg",
+    "query": "Where to sit?",
+    "answer": "Front window area."
+  },
+  "523": {
+    "path": "bookstore/bookstore_17_10_altavista.jpg",
+    "query": "Entry door?",
+    "answer": "Rear glass side."
+  },
+  "524": {
+    "path": "bookstore/bookstore_17_10_altavista.jpg",
+    "query": "Where's entrance?",
+    "answer": "Back near glass."
+  },
+  "525": {
+    "path": "bar/bar_0604.jpg",
+    "query": "TV screens?",
+    "answer": "Ahead above bar."
+  },
+  "526": {
+    "path": "bar/bar_0604.jpg",
+    "query": "Find TVs?",
+    "answer": "Forward over counter."
+  },
+  "527": {
+    "path": "bookstore/bookstore_02_08_flickr.jpg",
+    "query": "Reading spot?",
+    "answer": "Ahead lower level."
+  },
+  "528": {
+    "path": "bookstore/bookstore_02_08_flickr.jpg",
+    "query": "Study area?",
+    "answer": "Front between shelves."
+  },
+  "529": {
+    "path": "restaurant/int655.jpg",
+    "query": "Obstacle?",
+    "answer": "Chair ahead."
+  },
+  "530": {
+    "path": "restaurant/int655.jpg",
+    "query": "Blocked?",
+    "answer": "Yes, chair."
+  },
+  "531": {
+    "path": "restaurant/restaurante_31_18_altavista.jpg",
+    "query": "Stairs present?",
+    "answer": "Yes, right side."
+  },
+  "532": {
+    "path": "restaurant/restaurante_31_18_altavista.jpg",
+    "query": "Any stairs?",
+    "answer": "Yes, ahead right."
+  },
+  "533": {
+    "path": "bedroom/indoor_0056.jpg",
+    "query": "Sofa location?",
+    "answer": "Ahead by table."
+  },
+  "534": {
+    "path": "bedroom/indoor_0056.jpg",
+    "query": "Find couch?",
+    "answer": "Front near table."
+  },
+  "535": {
+    "path": "corridor/room513.jpg",
+    "query": "Blockage?",
+    "answer": "Table left side."
+  },
+  "536": {
+    "path": "corridor/room513.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, left table."
+  },
+  "537": {
+    "path": "bathroom/b11.jpg",
+    "query": "Mirror position?",
+    "answer": "Over sink."
+  },
+  "538": {
+    "path": "bathroom/b11.jpg",
+    "query": "Where's mirror?",
+    "answer": "Above counter."
+  },
+  "539": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "Piano location?",
+    "answer": "Stage left."
+  },
+  "540": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "Find piano?",
+    "answer": "Front stage left."
+  },
+  "541": {
+    "path": "hospitalroom/hospital_room02.jpg",
+    "query": "Exit path?",
+    "answer": "Forward right door."
+  },
+  "542": {
+    "path": "hospitalroom/hospital_room02.jpg",
+    "query": "How to exit?",
+    "answer": "Walk then right."
+  },
+  "543": {
+    "path": "bathroom/b5.jpg",
+    "query": "Towel location?",
+    "answer": "Right over toilet."
+  },
+  "544": {
+    "path": "bathroom/b5.jpg",
+    "query": "Where's towels?",
+    "answer": "Above toilet right."
+  },
+  "545": {
+    "path": "bar/bar_0316.jpg",
+    "query": "Bar location?",
+    "answer": "Left side ahead."
+  },
+  "546": {
+    "path": "bar/bar_0316.jpg",
+    "query": "Find counter?",
+    "answer": "Forward left side."
+  },
+  "547": {
+    "path": "bar/bar_0061.jpg",
+    "query": "Counter position?",
+    "answer": "Ahead past pool."
+  },
+  "548": {
+    "path": "bar/bar_0061.jpg",
+    "query": "Where's bar?",
+    "answer": "Front beyond table."
+  },
+  "549": {
+    "path": "restaurant/bistro_09_23_flickr.jpg",
+    "query": "Exit route?",
+    "answer": "Forward then right."
+  },
+  "550": {
+    "path": "restaurant/bistro_09_23_flickr.jpg",
+    "query": "How to exit?",
+    "answer": "Walk then right."
+  },
+  "551": {
+    "path": "auditorium/d38_img_1758_1__145.jpg",
+    "query": "Exit location?",
+    "answer": "Right back wall."
+  },
+  "552": {
+    "path": "auditorium/d38_img_1758_1__145.jpg",
+    "query": "Where's exit?",
+    "answer": "Right rear side."
+  },
+  "553": {
+    "path": "grocerystore/4734.jpg",
+    "query": "Obstacle?",
+    "answer": "Cart ahead."
+  },
+  "554": {
+    "path": "grocerystore/4734.jpg",
+    "query": "Blocked?",
+    "answer": "Yes, cart front."
+  },
+  "555": {
+    "path": "waitingroom/wroom2.jpg",
+    "query": "Exit path?",
+    "answer": "Forward then left."
+  },
+  "556": {
+    "path": "waitingroom/wroom2.jpg",
+    "query": "How to exit?",
+    "answer": "Ahead left turn."
+  },
+  "557": {
+    "path": "restaurant/bistro_01.jpg",
+    "query": "Exit direction?",
+    "answer": "Left then walk."
+  },
+  "558": {
+    "path": "restaurant/bistro_01.jpg",
+    "query": "Way out?",
+    "answer": "Turn left ahead."
+  },
+  "559": {
+    "path": "corridor/room416.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "560": {
+    "path": "corridor/room416.jpg",
+    "query": "Blocked?",
+    "answer": "No."
+  },
+  "561": {
+    "path": "bar/bar_0087.jpg",
+    "query": "Seating location?",
+    "answer": "Left by tables."
+  },
+  "562": {
+    "path": "bar/bar_0087.jpg",
+    "query": "Where to sit?",
+    "answer": "Left side tables."
+  },
+  "563": {
+    "path": "restaurant/40_salle_restaurant.jpg",
+    "query": "Exit path?",
+    "answer": "Forward then left."
+  },
+  "564": {
+    "path": "restaurant/40_salle_restaurant.jpg",
+    "query": "Way out?",
+    "answer": "Walk then left."
+  },
+  "565": {
+    "path": "auditorium/658_1_457_1__14.jpg",
+    "query": "Guest seats?",
+    "answer": "Ahead past floor."
+  },
+  "566": {
+    "path": "auditorium/658_1_457_1__14.jpg",
+    "query": "Where to sit?",
+    "answer": "Front open area."
+  },
+  "567": {
+    "path": "bedroom/IMG_4830.jpg",
+    "query": "Table position?",
+    "answer": "Right by window."
+  },
+  "568": {
+    "path": "bedroom/IMG_4830.jpg",
+    "query": "Where's table?",
+    "answer": "Right window side."
+  },
+  "569": {
+    "path": "bathroom/indoor_0323.jpg",
+    "query": "Lamp position?",
+    "answer": "Right side."
+  },
+  "570": {
+    "path": "bathroom/indoor_0323.jpg",
+    "query": "Where's light?",
+    "answer": "Right nightstand."
+  },
+  "571": {
+    "path": "waitingroom/JHC_3.jpg",
+    "query": "Exit path?",
+    "answer": "Forward."
+  },
+  "572": {
+    "path": "waitingroom/JHC_3.jpg",
+    "query": "Way out?",
+    "answer": "Straight ahead."
+  },
+  "573": {
+    "path": "auditorium/amphi_p_1__82.jpg",
+    "query": "Chalkboard path?",
+    "answer": "Down aisle forward."
+  },
+  "574": {
+    "path": "auditorium/amphi_p_1__82.jpg",
+    "query": "Find board?",
+    "answer": "Walk front aisle."
+  },
+  "575": {
+    "path": "restaurant/restaurant_07_08_altavista.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "576": {
+    "path": "restaurant/restaurant_07_08_altavista.jpg",
+    "query": "Blocked?",
+    "answer": "No."
+  },
+  "577": {
+    "path": "bedroom/8_cuarto.jpg",
+    "query": "Bed location?",
+    "answer": "Left wall side."
+  },
+  "578": {
+    "path": "bedroom/8_cuarto.jpg",
+    "query": "Where's bed?",
+    "answer": "Left near wall."
+  },
+  "579": {
+    "path": "meeting_room/Board_Room.jpg",
+    "query": "Window path?",
+    "answer": "Left then ahead."
+  },
+  "580": {
+    "path": "meeting_room/Board_Room.jpg",
+    "query": "Find window?",
+    "answer": "Turn left walk."
+  },
+  "581": {
+    "path": "auditorium/auditorium_101.jpg",
+    "query": "Podium path?",
+    "answer": "Down aisle forward."
+  },
+  "582": {
+    "path": "auditorium/auditorium_101.jpg",
+    "query": "Find podium?",
+    "answer": "Walk front aisle."
+  },
+  "583": {
+    "path": "restaurant/gaststaette15.jpg",
+    "query": "Blocked?",
+    "answer": "Table ahead."
+  },
+  "584": {
+    "path": "restaurant/gaststaette15.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, table."
+  },
+  "585": {
+    "path": "bookstore/bookstore_19_13_altavista.jpg",
+    "query": "Packaging area?",
+    "answer": "Left by boxes."
+  },
+  "586": {
+    "path": "bookstore/bookstore_19_13_altavista.jpg",
+    "query": "Where's packing?",
+    "answer": "Left table side."
+  },
+  "587": {
+    "path": "bar/bar_0019.jpg",
+    "query": "Bar access?",
+    "answer": "Past tables forward."
+  },
+  "588": {
+    "path": "bar/bar_0019.jpg",
+    "query": "Find bar?",
+    "answer": "Through tables ahead."
+  },
+  "589": {
+    "path": "bakery/boulangerie_26_18_yahoo.jpg",
+    "query": "Seating location?",
+    "answer": "Left by tables."
+  },
+  "590": {
+    "path": "bakery/boulangerie_26_18_yahoo.jpg",
+    "query": "Where to sit?",
+    "answer": "Left cloth tables."
+  },
+  "591": {
+    "path": "bar/bar_0017.jpg",
+    "query": "Bathroom?",
+    "answer": "Left down hall."
+  },
+  "592": {
+    "path": "bar/bar_0017.jpg",
+    "query": "Where's toilet?",
+    "answer": "Left then hallway."
+  },
+  "593": {
+    "path": "bar/bar_0164.jpg",
+    "query": "Counter position?",
+    "answer": "Ahead under lights."
+  },
+  "594": {
+    "path": "bar/bar_0164.jpg",
+    "query": "Where's bar?",
+    "answer": "Front lit area."
+  },
+  "595": {
+    "path": "corridor/TA_99_2_0524_25_l.jpg",
+    "query": "Exit path?",
+    "answer": "Right door."
+  },
+  "596": {
+    "path": "corridor/TA_99_2_0524_25_l.jpg",
+    "query": "Way out?",
+    "answer": "Door on right."
+  },
+  "597": {
+    "path": "bathroom/img_1115.jpg",
+    "query": "Sink location?",
+    "answer": "Left by mirror."
+  },
+  "598": {
+    "path": "bathroom/img_1115.jpg",
+    "query": "Where's sink?",
+    "answer": "Left mirror side."
+  },
+  "599": {
+    "path": "meeting_room/conferenceroomsmall2.jpg",
+    "query": "Exit path?",
+    "answer": "Right then left."
+  },
+  "600": {
+    "path": "meeting_room/conferenceroomsmall2.jpg",
+    "query": "Way out?",
+    "answer": "Right forward left."
+  },
+  "601": {
+    "path": "bedroom/IMG_2123.jpg",
+    "query": "Window path?",
+    "answer": "Past sofa ahead."
+  },
+  "602": {
+    "path": "bedroom/IMG_2123.jpg",
+    "query": "Find window?",
+    "answer": "Beyond sofa front."
+  },
+  "603": {
+    "path": "bakery/famous_bakery_06_16_altavista.jpg",
+    "query": "Prep station?",
+    "answer": "Ahead by chefs."
+  },
+  "604": {
+    "path": "bakery/famous_bakery_06_16_altavista.jpg",
+    "query": "Work area?",
+    "answer": "Front tables."
+  },
+  "605": {
+    "path": "bar/bar_0016.jpg",
+    "query": "Bottles location?",
+    "answer": "Right behind counter."
+  },
+  "606": {
+    "path": "bar/bar_0016.jpg",
+    "query": "Where's liquor?",
+    "answer": "Counter backside."
+  },
+  "607": {
+    "path": "grocerystore/9d37cca1_088e_4812_a319_9f8d3fcf37a1.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "608": {
+    "path": "grocerystore/9d37cca1_088e_4812_a319_9f8d3fcf37a1.jpg",
+    "query": "Blocked?",
+    "answer": "No."
+  },
+  "609": {
+    "path": "restaurant/restaurant_30_15_altavista.jpg",
+    "query": "Stairs ahead?",
+    "answer": "None."
+  },
+  "610": {
+    "path": "restaurant/restaurant_30_15_altavista.jpg",
+    "query": "Any steps?",
+    "answer": "No."
+  },
+  "611": {
+    "path": "bar/bar_0177.jpg",
+    "query": "Counter position?",
+    "answer": "Back past tables."
+  },
+  "612": {
+    "path": "bar/bar_0177.jpg",
+    "query": "Where's bar?",
+    "answer": "Far end right."
+  },
+  "613": {
+    "path": "auditorium/3344_auditorium_vide_1__9.jpg",
+    "query": "Podium path?",
+    "answer": "Down center aisle."
+  },
+  "614": {
+    "path": "auditorium/3344_auditorium_vide_1__9.jpg",
+    "query": "Find podium?",
+    "answer": "Walk front stage."
+  },
+  "615": {
+    "path": "auditorium/2100733051_3b8ff268b5_o_1__4.jpg",
+    "query": "Piano position?",
+    "answer": "Stage left."
+  },
+  "616": {
+    "path": "auditorium/2100733051_3b8ff268b5_o_1__4.jpg",
+    "query": "Where's piano?",
+    "answer": "Left stage side."
+  },
+  "617": {
+    "path": "corridor/c12.jpg",
+    "query": "Rest spot?",
+    "answer": "Right side."
+  },
+  "618": {
+    "path": "corridor/c12.jpg",
+    "query": "Seating nearby?",
+    "answer": "To your right."
+  },
+  "619": {
+    "path": "restaurant/witches_bistro_in_benidorm_large04.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "620": {
+    "path": "restaurant/witches_bistro_in_benidorm_large04.jpg",
+    "query": "Blocked?",
+    "answer": "No."
+  },
+  "621": {
+    "path": "bookstore/00114320c9df07c3329506.jpg",
+    "query": "Register path?",
+    "answer": "Through aisles front."
+  },
+  "622": {
+    "path": "bookstore/00114320c9df07c3329506.jpg",
+    "query": "Find checkout?",
+    "answer": "Past shelves end."
+  },
+  "623": {
+    "path": "auditorium/amphivide_1__87.jpg",
+    "query": "Seating access?",
+    "answer": "Choose any row."
+  },
+  "624": {
+    "path": "auditorium/amphivide_1__87.jpg",
+    "query": "Find seats?",
+    "answer": "Walk pick row."
+  },
+  "625": {
+    "path": "waitingroom/waitingroom04.jpg",
+    "query": "Clear way?",
+    "answer": "No, table blocks."
+  },
+  "626": {
+    "path": "waitingroom/waitingroom04.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, table."
+  },
+  "627": {
+    "path": "bookstore/bookstore_16_24_flickr.jpg",
+    "query": "Reading spot?",
+    "answer": "Past shelves center."
+  },
+  "628": {
+    "path": "bookstore/bookstore_16_24_flickr.jpg",
+    "query": "Find study area?",
+    "answer": "Through shelves middle."
+  },
+  "629": {
+    "path": "stairscase/escalier46.jpg",
+    "query": "Steps coming?",
+    "answer": "Yes ahead."
+  },
+  "630": {
+    "path": "stairscase/escalier46.jpg",
+    "query": "Stairs near?",
+    "answer": "Yes front."
+  },
+  "631": {
+    "path": "dining_room/2dining_room.jpg",
+    "query": "Exit path?",
+    "answer": "Right around obstacle."
+  },
+  "632": {
+    "path": "dining_room/2dining_room.jpg",
+    "query": "Way out?",
+    "answer": "Right then forward."
+  },
+  "633": {
+    "path": "bar/bar_0016.jpg",
+    "query": "Counter path?",
+    "answer": "Past chairs ahead."
+  },
+  "634": {
+    "path": "bar/bar_0016.jpg",
+    "query": "Find bar?",
+    "answer": "Through chairs front."
+  },
+  "635": {
+    "path": "bakery/bakery_06_06_altavista.jpg",
+    "query": "Counter route?",
+    "answer": "past column left."
+  },
+  "636": {
+    "path": "bakery/bakery_06_06_altavista.jpg",
+    "query": "Find register?",
+    "answer": "Beyond pillar left."
+  },
+  "637": {
+    "path": "restaurant/restaurante_50_18_altavista.jpg",
+    "query": "Exit direction?",
+    "answer": "Straight ahead."
+  },
+  "638": {
+    "path": "restaurant/restaurante_50_18_altavista.jpg",
+    "query": "Way out?",
+    "answer": "Walk forward."
+  },
+  "639": {
+    "path": "auditorium/auditorium_2__122.jpg",
+    "query": "Screen position?",
+    "answer": "Front above stage."
+  },
+  "640": {
+    "path": "auditorium/auditorium_2__122.jpg",
+    "query": "Where's screen?",
+    "answer": "Stage front top."
+  },
+  "641": {
+    "path": "bar/bar_0027.jpg",
+    "query": "Bar entry?",
+    "answer": "Past columns forward."
+  },
+  "642": {
+    "path": "bar/bar_0027.jpg",
+    "query": "How to enter bar?",
+    "answer": "Through columns ahead."
+  },
+  "643": {
+    "path": "auditorium/auditorium3_l_1__111.jpg",
+    "query": "Exit path?",
+    "answer": "Back wall door."
+  },
+  "644": {
+    "path": "auditorium/auditorium3_l_1__111.jpg",
+    "query": "Way out?",
+    "answer": "Walk rear exit."
+  },
+  "645": {
+    "path": "corridor/PASILLO2.jpg",
+    "query": "Stairs location?",
+    "answer": "Right some meters."
+  },
+  "646": {
+    "path": "corridor/PASILLO2.jpg",
+    "query": "Where's staircase?",
+    "answer": "To your right."
+  },
+  "647": {
+    "path": "bookstore/9f63b46ad67dbc0868afa77a45d339bb.jpg",
+    "query": "Kids books?",
+    "answer": "Left bright shelves."
+  },
+  "648": {
+    "path": "bookstore/9f63b46ad67dbc0868afa77a45d339bb.jpg",
+    "query": "Children's section?",
+    "answer": "Left colorful side."
+  },
+  "649": {
+    "path": "auditorium/3195_auditorium_1__8.jpg",
+    "query": "Exit location?",
+    "answer": "Back doors."
+  },
+  "650": {
+    "path": "auditorium/3195_auditorium_1__8.jpg",
+    "query": "Way out?",
+    "answer": "Rear exit doors."
+  },
+  "651": {
+    "path": "bar/bar_0293.jpg",
+    "query": "Sitting area?",
+    "answer": "Ahead past posts."
+  },
+  "652": {
+    "path": "bar/bar_0293.jpg",
+    "query": "Where to sit?",
+    "answer": "Front beyond columns."
+  },
+  "653": {
+    "path": "videostore/doc48751f34922.jpg",
+    "query": "Trip hazard?",
+    "answer": "Cabinet ahead."
+  },
+  "654": {
+    "path": "videostore/doc48751f34922.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, cabinet."
+  },
+  "655": {
+    "path": "bookstore/9f63b46ad67dbc0868afa77a45d339bb.jpg",
+    "query": "Register path?",
+    "answer": "Past shelves front."
+  },
+  "656": {
+    "path": "bookstore/9f63b46ad67dbc0868afa77a45d339bb.jpg",
+    "query": "Find counter?",
+    "answer": "Through shelves column."
+  },
+  "657": {
+    "path": "bar/bar_0008.jpg",
+    "query": "Bar access?",
+    "answer": "Past tables forward."
+  },
+  "658": {
+    "path": "bar/bar_0008.jpg",
+    "query": "Find bar?",
+    "answer": "Through tables lit area."
+  },
+  "659": {
+    "path": "meeting_room/meeting1.jpg",
+    "query": "Window path?",
+    "answer": "Left then left ahead."
+  },
+  "660": {
+    "path": "meeting_room/meeting1.jpg",
+    "query": "Find window?",
+    "answer": "Left left forward."
+  },
+  "661": {
+    "path": "restaurant/restaurant_20_13_altavista.jpg",
+    "query": "Exit path?",
+    "answer": "Straight ahead."
+  },
+  "662": {
+    "path": "restaurant/restaurant_20_13_altavista.jpg",
+    "query": "Way out?",
+    "answer": "Forward directly."
+  },
+  "663": {
+    "path": "auditorium/auditorium678_37.jpg",
+    "query": "Upper stairs?",
+    "answer": "Right wall side."
+  },
+  "664": {
+    "path": "auditorium/auditorium678_37.jpg",
+    "query": "Where's balcony stairs?",
+    "answer": "Right near wall."
+  },
+  "665": {
+    "path": "restaurant/bistro_22_16_altavista.jpg",
+    "query": "Nearest exit?",
+    "answer": "Few steps forward."
+  },
+  "666": {
+    "path": "restaurant/bistro_22_16_altavista.jpg",
+    "query": "Door location?",
+    "answer": "Just ahead."
+  },
+  "667": {
+    "path": "corridor/pasillo.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "668": {
+    "path": "corridor/pasillo.jpg",
+    "query": "Obstacles?",
+    "answer": "None."
+  },
+  "669": {
+    "path": "bookstore/bookstore_03_02_altavista.jpg",
+    "query": "Register position?",
+    "answer": "Front by register."
+  },
+  "670": {
+    "path": "bookstore/bookstore_03_02_altavista.jpg",
+    "query": "Where's checkout?",
+    "answer": "Ahead at desk."
+  },
+  "671": {
+    "path": "corridor/Rimi_Corridor.jpg",
+    "query": "Rest spot?",
+    "answer": "Left chair ahead."
+  },
+  "672": {
+    "path": "corridor/Rimi_Corridor.jpg",
+    "query": "Seating nearby?",
+    "answer": "Front left side."
+  },
+  "673": {
+    "path": "restaurant/bistropic.jpg",
+    "query": "Exit route?",
+    "answer": "Forward left door."
+  },
+  "674": {
+    "path": "restaurant/bistropic.jpg",
+    "query": "Way out?",
+    "answer": "Straight then left."
+  },
+  "675": {
+    "path": "bar/bar_0017.jpg",
+    "query": "Seating?",
+    "answer": "Stools by counter."
+  },
+  "676": {
+    "path": "bar/bar_0017.jpg",
+    "query": "Where to sit?",
+    "answer": "Forward at bar."
+  },
+  "677": {
+    "path": "stairscase/0307280855117les8.jpg",
+    "query": "Steps close?",
+    "answer": "Yes right side."
+  },
+  "678": {
+    "path": "stairscase/0307280855117les8.jpg",
+    "query": "Stairway?",
+    "answer": "Right nearby."
+  },
+  "679": {
+    "path": "waitingroom/waiting_room_16_13_altavista.jpg",
+    "query": "Clear to move?",
+    "answer": "No, chair blocks."
+  },
+  "680": {
+    "path": "waitingroom/waiting_room_16_13_altavista.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, chair."
+  },
+  "681": {
+    "path": "bar/bar_0402.jpg",
+    "query": "Exit location?",
+    "answer": "Ahead past tables."
+  },
+  "682": {
+    "path": "bar/bar_0402.jpg",
+    "query": "Where's exit?",
+    "answer": "Forward glass wall."
+  },
+  "683": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "Balcony access?",
+    "answer": "Side stairs up."
+  },
+  "684": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "Reach balcony?",
+    "answer": "Use either staircase."
+  },
+  "685": {
+    "path": "bar/bar_0239.jpg",
+    "query": "Art location?",
+    "answer": "Ahead past tables."
+  },
+  "686": {
+    "path": "bar/bar_0239.jpg",
+    "query": "Find painting?",
+    "answer": "Forward wall art."
+  },
+  "687": {
+    "path": "auditorium/auditorium_6__126.jpg",
+    "query": "Stage access?",
+    "answer": "Down center aisle."
+  },
+  "688": {
+    "path": "auditorium/auditorium_6__126.jpg",
+    "query": "Get to stage?",
+    "answer": "Walk front aisle."
+  },
+  "689": {
+    "path": "waitingroom/sala_de_espera_01_14_altavista.jpg",
+    "query": "Exit route?",
+    "answer": "Ahead then left."
+  },
+  "690": {
+    "path": "waitingroom/sala_de_espera_01_14_altavista.jpg",
+    "query": "Way out?",
+    "answer": "Few steps left."
+  },
+  "691": {
+    "path": "bedroom/Deluxe_room.jpg",
+    "query": "Window path?",
+    "answer": "Past beds forward."
+  },
+  "692": {
+    "path": "bedroom/Deluxe_room.jpg",
+    "query": "Find window?",
+    "answer": "Beyond beds front."
+  },
+  "693": {
+    "path": "bookstore/bookstore_02_08_flickr.jpg",
+    "query": "Stairs location?",
+    "answer": "Left to upstairs."
+  },
+  "694": {
+    "path": "bookstore/bookstore_02_08_flickr.jpg",
+    "query": "Where's steps?",
+    "answer": "Left shelf side."
+  },
+  "695": {
+    "path": "bar/bar_0562.jpg",
+    "query": "Exit path?",
+    "answer": "Past buffet end."
+  },
+  "696": {
+    "path": "bar/bar_0562.jpg",
+    "query": "Find exit?",
+    "answer": "Through buffet rear."
+  },
+  "697": {
+    "path": "bedroom/img_1115.jpg",
+    "query": "Bathroom path?",
+    "answer": "Through door ahead."
+  },
+  "698": {
+    "path": "bedroom/img_1115.jpg",
+    "query": "Find bathroom?",
+    "answer": "Doorway forward."
+  },
+  "699": {
+    "path": "auditorium/auditorium_mc2_1__94.jpg",
+    "query": "Seating?",
+    "answer": "Pick any row."
+  },
+  "700": {
+    "path": "auditorium/auditorium_mc2_1__94.jpg",
+    "query": "Where to sit?",
+    "answer": "Forward rows."
+  },
+  "701": {
+    "path": "bookstore/bookstore_03_04_altavista.jpg",
+    "query": "Shelves location?",
+    "answer": "Left wall rows."
+  },
+  "702": {
+    "path": "bookstore/bookstore_03_04_altavista.jpg",
+    "query": "Where's books?",
+    "answer": "Left side walls."
+  },
+  "703": {
+    "path": "auditorium/amphivide_1__87.jpg",
+    "query": "Exit location?",
+    "answer": "Right rear."
+  },
+  "704": {
+    "path": "auditorium/amphivide_1__87.jpg",
+    "query": "Way out?",
+    "answer": "Right back wall."
+  },
+  "705": {
+    "path": "auditorium/serre43_173.jpg",
+    "query": "Flower area?",
+    "answer": "Follow yellow lines."
+  },
+  "706": {
+    "path": "auditorium/serre43_173.jpg",
+    "query": "Find blooms?",
+    "answer": "Yellow path forward."
+  },
+  "707": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "Piano position?",
+    "answer": "Stage right."
+  },
+  "708": {
+    "path": "auditorium/auditori_1__91.jpg",
+    "query": "Where's piano?",
+    "answer": "Right stage side."
+  },
+  "709": {
+    "path": "auditorium/auditorium_1__121.jpg",
+    "query": "Exit location?",
+    "answer": "Right rear."
+  },
+  "710": {
+    "path": "auditorium/auditorium_1__121.jpg",
+    "query": "Way out?",
+    "answer": "Right back wall."
+  },
+  "711": {
+    "path": "bookstore/bookstore_25_16_altavista.jpg",
+    "query": "Magazines?",
+    "answer": "Left aisle side."
+  },
+  "712": {
+    "path": "bookstore/bookstore_25_16_altavista.jpg",
+    "query": "Where's periodicals?",
+    "answer": "Left near walkway."
+  },
+  "713": {
+    "path": "corridor/sorbonne_corridor_01.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "714": {
+    "path": "corridor/sorbonne_corridor_01.jpg",
+    "query": "Obstacles?",
+    "answer": "None."
+  },
+  "715": {
+    "path": "corridor/corridor_2.jpg",
+    "query": "Clear way?",
+    "answer": "Yes."
+  },
+  "716": {
+    "path": "corridor/corridor_2.jpg",
+    "query": "Blocked?",
+    "answer": "No."
+  },
+  "717": {
+    "path": "stairscase/AT_97_4_396_33_l.jpg",
+    "query": "Stairs ahead?",
+    "answer": "Yes right."
+  },
+  "718": {
+    "path": "stairscase/AT_97_4_396_33_l.jpg",
+    "query": "Steps near?",
+    "answer": "Right side."
+  },
+  "719": {
+    "path": "restaurant/bistro_19_10_altavista.jpg",
+    "query": "Obstacle?",
+    "answer": "Table ahead."
+  },
+  "720": {
+    "path": "restaurant/bistro_19_10_altavista.jpg",
+    "query": "Blocked?",
+    "answer": "Yes, table."
+  },
+  "721": {
+    "path": "bar/bar_0415.jpg",
+    "query": "Seating location?",
+    "answer": "Ahead right sofas."
+  },
+  "722": {
+    "path": "bar/bar_0415.jpg",
+    "query": "Where to sit?",
+    "answer": "Forward red couches."
+  },
+  "723": {
+    "path": "restaurant/restaurante_04_18_altavista.jpg",
+    "query": "Stairs present?",
+    "answer": "Yes front."
+  },
+  "724": {
+    "path": "restaurant/restaurante_04_18_altavista.jpg",
+    "query": "Steps ahead?",
+    "answer": "Yes visible."
+  },
+  "725": {
+    "path": "bar/bar_0042.jpg",
+    "query": "Menu location?",
+    "answer": "Right fireplace wall."
+  },
+  "726": {
+    "path": "bar/bar_0042.jpg",
+    "query": "Find menu?",
+    "answer": "Ahead right hearth."
+  },
+  "727": {
+    "path": "restaurant/restaurante_14_06_altavista.jpg",
+    "query": "Blocked path?",
+    "answer": "Table ahead."
+  },
+  "728": {
+    "path": "restaurant/restaurante_14_06_altavista.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, table."
+  },
+  "729": {
+    "path": "restaurant/restaurant_05_20_altavista.jpg",
+    "query": "Blockage?",
+    "answer": "Table front."
+  },
+  "730": {
+    "path": "restaurant/restaurant_05_20_altavista.jpg",
+    "query": "Obstruction?",
+    "answer": "Yes, table."
+  },
+  "731": {
+    "path": "fastfood_restaurant/hut4.jpg",
+    "query": "Exit route?",
+    "answer": "Forward then left."
+  },
+  "732": {
+    "path": "fastfood_restaurant/hut4.jpg",
+    "query": "Way out?",
+    "answer": "Walk left turn."
+  },
+  "733": {
+    "path": "kitchen/int820.jpg",
+    "query": "Microwave location?",
+    "answer": "Ahead right."
+  },
+  "734": {
+    "path": "kitchen/int820.jpg",
+    "query": "Find microwave?",
+    "answer": "Forward right side."
+  },
+  "735": {
+    "path": "restaurant/restaurant_11_19_altavista.jpg",
+    "query": "Exit path?",
+    "answer": "Forward briefly."
+  },
+  "736": {
+    "path": "restaurant/restaurant_11_19_altavista.jpg",
+    "query": "Way out?",
+    "answer": "Few steps ahead."
+  },
+  "737": {
+    "path": "stairscase/AT_04_02_3000_35_l.jpg",
+    "query": "Steps ahead?",
+    "answer": "Right coming."
+  },
+  "738": {
+    "path": "stairscase/AT_04_02_3000_35_l.jpg",
+    "query": "Stairs near?",
+    "answer": "Yes right."
+  },
+  "739": {
+    "path": "bedroom/image_0009.jpg",
+    "query": "Balcony location?",
+    "answer": "Ahead glass doors."
+  },
+  "740": {
+    "path": "bedroom/image_0009.jpg",
+    "query": "Find balcony?",
+    "answer": "Through sliding doors."
+  },
+  "741": {
+    "path": "bar/bar_0028.jpg",
+    "query": "Stools path?",
+    "answer": "Past tables forward."
+  },
+  "742": {
+    "path": "bar/bar_0028.jpg",
+    "query": "Find bar seats?",
+    "answer": "Through tables ahead."
+  },
+  "743": {
+    "path": "videostore/videotheque_02_02_flickr.jpg",
+    "query": "Safe to proceed?",
+    "answer": "Yes clear."
+  },
+  "744": {
+    "path": "videostore/videotheque_02_02_flickr.jpg",
+    "query": "Path clear?",
+    "answer": "Yes advance."
+  },
+  "745": {
+    "path": "bookstore/bookstore_01.jpg",
+    "query": "Shelves path?",
+    "answer": "past cards back."
+  },
+  "746": {
+    "path": "bookstore/bookstore_01.jpg",
+    "query": "Find books?",
+    "answer": "Beyond stand rear."
+  },
+  "747": {
+    "path": "auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg",
+    "query": "Stage access?",
+    "answer": "Down steps forward."
+  },
+  "748": {
+    "path": "auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg",
+    "query": "Get to stage?",
+    "answer": "Stairs then ahead."
+  },
+  "749": {
+    "path": "waitingroom/105NC_New_Reception_area_on_7th_floor.jpg",
+    "query": "Obstacle?",
+    "answer": "Table front."
+  },
+  "750": {
+    "path": "waitingroom/105NC_New_Reception_area_on_7th_floor.jpg",
+    "query": "Blocked?",
+    "answer": "Yes, table."
+  },
+  "751": {
+    "path": "bar/bar_0360.jpg",
+    "query": "Counter location?",
+    "answer": "Right past posts."
+  },
+  "752": {
+    "path": "bar/bar_0360.jpg",
+    "query": "Where's bar?",
+    "answer": "Right columns side."
+  },
+  "753": {
+    "path": "waitingroom/waiting_ig.jpg",
+    "query": "Exit path?",
+    "answer": "Forward left door."
+  },
+  "754": {
+    "path": "waitingroom/waiting_ig.jpg",
+    "query": "Way out?",
+    "answer": "Ahead then left."
+  },
+  "755": {
+    "path": "auditorium/drex_bossone_auditorium_202_50.jpg",
+    "query": "Screen position?",
+    "answer": "Front stage top."
+  },
+  "756": {
+    "path": "auditorium/drex_bossone_auditorium_202_50.jpg",
+    "query": "Where's screen?",
+    "answer": "Above stage front."
+  },
+  "757": {
+    "path": "bar/bar_0562.jpg",
+    "query": "Buffet location?",
+    "answer": "Ahead curved wood."
+  },
+  "758": {
+    "path": "bar/bar_0562.jpg",
+    "query": "Find buffet?",
+    "answer": "Front wooden curve."
+  },
+  "759": {
+    "path": "stairscase/D16a.jpg",
+    "query": "Stairs present?",
+    "answer": "Yes front."
+  },
+  "760": {
+    "path": "stairscase/D16a.jpg",
+    "query": "Steps ahead?",
+    "answer": "Yes visible."
+  },
+  "761": {
+    "path": "bar/bar_0004.jpg",
+    "query": "Where to sit?",
+    "answer": "Stools by counter."
+  },
+  "762": {
+    "path": "bar/bar_0004.jpg",
+    "query": "Seating options?",
+    "answer": "Forward at bar."
+  },
+  "763": {
+    "path": "stairscase/HO_06_04_4000_07_l.jpg",
+    "query": "Stairs coming?",
+    "answer": "Left ahead."
+  },
+  "764": {
+    "path": "stairscase/HO_06_04_4000_07_l.jpg",
+    "query": "Steps nearby?",
+    "answer": "Yes front left."
+  },
+  "765": {
+    "path": "bakery/boulangerie_47_14_altavista.jpg",
+    "query": "Bread location?",
+    "answer": "Ahead by chef."
+  },
+  "766": {
+    "path": "bakery/boulangerie_47_14_altavista.jpg",
+    "query": "Find bread?",
+    "answer": "Front cutting area."
+  },
+  "767": {
+    "path": "meeting_room/Renovated_Meeting_Room_2.jpg",
+    "query": "Exit path?",
+    "answer": "Left then right."
+  },
+  "768": {
+    "path": "meeting_room/Renovated_Meeting_Room_2.jpg",
+    "query": "Way out?",
+    "answer": "Left forward right."
+  },
+  "769": {
+    "path": "bakery/panaderia_42_16_altavista.jpg",
+    "query": "Rack location?",
+    "answer": "Ahead by dough."
+  },
+  "770": {
+    "path": "bakery/panaderia_42_16_altavista.jpg",
+    "query": "Find baking rack?",
+    "answer": "Front dough trays."
+  },
+  "771": {
+    "path": "bookstore/bookstore_03_02_altavista.jpg",
+    "query": "Clothes location?",
+    "answer": "Rear wall racks."
+  },
+  "772": {
+    "path": "bookstore/bookstore_03_02_altavista.jpg",
+    "query": "Find apparel?",
+    "answer": "Back section."
+  },
+  "773": {
+    "path": "bookstore/bookstore_05_14_altavista.jpg",
+    "query": "Shelf location?",
+    "answer": "Middle room."
+  },
+  "774": {
+    "path": "bookstore/bookstore_05_14_altavista.jpg",
+    "query": "Find display?",
+    "answer": "Central area."
+  },
+  "775": {
+    "path": "bar/bar_0027.jpg",
+    "query": "Entry location?",
+    "answer": "Left seating side."
+  },
+  "776": {
+    "path": "bar/bar_0027.jpg",
+    "query": "Where's entrance?",
+    "answer": "Left chairs area."
+  },
+  "777": {
+    "path": "restaurant/restaurant_17_08_altavista.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "778": {
+    "path": "restaurant/restaurant_17_08_altavista.jpg",
+    "query": "Blocked?",
+    "answer": "No."
+  },
+  "779": {
+    "path": "auditorium/280974993_7e04c2dd2d_1__5.jpg",
+    "query": "Exit path?",
+    "answer": "Back screen door."
+  },
+  "780": {
+    "path": "auditorium/280974993_7e04c2dd2d_1__5.jpg",
+    "query": "Way out?",
+    "answer": "Rear near screen."
+  },
+  "781": {
+    "path": "videostore/videoclub_04_17_flickr.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "782": {
+    "path": "videostore/videoclub_04_17_flickr.jpg",
+    "query": "Obstacles?",
+    "answer": "None."
+  },
+  "783": {
+    "path": "auditorium/4875_amphitheatre_5_1__11.jpg",
+    "query": "Seating access?",
+    "answer": "Choose any row."
+  },
+  "784": {
+    "path": "auditorium/4875_amphitheatre_5_1__11.jpg",
+    "query": "Find seats?",
+    "answer": "Forward rows."
+  },
+  "785": {
+    "path": "stairscase/AT_01_6B_5479_32_l.jpg",
+    "query": "Stairs present?",
+    "answer": "Yes front."
+  },
+  "786": {
+    "path": "stairscase/AT_01_6B_5479_32_l.jpg",
+    "query": "Steps ahead?",
+    "answer": "Yes visible."
+  },
+  "787": {
+    "path": "bar/bar_0293.jpg",
+    "query": "Counter location?",
+    "answer": "Left stools side."
+  },
+  "788": {
+    "path": "bar/bar_0293.jpg",
+    "query": "Where's bar?",
+    "answer": "Left seating area."
+  },
+  "789": {
+    "path": "bar/bar_0207.jpg",
+    "query": "Counter position?",
+    "answer": "Left stool row."
+  },
+  "790": {
+    "path": "bar/bar_0207.jpg",
+    "query": "Where's bar?",
+    "answer": "Left seating line."
+  },
+  "791": {
+    "path": "corridor/room507.jpg",
+    "query": "Door location?",
+    "answer": "Left nearby."
+  },
+  "792": {
+    "path": "corridor/room507.jpg",
+    "query": "Exit nearby?",
+    "answer": "Left close."
+  },
+  "793": {
+    "path": "bathroom/roomscan34.jpg",
+    "query": "Mirror position?",
+    "answer": "Above sinks."
+  },
+  "794": {
+    "path": "bathroom/roomscan34.jpg",
+    "query": "Where's mirrors?",
+    "answer": "Sink tops wall."
+  },
+  "795": {
+    "path": "bar/bar_0100.jpg",
+    "query": "Exit location?",
+    "answer": "Left past bar."
+  },
+  "796": {
+    "path": "bar/bar_0100.jpg",
+    "query": "Way out?",
+    "answer": "Left counter end."
+  },
+  "797": {
+    "path": "waitingroom/71_full.jpg",
+    "query": "Clear path?",
+    "answer": "No, table blocks."
+  },
+  "798": {
+    "path": "waitingroom/71_full.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, table."
+  },
+  "799": {
+    "path": "bar/bar_0602.jpg",
+    "query": "Entry location?",
+    "answer": "Left window side."
+  },
+  "800": {
+    "path": "bar/bar_0602.jpg",
+    "query": "Where's entrance?",
+    "answer": "Left glass area."
+  },
+  "801": {
+    "path": "bar/bar_0019.jpg",
+    "query": "Entry location?",
+    "answer": "Left seating side."
+  },
+  "802": {
+    "path": "bar/bar_0019.jpg",
+    "query": "Where's entrance?",
+    "answer": "Left chairs area."
+  },
+  "803": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "Stage path?",
+    "answer": "Center aisle forward."
+  },
+  "804": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "Find stage?",
+    "answer": "Down middle aisle."
+  },
+  "805": {
+    "path": "meeting_room/chateau_salle_conference01.jpg",
+    "query": "Exit route?",
+    "answer": "Left, right, left."
+  },
+  "806": {
+    "path": "meeting_room/chateau_salle_conference01.jpg",
+    "query": "Way out?",
+    "answer": "Left forward right left."
+  },
+  "807": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Backstage entry?",
+    "answer": "Left stage side."
+  },
+  "808": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Find backstage?",
+    "answer": "Stage left door."
+  },
+  "809": {
+    "path": "corridor/020103_Commection_Corridor_D.jpg",
+    "query": "Stairs ahead?",
+    "answer": "Yes immediate."
+  },
+  "810": {
+    "path": "corridor/020103_Commection_Corridor_D.jpg",
+    "query": "Steps front?",
+    "answer": "Yes direct."
+  },
+  "811": {
+    "path": "bar/bar_0164.jpg",
+    "query": "Seating location?",
+    "answer": "Right tables side."
+  },
+  "812": {
+    "path": "bar/bar_0164.jpg",
+    "query": "Where to sit?",
+    "answer": "Right wood tables."
+  },
+  "813": {
+    "path": "auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg",
+    "query": "Balcony access?",
+    "answer": "Left stairs up."
+  },
+  "814": {
+    "path": "auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg",
+    "query": "Upper seats?",
+    "answer": "Left staircase."
+  },
+  "815": {
+    "path": "bar/bar_0391.jpg",
+    "query": "Lounge location?",
+    "answer": "Left red couch."
+  },
+  "816": {
+    "path": "bar/bar_0391.jpg",
+    "query": "Find lounge?",
+    "answer": "Left sofa side."
+  },
+  "817": {
+    "path": "bar/bar_0004.jpg",
+    "query": "Bathroom?",
+    "answer": "Right down hall."
+  },
+  "818": {
+    "path": "bar/bar_0004.jpg",
+    "query": "Where's toilet?",
+    "answer": "Right then hallway."
+  },
+  "819": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "Shop location?",
+    "answer": "Left corridor side."
+  },
+  "820": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "Find store?",
+    "answer": "Walk check left."
+  },
+  "821": {
+    "path": "waitingroom/Bistro_3_BMP.jpg",
+    "query": "Clear to proceed?",
+    "answer": "Yes advance."
+  },
+  "822": {
+    "path": "waitingroom/Bistro_3_BMP.jpg",
+    "query": "Path safe?",
+    "answer": "Yes forward."
+  },
+  "823": {
+    "path": "bookstore/bookstore_31_01_flickr.jpg",
+    "query": "Ladder position?",
+    "answer": "Right shelf side."
+  },
+  "824": {
+    "path": "bookstore/bookstore_31_01_flickr.jpg",
+    "query": "Find ladders?",
+    "answer": "Right tall shelves."
+  },
+  "825": {
+    "path": "bookstore/bookstore_31_01_flickr.jpg",
+    "query": "Novels location?",
+    "answer": "Ahead middle."
+  },
+  "826": {
+    "path": "bookstore/bookstore_31_01_flickr.jpg",
+    "query": "Find fiction?",
+    "answer": "Front center shelves."
+  },
+  "827": {
+    "path": "auditorium/amphitheatre_2__86.jpg",
+    "query": "Exit path?",
+    "answer": "Rear doors."
+  },
+  "828": {
+    "path": "auditorium/amphitheatre_2__86.jpg",
+    "query": "Way out?",
+    "answer": "Back wall exit."
+  },
+  "829": {
+    "path": "restaurant/bistro_01_06_altavista.jpg",
+    "query": "Blocked?",
+    "answer": "Chair ahead."
+  },
+  "830": {
+    "path": "restaurant/bistro_01_06_altavista.jpg",
+    "query": "Obstacle?",
+    "answer": "Yes, chair."
+  },
+  "831": {
+    "path": "bar/bar_0008.jpg",
+    "query": "Exit route?",
+    "answer": "Right neon door."
+  },
+  "832": {
+    "path": "bar/bar_0008.jpg",
+    "query": "Way out?",
+    "answer": "Right back exit."
+  },
+  "833": {
+    "path": "bathroom/bath98.jpg",
+    "query": "Sink location?",
+    "answer": "Left cabinets."
+  },
+  "834": {
+    "path": "bathroom/bath98.jpg",
+    "query": "Find sink?",
+    "answer": "Left wood side."
+  },
+  "835": {
+    "path": "bar/bar_0444.jpg",
+    "query": "Dining location?",
+    "answer": "Ahead window."
+  },
+  "836": {
+    "path": "bar/bar_0444.jpg",
+    "query": "Where to eat?",
+    "answer": "Front garden view."
+  },
+  "837": {
+    "path": "bar/bar_0007.jpg",
+    "query": "Bottles location?",
+    "answer": "Behind counter."
+  },
+  "838": {
+    "path": "bar/bar_0007.jpg",
+    "query": "Find drinks?",
+    "answer": "Counter backside."
+  },
+  "839": {
+    "path": "bedroom/IMG_9810.jpg",
+    "query": "Window location?",
+    "answer": "Ahead radiator."
+  },
+  "840": {
+    "path": "bedroom/IMG_9810.jpg",
+    "query": "Find window?",
+    "answer": "Front red curtains."
+  },
+  "841": {
+    "path": "bedroom/IMG_1245.jpg",
+    "query": "Mirror position?",
+    "answer": "Ahead above counter."
+  },
+  "842": {
+    "path": "bedroom/IMG_1245.jpg",
+    "query": "Find mirror?",
+    "answer": "Front granite top."
+  },
+  "843": {
+    "path": "restaurant/060630_imaginaire_salle_4.jpg",
+    "query": "Exit path?",
+    "answer": "Forward briefly."
+  },
+  "844": {
+    "path": "restaurant/060630_imaginaire_salle_4.jpg",
+    "query": "Way out?",
+    "answer": "Few steps ahead."
+  },
+  "845": {
+    "path": "auditorium/puyallup_high_school_auditorium_67.jpg",
+    "query": "Exit location?",
+    "answer": "Right back door."
+  },
+  "846": {
+    "path": "auditorium/puyallup_high_school_auditorium_67.jpg",
+    "query": "Way out?",
+    "answer": "Right rear exit."
+  },
+  "847": {
+    "path": "auditorium/auditorium_2__122.jpg",
+    "query": "Seating?",
+    "answer": "Choose any row."
+  },
+  "848": {
+    "path": "auditorium/auditorium_2__122.jpg",
+    "query": "Where to sit?",
+    "answer": "Aisle forward rows."
+  },
+  "849": {
+    "path": "corridor/CA_97_3_283_6_l.jpg",
+    "query": "Exit direction?",
+    "answer": "Right turn."
+  },
+  "850": {
+    "path": "corridor/CA_97_3_283_6_l.jpg",
+    "query": "Way out?",
+    "answer": "Go right."
+  },
+  "851": {
+    "path": "bookstore/bookstore_24_11_altavista.jpg",
+    "query": "Textbooks?",
+    "answer": "Right black shelves."
+  },
+  "852": {
+    "path": "bookstore/bookstore_24_11_altavista.jpg",
+    "query": "Find course books?",
+    "answer": "Right dark cases."
+  },
+  "853": {
+    "path": "bedroom/dscf0936.jpg",
+    "query": "Radiator position?",
+    "answer": "Below window."
+  },
+  "854": {
+    "path": "bedroom/dscf0936.jpg",
+    "query": "Find heater?",
+    "answer": "Window base front."
+  },
+  "855": {
+    "path": "bedroom/bedroom6.jpg",
+    "query": "Door location?",
+    "answer": "Front corner."
+  },
+  "856": {
+    "path": "bedroom/bedroom6.jpg",
+    "query": "Find exit?",
+    "answer": "Ahead room edge."
+  },
+  "857": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "Theater exit?",
+    "answer": "Rear doors."
+  },
+  "858": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "Way out?",
+    "answer": "Back wall exit."
+  },
+  "859": {
+    "path": "bookstore/bookstore_35_11_altavista.jpg",
+    "query": "Reading spot?",
+    "answer": "Left window side."
+  },
+  "860": {
+    "path": "bookstore/bookstore_35_11_altavista.jpg",
+    "query": "Find study area?",
+    "answer": "Left curtain windows."
+  },
+  "861": {
+    "path": "auditorium/518964327_72ac53c57a_o_1__13.jpg",
+    "query": "Balcony access?",
+    "answer": "Right stairs up."
+  },
+  "862": {
+    "path": "auditorium/518964327_72ac53c57a_o_1__13.jpg",
+    "query": "Upper seats?",
+    "answer": "Right staircase."
+  },
+  "863": {
+    "path": "restaurant/Photo_136.jpg",
+    "query": "Obstacle?",
+    "answer": "Left table."
+  },
+  "864": {
+    "path": "restaurant/Photo_136.jpg",
+    "query": "Blocked?",
+    "answer": "Yes, left table."
+  },
+  "865": {
+    "path": "stairscase/101.jpg",
+    "query": "Steps ahead?",
+    "answer": "Left coming."
+  },
+  "866": {
+    "path": "stairscase/101.jpg",
+    "query": "Stairs near?",
+    "answer": "Yes left."
+  },
+  "867": {
+    "path": "bedroom/indoor_0057.jpg",
+    "query": "Balcony access?",
+    "answer": "Past sofa glass."
+  },
+  "868": {
+    "path": "bedroom/indoor_0057.jpg",
+    "query": "Find balcony?",
+    "answer": "Through sliding doors."
+  },
+  "869": {
+    "path": "bathroom/indoor_0332.jpg",
+    "query": "Basket position?",
+    "answer": "Left nightstand."
+  },
+  "870": {
+    "path": "bathroom/indoor_0332.jpg",
+    "query": "Find basket?",
+    "answer": "Left table side."
+  },
+  "871": {
+    "path": "videostore/videoteca_13_10_altavista.jpg",
+    "query": "Clear path?",
+    "answer": "Yes."
+  },
+  "872": {
+    "path": "videostore/videoteca_13_10_altavista.jpg",
+    "query": "Obstacles?",
+    "answer": "None."
+  },
+  "873": {
+    "path": "bar/bar_0602.jpg",
+    "query": "Sitting area?",
+    "answer": "Ahead candle tables."
+  },
+  "874": {
+    "path": "bar/bar_0602.jpg",
+    "query": "Where to sit?",
+    "answer": "Front lit tables."
+  },
+  "875": {
+    "path": "auditorium/allan_20scott_20auditorium_web_1__21.jpg",
+    "query": "Exit location?",
+    "answer": "Left back doors."
+  },
+  "876": {
+    "path": "auditorium/allan_20scott_20auditorium_web_1__21.jpg",
+    "query": "Way out?",
+    "answer": "Left rear exit."
+  },
+  "877": {
+    "path": "livingroom/img_0048.jpg",
+    "query": "Door location?",
+    "answer": "Ahead few steps."
+  },
+  "878": {
+    "path": "livingroom/img_0048.jpg",
+    "query": "Find doorway?",
+    "answer": "Forward visible."
+  },
+  "879": {
+    "path": "stairscase/AT_04_03_2000_52_l.jpg",
+    "query": "Steps coming?",
+    "answer": "Left ahead."
+  },
+  "880": {
+    "path": "stairscase/AT_04_03_2000_52_l.jpg",
+    "query": "Stairs near?",
+    "answer": "Yes left."
+  },
+  "881": {
+    "path": "bedroom/indoor_0019.jpg",
+    "query": "TV location?",
+    "answer": "Left side, near wall."
+  },
+  "882": {
+    "path": "bedroom/indoor_0019.jpg",
+    "query": "Where's the TV?",
+    "answer": "On left by wall."
+  },
+  "883": {
+    "path": "bar/bar_0012.jpg",
+    "query": "Where to sit?",
+    "answer": "Go to counter stools."
+  },
+  "884": {
+    "path": "bar/bar_0012.jpg",
+    "query": "Seating options?",
+    "answer": "Stools at counter."
+  },
+  "885": {
+    "path": "auditorium/amphitheatre_bastille_1__23.jpg",
+    "query": "Path to podium?",
+    "answer": "Down steps to stage."
+  },
+  "886": {
+    "path": "auditorium/amphitheatre_bastille_1__23.jpg",
+    "query": "Get to speaker area?",
+    "answer": "Steps lead to stage."
+  },
+  "887": {
+    "path": "bathroom/img_1115.jpg",
+    "query": "Bathroom direction?",
+    "answer": "Straight ahead."
+  },
+  "888": {
+    "path": "bathroom/img_1115.jpg",
+    "query": "Where's the bathroom?",
+    "answer": "Ahead through doorway."
+  },
+  "889": {
+    "path": "waitingroom/800px_VTBS_Waiting_room_of_Thai_Airways.jpg",
+    "query": "Anything blocking me?",
+    "answer": "Two chairs ahead."
+  },
+  "890": {
+    "path": "waitingroom/800px_VTBS_Waiting_room_of_Thai_Airways.jpg",
+    "query": "Obstacles in front?",
+    "answer": "Yes, two chairs."
+  },
+  "891": {
+    "path": "waitingroom/waiting_room_33_15_altavista.jpg",
+    "query": "Chair in my way?",
+    "answer": "Yes, one ahead."
+  },
+  "892": {
+    "path": "waitingroom/waiting_room_33_15_altavista.jpg",
+    "query": "Obstacle ahead?",
+    "answer": "Chair in path."
+  },
+  "893": {
+    "path": "bedroom/indoor_0057.jpg",
+    "query": "Dining table location?",
+    "answer": "Left side near lamp."
+  },
+  "894": {
+    "path": "bedroom/indoor_0057.jpg",
+    "query": "Where's the table?",
+    "answer": "On left by chairs."
+  },
+  "895": {
+    "path": "bathroom/room357.jpg",
+    "query": "Toilet location?",
+    "answer": "Ahead by window."
+  },
+  "896": {
+    "path": "bathroom/room357.jpg",
+    "query": "Where's the toilet?",
+    "answer": "Straight ahead."
+  },
+  "897": {
+    "path": "videostore/videoteca_06_12_flickr.jpg",
+    "query": "Blocked path?",
+    "answer": "Yes, large shelf."
+  },
+  "898": {
+    "path": "videostore/videoteca_06_12_flickr.jpg",
+    "query": "Anything blocking?",
+    "answer": "Big shelf ahead."
+  },
+  "899": {
+    "path": "bookstore/bookstore_35_11_altavista.jpg",
+    "query": "Display table position?",
+    "answer": "Center of room."
+  },
+  "900": {
+    "path": "bookstore/bookstore_35_11_altavista.jpg",
+    "query": "Where to find display tables?",
+    "answer": "Middle area between shelves."
+  },
+  "901": {
+    "path": "bar/bar_0100.jpg",
+    "query": "Path to counter?",
+    "answer": "Straight ahead."
+  },
+  "902": {
+    "path": "bar/bar_0100.jpg",
+    "query": "Where's the bar?",
+    "answer": "Directly in front."
+  },
+  "903": {
+    "path": "kindergarden/100_0034.jpg",
+    "query": "Way out?",
+    "answer": "Forward then left."
+  },
+  "904": {
+    "path": "kindergarden/100_0034.jpg",
+    "query": "Exit route?",
+    "answer": "Go ahead, turn left."
+  },
+  "905": {
+    "path": "corridor/1st_floor_hallway.jpg",
+    "query": "Leave how?",
+    "answer": "Walk forward."
+  },
+  "906": {
+    "path": "corridor/1st_floor_hallway.jpg",
+    "query": "Exit direction?",
+    "answer": "Straight ahead."
+  },
+  "907": {
+    "path": "auditorium/amphi_1__81.jpg",
+    "query": "Control room location?",
+    "answer": "Behind you upstairs."
+  },
+  "908": {
+    "path": "auditorium/amphi_1__81.jpg",
+    "query": "Where's control?",
+    "answer": "Back near upper seats."
+  },
+  "909": {
+    "path": "waitingroom/1114_Milton_Road_3.jpg",
+    "query": "Fast exit?",
+    "answer": "Move forward."
+  },
+  "910": {
+    "path": "waitingroom/1114_Milton_Road_3.jpg",
+    "query": "Quick way out?",
+    "answer": "Go straight."
+  },
+  "911": {
+    "path": "auditorium/auditorium_101.jpg",
+    "query": "Control booth?",
+    "answer": "Back near top seats."
+  },
+  "912": {
+    "path": "auditorium/auditorium_101.jpg",
+    "query": "Booth location?",
+    "answer": "Rear upper area."
+  },
+  "913": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "Balcony access?",
+    "answer": "Stairs lead up."
+  },
+  "914": {
+    "path": "auditorium/theatreroyalbristolauditorium_1__74.jpg",
+    "query": "Upper seats?",
+    "answer": "Use side stairs."
+  },
+  "915": {
+    "path": "bathroom/interior016.jpg",
+    "query": "Toilet position?",
+    "answer": "Ahead by shelves."
+  },
+  "916": {
+    "path": "bathroom/interior016.jpg",
+    "query": "WC location?",
+    "answer": "Straight forward."
+  },
+  "917": {
+    "path": "bar/bar_0047.jpg",
+    "query": "Get to stage?",
+    "answer": "Walk to far end."
+  },
+  "918": {
+    "path": "bar/bar_0047.jpg",
+    "query": "Stage direction?",
+    "answer": "Straight to back."
+  },
+  "919": {
+    "path": "bookstore/bookstore_03_04_altavista.jpg",
+    "query": "Table displays?",
+    "answer": "Center room."
+  },
+  "920": {
+    "path": "bookstore/bookstore_03_04_altavista.jpg",
+    "query": "Where are tables?",
+    "answer": "Middle between aisles."
+  },
+  "921": {
+    "path": "auditorium/auditorium_photo1_af3f1_130.jpg",
+    "query": "Closest exit?",
+    "answer": "Back wall doors."
+  },
+  "922": {
+    "path": "auditorium/auditorium_photo1_af3f1_130.jpg",
+    "query": "Exit location?",
+    "answer": "Behind you."
+  },
+  "923": {
+    "path": "auditorium/auditorium45_114.jpg",
+    "query": "Path to piano?",
+    "answer": "Aisle leads to center stage."
+  },
+  "924": {
+    "path": "auditorium/auditorium45_114.jpg",
+    "query": "Where's stage piano?",
+    "answer": "Down aisle, center stage."
+  },
+  "925": {
+    "path": "restaurant/bistro_01_11_altavista.jpg",
+    "query": "Way out?",
+    "answer": "Forward then right."
+  },
+  "926": {
+    "path": "restaurant/bistro_01_11_altavista.jpg",
+    "query": "Exit route?",
+    "answer": "Straight, then right."
+  },
+  "927": {
+    "path": "restaurant/restaurant_46_13_altavista.jpg",
+    "query": "Blocked path?",
+    "answer": "Large table ahead."
+  },
+  "928": {
+    "path": "restaurant/restaurant_46_13_altavista.jpg",
+    "query": "Anything in way?",
+    "answer": "Big table front."
+  },
+  "929": {
+    "path": "corridor/2326_2.jpg",
+    "query": "Stairs nearby?",
+    "answer": "Yes, to your right."
+  },
+  "930": {
+    "path": "corridor/2326_2.jpg",
+    "query": "Steps ahead?",
+    "answer": "Right side stairs."
+  },
+  "931": {
+    "path": "computerroom/_7BB05260_2CB9_464F_8403_ABFA52061E3E_.jpg",
+    "query": "Blockage ahead?",
+    "answer": "Large floor table."
+  },
+  "932": {
+    "path": "computerroom/_7BB05260_2CB9_464F_8403_ABFA52061E3E_.jpg",
+    "query": "Anything blocking?",
+    "answer": "Yes, big table."
+  },
+  "933": {
+    "path": "bar/bar_0207.jpg",
+    "query": "Path to lounge?",
+    "answer": "Follow carpet, right side."
+  },
+  "934": {
+    "path": "bar/bar_0207.jpg",
+    "query": "Where's lounge?",
+    "answer": "Carpet leads right."
+  },
+  "935": {
+    "path": "restaurant/dsc000085ox.jpg",
+    "query": "Closest exit?",
+    "answer": "Ahead then left."
+  },
+  "936": {
+    "path": "restaurant/dsc000085ox.jpg",
+    "query": "Door location?",
+    "answer": "Forward, turn left."
+  },
+  "937": {
+    "path": "bedroom/dscf0936.jpg",
+    "query": "Wardrobe location?",
+    "answer": "Right by TV corner."
+  },
+  "938": {
+    "path": "bedroom/dscf0936.jpg",
+    "query": "Where's closet?",
+    "answer": "Right side near TV."
+  },
+  "939": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "Leave how?",
+    "answer": "Back wall doors."
+  },
+  "940": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "Exit direction?",
+    "answer": "Behind you."
+  },
+  "941": {
+    "path": "bar/bar_0243.jpg",
+    "query": "Dining section?",
+    "answer": "Right, black chairs."
+  },
+  "942": {
+    "path": "bar/bar_0243.jpg",
+    "query": "Where to dine?",
+    "answer": "Right side area."
+  },
+  "943": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "Balcony access?",
+    "answer": "Side stairs up."
+  },
+  "944": {
+    "path": "auditorium/auditorium_17_1__42.jpg",
+    "query": "Upper seats?",
+    "answer": "Use stairs either side."
+  },
+  "945": {
+    "path": "auditorium/b5_20auditorium_20stravinski_46.jpg",
+    "query": "Path to stage?",
+    "answer": "Down center aisle."
+  },
+  "946": {
+    "path": "auditorium/b5_20auditorium_20stravinski_46.jpg",
+    "query": "Stage direction?",
+    "answer": "Aisle leads forward."
+  },
+  "947": {
+    "path": "auditorium/amphi_gb2_1_1__22.jpg",
+    "query": "Where to sit?",
+    "answer": "Choose any forward row."
+  },
+  "948": {
+    "path": "auditorium/amphi_gb2_1_1__22.jpg",
+    "query": "Seating options?",
+    "answer": "Walk ahead, pick row."
+  },
+  "949": {
+    "path": "grocerystore/groceries01.jpg",
+    "query": "Clear path?",
+    "answer": "Yes, go straight."
+  },
+  "950": {
+    "path": "grocerystore/groceries01.jpg",
+    "query": "Obstacles ahead?",
+    "answer": "No, clear."
+  },
+  "951": {
+    "path": "auditorium/11472676233attendees_in_the_main_auditorium_1_1__3.jpg",
+    "query": "Path to podium?",
+    "answer": "Down aisle to stage."
+  },
+  "952": {
+    "path": "auditorium/11472676233attendees_in_the_main_auditorium_1_1__3.jpg",
+    "query": "Speaker's stand?",
+    "answer": "Aisle leads forward."
+  },
+  "953": {
+    "path": "restaurant/restaurante_28_20_altavista.jpg",
+    "query": "Stairs present?",
+    "answer": "None."
+  },
+  "954": {
+    "path": "restaurant/restaurante_28_20_altavista.jpg",
+    "query": "Any steps?",
+    "answer": "No stairs."
+  },
+  "955": {
+    "path": "bar/bar_0013.jpg",
+    "query": "Enter bar?",
+    "answer": "Pass tables to counter."
+  },
+  "956": {
+    "path": "bar/bar_0013.jpg",
+    "query": "Bar access?",
+    "answer": "Walk past tables."
+  },
+  "957": {
+    "path": "bedroom/bedroom6.jpg",
+    "query": "Chair position?",
+    "answer": "Left by window."
+  },
+  "958": {
+    "path": "bedroom/bedroom6.jpg",
+    "query": "Seat location?",
+    "answer": "Window side left."
+  },
+  "959": {
+    "path": "bar/bar_0021.jpg",
+    "query": "Path to darts?",
+    "answer": "Right past counter."
+  },
+  "960": {
+    "path": "bar/bar_0021.jpg",
+    "query": "Dartboard?",
+    "answer": "Turn right, go back."
+  },
+  "961": {
+    "path": "bookstore/00114320c9df07c3329506.jpg",
+    "query": "Magazine spot?",
+    "answer": "Left first aisle."
+  },
+  "962": {
+    "path": "bookstore/00114320c9df07c3329506.jpg",
+    "query": "Find magazines?",
+    "answer": "Left side start."
+  },
+  "963": {
+    "path": "bathroom/indoor_0332.jpg",
+    "query": "Bathroom direction?",
+    "answer": "Past bed doorway."
+  },
+  "964": {
+    "path": "bathroom/indoor_0332.jpg",
+    "query": "Where's bathroom?",
+    "answer": "Ahead past bed."
+  },
+  "965": {
+    "path": "bar/bar_0169.jpg",
+    "query": "Entry door?",
+    "answer": "Back at glass."
+  },
+  "966": {
+    "path": "bar/bar_0169.jpg",
+    "query": "Main entrance?",
+    "answer": "Behind glass panels."
+  },
+  "967": {
+    "path": "bedroom/IMG_3202.jpg",
+    "query": "Path to seats?",
+    "answer": "Past bed, through partition."
+  },
+  "968": {
+    "path": "bedroom/IMG_3202.jpg",
+    "query": "Sitting area?",
+    "answer": "Beyond bed ahead."
+  },
+  "969": {
+    "path": "bookstore/bookstore_16_24_flickr.jpg",
+    "query": "Upstairs shelves?",
+    "answer": "Balcony, left stairs."
+  },
+  "970": {
+    "path": "bookstore/bookstore_16_24_flickr.jpg",
+    "query": "Higher books?",
+    "answer": "Left stairs up."
+  },
+  "971": {
+    "path": "kindergarden/Classroom_109.jpg",
+    "query": "Path to TV?",
+    "answer": "Right, left, then right."
+  },
+  "972": {
+    "path": "kindergarden/Classroom_109.jpg",
+    "query": "Find television?",
+    "answer": "Right-left-right steps."
+  },
+  "973": {
+    "path": "corridor/va_04_01_5000_32_l.jpg",
+    "query": "Stairs location?",
+    "answer": "Immediate right."
+  },
+  "974": {
+    "path": "corridor/va_04_01_5000_32_l.jpg",
+    "query": "Steps nearby?",
+    "answer": "Right beside you."
+  },
+  "975": {
+    "path": "bedroom/IMG_8705.jpg",
+    "query": "Desk position?",
+    "answer": "Ahead by chair."
+  },
+  "976": {
+    "path": "bedroom/IMG_8705.jpg",
+    "query": "Work area?",
+    "answer": "Front center."
+  },
+  "977": {
+    "path": "restaurant/redr.jpg",
+    "query": "Nearest exit?",
+    "answer": "Forward then right."
+  },
+  "978": {
+    "path": "restaurant/redr.jpg",
+    "query": "Door location?",
+    "answer": "Few steps right."
+  },
+  "979": {
+    "path": "bedroom/Gold_Class_600SS_Room_King.jpg",
+    "query": "Nightstand?",
+    "answer": "Left bedside."
+  },
+  "980": {
+    "path": "bedroom/Gold_Class_600SS_Room_King.jpg",
+    "query": "Side table?",
+    "answer": "Left near lamp."
+  },
+  "981": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Balcony seats?",
+    "answer": "Right stairs up."
+  },
+  "982": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Higher level?",
+    "answer": "Ascend right stairs."
+  },
+  "983": {
+    "path": "auditorium/audit400_1__89.jpg",
+    "query": "Seating?",
+    "answer": "Pick forward row."
+  },
+  "984": {
+    "path": "auditorium/audit400_1__89.jpg",
+    "query": "Where to sit?",
+    "answer": "Any front row."
+  },
+  "985": {
+    "path": "restaurant/ristorante_1.jpg",
+    "query": "Blocked path?",
+    "answer": "Many tables/chairs."
+  },
+  "986": {
+    "path": "restaurant/ristorante_1.jpg",
+    "query": "Clear way?",
+    "answer": "No, furniture ahead."
+  },
+  "987": {
+    "path": "bar/bar_0047.jpg",
+    "query": "Sitting spots?",
+    "answer": "Throughout room."
+  },
+  "988": {
+    "path": "bar/bar_0047.jpg",
+    "query": "Dining space?",
+    "answer": "All around area."
+  },
+  "989": {
+    "path": "kitchen/int474.jpg",
+    "query": "Fridge location?",
+    "answer": "Forward then left."
+  },
+  "990": {
+    "path": "kitchen/int474.jpg",
+    "query": "Get to fridge?",
+    "answer": "Few steps, left side."
+  },
+  "991": {
+    "path": "videostore/videoclub_14_07_altavista.jpg",
+    "query": "Blockage ahead?",
+    "answer": "Clear, chair right."
+  },
+  "992": {
+    "path": "videostore/videoclub_14_07_altavista.jpg",
+    "query": "Path clear?",
+    "answer": "Yes, chair aside."
+  },
+  "993": {
+    "path": "waitingroom/salat2.jpg",
+    "query": "Quick exit?",
+    "answer": "Move ahead."
+  },
+  "994": {
+    "path": "waitingroom/salat2.jpg",
+    "query": "Easiest way out?",
+    "answer": "Walk straight."
+  },
+  "995": {
+    "path": "bar/bar_0444.jpg",
+    "query": "Path to stools?",
+    "answer": "Past tables, left side."
+  },
+  "996": {
+    "path": "bar/bar_0444.jpg",
+    "query": "Find bar seats?",
+    "answer": "Forward, left at counter."
+  },
+  "997": {
+    "path": "stairscase/bergot2.jpg",
+    "query": "Stairs ahead?",
+    "answer": "Yes, straight."
+  },
+  "998": {
+    "path": "stairscase/bergot2.jpg",
+    "query": "Steps coming?",
+    "answer": "Yes, forward."
+  },
+  "999": {
+    "path": "stairscase/1115735139.jpg",
+    "query": "Nearby stairs?",
+    "answer": "Left ahead."
+  },
+  "1000": {
+    "path": "stairscase/1115735139.jpg",
+    "query": "Steps nearby?",
+    "answer": "Yes, forward left."
+  },
+  "1001": {
+    "path": "auditorium/d38_img_1758_1__145.jpg",
+    "query": "Path to desk?",
+    "answer": "Down aisle forward."
+  },
+  "1002": {
+    "path": "auditorium/d38_img_1758_1__145.jpg",
+    "query": "Find lecturer's spot?",
+    "answer": "Aisle leads front."
+  },
+  "1003": {
+    "path": "corridor/5_1_02_Corridor_2.jpg",
+    "query": "Leave how?",
+    "answer": "Few steps out."
+  },
+  "1004": {
+    "path": "corridor/5_1_02_Corridor_2.jpg",
+    "query": "Way out?",
+    "answer": "Straight ahead."
+  },
+  "1005": {
+    "path": "bar/bar_0169.jpg",
+    "query": "Path to dining?",
+    "answer": "Past column, left."
+  },
+  "1006": {
+    "path": "bar/bar_0169.jpg",
+    "query": "Find eating area?",
+    "answer": "Forward, left windows."
+  },
+  "1007": {
+    "path": "auditorium/concert_143.jpg",
+    "query": "Leave how?",
+    "answer": "Back left to doors."
+  },
+  "1008": {
+    "path": "auditorium/concert_143.jpg",
+    "query": "Exit route?",
+    "answer": "Rear left corridor."
+  },
+  "1009": {
+    "path": "bedroom/child4.jpg",
+    "query": "Table location?",
+    "answer": "Center ahead."
+  },
+  "1010": {
+    "path": "bedroom/child4.jpg",
+    "query": "Where's table?",
+    "answer": "Middle room."
+  },
+  "1011": {
+    "path": "bar/bar_0015.jpg",
+    "query": "Path to darts?",
+    "answer": "Right past counter."
+  },
+  "1012": {
+    "path": "bar/bar_0015.jpg",
+    "query": "Find dartboard?",
+    "answer": "Right then back."
+  },
+  "1013": {
+    "path": "bathroom/pittsburgh_IMG_4080.jpg",
+    "query": "Sink position?",
+    "answer": "Left side."
+  },
+  "1014": {
+    "path": "bathroom/pittsburgh_IMG_4080.jpg",
+    "query": "Where's sink?",
+    "answer": "Left counter."
+  },
+  "1015": {
+    "path": "auditorium/auditorium68_115.jpg",
+    "query": "Screen location?",
+    "answer": "Front above board."
+  },
+  "1016": {
+    "path": "auditorium/auditorium68_115.jpg",
+    "query": "Where's display?",
+    "answer": "Ahead high."
+  },
+  "1017": {
+    "path": "corridor/n457069.jpg",
+    "query": "Rest spot?",
+    "answer": "Left side."
+  },
+  "1018": {
+    "path": "corridor/n457069.jpg",
+    "query": "Seating nearby?",
+    "answer": "Immediate left."
+  },
+  "1019": {
+    "path": "waitingroom/WtRoomJan06.jpg",
+    "query": "Blocked path?",
+    "answer": "Many chairs."
+  },
+  "1020": {
+    "path": "waitingroom/WtRoomJan06.jpg",
+    "query": "Clear way?",
+    "answer": "No, chairs ahead."
+  },
+  "1021": {
+    "path": "auditorium/amphitheatre1_1__24.jpg",
+    "query": "Seating?",
+    "answer": "Pick forward row."
+  },
+  "1022": {
+    "path": "auditorium/amphitheatre1_1__24.jpg",
+    "query": "Where to sit?",
+    "answer": "Any front row."
+  },
+  "1023": {
+    "path": "waitingroom/Waiting_Room_1.jpg",
+    "query": "Safe exit?",
+    "answer": "Ahead then right."
+  },
+  "1024": {
+    "path": "waitingroom/Waiting_Room_1.jpg",
+    "query": "Leave safely?",
+    "answer": "Forward, turn right."
+  },
+  "1025": {
+    "path": "bookstore/bookstore_01.jpg",
+    "query": "Cards location?",
+    "answer": "Center stand."
+  },
+  "1026": {
+    "path": "bookstore/bookstore_01.jpg",
+    "query": "Find greeting cards?",
+    "answer": "Middle rotating display."
+  },
+  "1027": {
+    "path": "corridor/pasillo_1_c.jpg",
+    "query": "Room direction?",
+    "answer": "Right few steps."
+  },
+  "1028": {
+    "path": "corridor/pasillo_1_c.jpg",
+    "query": "Way to room?",
+    "answer": "Turn right."
+  },
+  "1029": {
+    "path": "waitingroom/egf_waitingroom.jpg",
+    "query": "Exit path?",
+    "answer": "Straight, left door."
+  },
+  "1030": {
+    "path": "waitingroom/egf_waitingroom.jpg",
+    "query": "Leave how?",
+    "answer": "Forward, exit left."
+  },
+  "1031": {
+    "path": "corridor/c4.jpg",
+    "query": "Door distance?",
+    "answer": "100m ahead."
+  },
+  "1032": {
+    "path": "corridor/c4.jpg",
+    "query": "How to exit?",
+    "answer": "Walk 100m forward."
+  },
+  "1033": {
+    "path": "auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg",
+    "query": "Control spot?",
+    "answer": "Back upper wall."
+  },
+  "1034": {
+    "path": "auditorium/9_auditorium_20balcony_20contemporary_20_the_20carlu__20.jpg",
+    "query": "Booth location?",
+    "answer": "Rear high area."
+  },
+  "1035": {
+    "path": "meeting_room/meeting_room1_1.jpg",
+    "query": "Leave how?",
+    "answer": "Right, left forward."
+  },
+  "1036": {
+    "path": "meeting_room/meeting_room1_1.jpg",
+    "query": "Exit route?",
+    "answer": "Right then left."
+  },
+  "1037": {
+    "path": "bedroom/IMG_1566.jpg",
+    "query": "Nightstand?",
+    "answer": "Right bedside."
+  },
+  "1038": {
+    "path": "bedroom/IMG_1566.jpg",
+    "query": "Side table?",
+    "answer": "Right near lamp."
+  },
+  "1039": {
+    "path": "restaurant/food4_450.jpg",
+    "query": "Exit how?",
+    "answer": "Few steps forward."
+  },
+  "1040": {
+    "path": "restaurant/food4_450.jpg",
+    "query": "Leave path?",
+    "answer": "Walk straight."
+  },
+  "1041": {
+    "path": "restaurant/restaurant_18_15_altavista.jpg",
+    "query": "Clear path?",
+    "answer": "Yes, proceed."
+  },
+  "1042": {
+    "path": "restaurant/restaurant_18_15_altavista.jpg",
+    "query": "Obstacles?",
+    "answer": "None ahead."
+  },
+  "1043": {
+    "path": "meeting_room/P1010091.jpg",
+    "query": "Path to whiteboard?",
+    "answer": "Left then forward."
+  },
+  "1044": {
+    "path": "meeting_room/P1010091.jpg",
+    "query": "Whiteboard direction?",
+    "answer": "Turn left ahead."
+  },
+  "1045": {
+    "path": "stairscase/273_2_zoom_1_aminta_grand_hotel_sorrento_lounge.jpg",
+    "query": "Stairs ahead?",
+    "answer": "Yes, straight."
+  },
+  "1046": {
+    "path": "stairscase/273_2_zoom_1_aminta_grand_hotel_sorrento_lounge.jpg",
+    "query": "Steps visible?",
+    "answer": "Front center."
+  },
+  "1047": {
+    "path": "bakery/boulangerie_26_18_yahoo.jpg",
+    "query": "Counter path?",
+    "answer": "Past tables, right side."
+  },
+  "1048": {
+    "path": "bakery/boulangerie_26_18_yahoo.jpg",
+    "query": "Find bakery counter?",
+    "answer": "Forward, right display."
+  },
+  "1049": {
+    "path": "bar/bar_0316.jpg",
+    "query": "Sitting area?",
+    "answer": "Ahead blue furniture."
+  },
+  "1050": {
+    "path": "bar/bar_0316.jpg",
+    "query": "Chairs location?",
+    "answer": "Front center."
+  },
+  "1051": {
+    "path": "auditorium/amphi_p_1__82.jpg",
+    "query": "Closest exit?",
+    "answer": "Right rear."
+  },
+  "1052": {
+    "path": "auditorium/amphi_p_1__82.jpg",
+    "query": "Exit location?",
+    "answer": "Back right wall."
+  },
+  "1053": {
+    "path": "restaurant/restaurant_23_18_altavista.jpg",
+    "query": "Blockage?",
+    "answer": "Table ahead."
+  },
+  "1054": {
+    "path": "restaurant/restaurant_23_18_altavista.jpg",
+    "query": "Clear path?",
+    "answer": "No, table front."
+  },
+  "1055": {
+    "path": "bar/bar_0009.jpg",
+    "query": "Drinks location?",
+    "answer": "Behind counter right."
+  },
+  "1056": {
+    "path": "bar/bar_0009.jpg",
+    "query": "Find beverages?",
+    "answer": "Right past counter."
+  },
+  "1057": {
+    "path": "bedroom/aa016560.jpg",
+    "query": "Fireplace spot?",
+    "answer": "Ahead by chairs."
+  },
+  "1058": {
+    "path": "bedroom/aa016560.jpg",
+    "query": "Hearth location?",
+    "answer": "Front center."
+  },
+  "1059": {
+    "path": "auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg",
+    "query": "Stage direction?",
+    "answer": "Down aisle front."
+  },
+  "1060": {
+    "path": "auditorium/amphitheatre_cite_internationale_lyon_1__26.jpg",
+    "query": "Performance area?",
+    "answer": "Forward platform."
+  },
+  "1061": {
+    "path": "restaurant/salle45.jpg",
+    "query": "Staircase present?",
+    "answer": "None."
+  },
+  "1062": {
+    "path": "restaurant/salle45.jpg",
+    "query": "Any steps?",
+    "answer": "No stairs."
+  },
+  "1063": {
+    "path": "bakery/famous_bakery_06_16_altavista.jpg",
+    "query": "Oven location?",
+    "answer": "Ahead past left stations."
+  },
+  "1064": {
+    "path": "bakery/famous_bakery_06_16_altavista.jpg",
+    "query": "Where are ovens?",
+    "answer": "Forward left area."
+  },
+  "1065": {
+    "path": "restaurant/restaurant_12_08_altavista.jpg",
+    "query": "Obstacle?",
+    "answer": "Long table ahead."
+  },
+  "1066": {
+    "path": "restaurant/restaurant_12_08_altavista.jpg",
+    "query": "Blocked path?",
+    "answer": "Yes, table."
+  },
+  "1067": {
+    "path": "auditorium/auditorium_465x309_1__127.jpg",
+    "query": "Backstage?",
+    "answer": "Right stage side."
+  },
+  "1068": {
+    "path": "auditorium/auditorium_465x309_1__127.jpg",
+    "query": "Stage door?",
+    "answer": "Right near platform."
+  },
+  "1069": {
+    "path": "corridor/staffroom_corridor.jpg",
+    "query": "Exit route?",
+    "answer": "Few meters to door."
+  },
+  "1070": {
+    "path": "corridor/staffroom_corridor.jpg",
+    "query": "Leave how?",
+    "answer": "Forward to exit."
+  },
+  "1071": {
+    "path": "bakery/new_bakery_23_03_altavista.jpg",
+    "query": "Shelves location?",
+    "answer": "Ahead past counter."
+  },
+  "1072": {
+    "path": "bakery/new_bakery_23_03_altavista.jpg",
+    "query": "Find product shelves?",
+    "answer": "Forward wall side."
+  },
+  "1073": {
+    "path": "bookstore/bookstore_19_16_altavista.jpg",
+    "query": "Shelves position?",
+    "answer": "Back wall ahead."
+  },
+  "1074": {
+    "path": "bookstore/bookstore_19_16_altavista.jpg",
+    "query": "Book storage?",
+    "answer": "Front center shelves."
+  },
+  "1075": {
+    "path": "lobby/lobby20.jpg",
+    "query": "Upstairs access?",
+    "answer": "Front left stairs."
+  },
+  "1076": {
+    "path": "lobby/lobby20.jpg",
+    "query": "Find staircase?",
+    "answer": "Ahead left side."
+  },
+  "1077": {
+    "path": "stairscase/0341_treppe.jpg",
+    "query": "Steps ahead?",
+    "answer": "Right side."
+  },
+  "1078": {
+    "path": "stairscase/0341_treppe.jpg",
+    "query": "Stairway nearby?",
+    "answer": "Yes, to right."
+  },
+  "1079": {
+    "path": "bathroom/dsc3101.jpg",
+    "query": "WC position?",
+    "answer": "Ahead doorway."
+  },
+  "1080": {
+    "path": "bathroom/dsc3101.jpg",
+    "query": "Toilet spot?",
+    "answer": "Straight through door."
+  },
+  "1081": {
+    "path": "auditorium/280974993_7e04c2dd2d_1__5.jpg",
+    "query": "Control area?",
+    "answer": "Back left door."
+  },
+  "1082": {
+    "path": "auditorium/280974993_7e04c2dd2d_1__5.jpg",
+    "query": "Tech room?",
+    "answer": "Rear left entry."
+  },
+  "1083": {
+    "path": "bar/bar_0156.jpg",
+    "query": "Exit location?",
+    "answer": "Left decorated wall."
+  },
+  "1084": {
+    "path": "bar/bar_0156.jpg",
+    "query": "Way out?",
+    "answer": "Left side near art."
+  },
+  "1085": {
+    "path": "auditorium/star_20auditorium_202_20k_1__71.jpg",
+    "query": "Path to center table?",
+    "answer": "Forward then left."
+  },
+  "1086": {
+    "path": "auditorium/star_20auditorium_202_20k_1__71.jpg",
+    "query": "Find main table?",
+    "answer": "Walk ahead, turn left."
+  },
+  "1087": {
+    "path": "bathroom/b6.jpg",
+    "query": "Toilet location?",
+    "answer": "Left by radiator."
+  },
+  "1088": {
+    "path": "bathroom/b6.jpg",
+    "query": "WC position?",
+    "answer": "Left side near bin."
+  },
+  "1089": {
+    "path": "bar/bar_0177.jpg",
+    "query": "Exit direction?",
+    "answer": "Ahead past left racks."
+  },
+  "1090": {
+    "path": "bar/bar_0177.jpg",
+    "query": "Door location?",
+    "answer": "Forward, left coats."
+  },
+  "1091": {
+    "path": "bedroom/bed140.jpg",
+    "query": "Closet position?",
+    "answer": "Front right wall."
+  },
+  "1092": {
+    "path": "bedroom/bed140.jpg",
+    "query": "Wardrobe spot?",
+    "answer": "Ahead by window."
+  },
+  "1093": {
+    "path": "meeting_room/salle_reunion11.jpg",
+    "query": "Exit path?",
+    "answer": "Left, right, left."
+  },
+  "1094": {
+    "path": "meeting_room/salle_reunion11.jpg",
+    "query": "Door route?",
+    "answer": "Left then right turns."
+  },
+  "1095": {
+    "path": "bar/bar_0015.jpg",
+    "query": "Sitting area?",
+    "answer": "Front by stools."
+  },
+  "1096": {
+    "path": "bar/bar_0015.jpg",
+    "query": "Seats location?",
+    "answer": "Center near bar."
+  },
+  "1097": {
+    "path": "bar/bar_0402.jpg",
+    "query": "Counter position?",
+    "answer": "Left side."
+  },
+  "1098": {
+    "path": "bar/bar_0402.jpg",
+    "query": "Bar location?",
+    "answer": "Left with stools."
+  },
+  "1099": {
+    "path": "bedroom/IMG_4830.jpg",
+    "query": "Door location?",
+    "answer": "Ahead past TV."
+  },
+  "1100": {
+    "path": "bedroom/IMG_4830.jpg",
+    "query": "Exit position?",
+    "answer": "Front corner."
+  },
+  "1101": {
+    "path": "bar/bar_0312.jpg",
+    "query": "Counter spot?",
+    "answer": "Front center."
+  },
+  "1102": {
+    "path": "bar/bar_0312.jpg",
+    "query": "Bar position?",
+    "answer": "Ahead with bottles."
+  },
+  "1103": {
+    "path": "restaurant/restaurant_23_05_altavista.jpg",
+    "query": "Blocked path?",
+    "answer": "Many chairs."
+  },
+  "1104": {
+    "path": "restaurant/restaurant_23_05_altavista.jpg",
+    "query": "Clear way?",
+    "answer": "No, chairs ahead."
+  },
+  "1105": {
+    "path": "bar/bar_0104.jpg",
+    "query": "Lounge spot?",
+    "answer": "Right yellow couches."
+  },
+  "1106": {
+    "path": "bar/bar_0104.jpg",
+    "query": "Relax area?",
+    "answer": "Right side sofas."
+  },
+  "1107": {
+    "path": "auditorium/amphitheatre1_1__24.jpg",
+    "query": "Lecturer spot?",
+    "answer": "Front stage."
+  },
+  "1108": {
+    "path": "auditorium/amphitheatre1_1__24.jpg",
+    "query": "Podium location?",
+    "answer": "Center front."
+  },
+  "1109": {
+    "path": "bedroom/imagem_003.jpg",
+    "query": "Bathroom path?",
+    "answer": "Ahead through door."
+  },
+  "1110": {
+    "path": "bedroom/imagem_003.jpg",
+    "query": "WC direction?",
+    "answer": "Forward past dresser."
+  },
+  "1111": {
+    "path": "restaurant/interior.jpg",
+    "query": "Exit how?",
+    "answer": "Few steps forward."
+  },
+  "1112": {
+    "path": "restaurant/interior.jpg",
+    "query": "Way out?",
+    "answer": "Straight ahead."
+  },
+  "1113": {
+    "path": "bar/bar_0354.jpg",
+    "query": "Counter location?",
+    "answer": "Right wood panel."
+  },
+  "1114": {
+    "path": "bar/bar_0354.jpg",
+    "query": "Bar spot?",
+    "answer": "Right side."
+  },
+  "1115": {
+    "path": "auditorium/auditorium_topview_1__135.jpg",
+    "query": "Path to lower seats?",
+    "answer": "Down front stairs."
+  },
+  "1116": {
+    "path": "auditorium/auditorium_topview_1__135.jpg",
+    "query": "Lower level?",
+    "answer": "Stairs ahead down."
+  },
+  "1117": {
+    "path": "bookstore/108_htmlarea_perso_630_1_L.jpg",
+    "query": "Table position?",
+    "answer": "Right lamp side."
+  },
+  "1118": {
+    "path": "bookstore/108_htmlarea_perso_630_1_L.jpg",
+    "query": "Display spot?",
+    "answer": "Right near lights."
+  },
+  "1119": {
+    "path": "mall/SHOPPING_MALL_PIC.jpg",
+    "query": "Upper level access?",
+    "answer": "Front escalator."
+  },
+  "1120": {
+    "path": "mall/SHOPPING_MALL_PIC.jpg",
+    "query": "Stairs location?",
+    "answer": "Escalator ahead."
+  },
+  "1121": {
+    "path": "waitingroom/be158920.jpg",
+    "query": "Quick exit?",
+    "answer": "Left-right forward."
+  },
+  "1122": {
+    "path": "waitingroom/be158920.jpg",
+    "query": "Leave path?",
+    "answer": "Left then right."
+  },
+  "1123": {
+    "path": "bar/bar_0604.jpg",
+    "query": "Dining spot?",
+    "answer": "Left with black chairs."
+  },
+  "1124": {
+    "path": "bar/bar_0604.jpg",
+    "query": "Eating area?",
+    "answer": "Left round tables."
+  },
+  "1125": {
+    "path": "bakery/boulangerie_06_21_yahoo.jpg",
+    "query": "Display path?",
+    "answer": "Forward to wooden shelf."
+  },
+  "1126": {
+    "path": "bakery/boulangerie_06_21_yahoo.jpg",
+    "query": "Find baked goods?",
+    "answer": "Ahead curved display."
+  },
+  "1127": {
+    "path": "auditorium/auditorium_topview_1__135.jpg",
+    "query": "Leave how?",
+    "answer": "Up stairs to doors."
+  },
+  "1128": {
+    "path": "auditorium/auditorium_topview_1__135.jpg",
+    "query": "Exit route?",
+    "answer": "Ascend stairs out."
+  },
+  "1129": {
+    "path": "bedroom/IMG_4829.jpg",
+    "query": "Bed location?",
+    "answer": "Ahead by art."
+  },
+  "1130": {
+    "path": "bedroom/IMG_4829.jpg",
+    "query": "Find bed?",
+    "answer": "Center near wall."
+  },
+  "1131": {
+    "path": "bedroom/child4.jpg",
+    "query": "Toy storage?",
+    "answer": "Right above bed."
+  },
+  "1132": {
+    "path": "bedroom/child4.jpg",
+    "query": "Shelf position?",
+    "answer": "Right window side."
+  },
+  "1133": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Stage direction?",
+    "answer": "Front past seats."
+  },
+  "1134": {
+    "path": "auditorium/sp_auditorium_1907_3_1__175.jpg",
+    "query": "Performance area?",
+    "answer": "Ahead center."
+  },
+  "1135": {
+    "path": "bookstore/bookstore_19_16_altavista.jpg",
+    "query": "Table location?",
+    "answer": "Middle of room."
+  },
+  "1136": {
+    "path": "bookstore/bookstore_19_16_altavista.jpg",
+    "query": "Find display?",
+    "answer": "Center shelves."
+  },
+  "1137": {
+    "path": "restaurant/bistro_01_03_altavista.jpg",
+    "query": "Exit path?",
+    "answer": "Left then right."
+  },
+  "1138": {
+    "path": "restaurant/bistro_01_03_altavista.jpg",
+    "query": "Leave how?",
+    "answer": "Left-forward-right."
+  },
+  "1139": {
+    "path": "restaurant/Salle_de_Restaurant_2.jpg",
+    "query": "Obstacle ahead?",
+    "answer": "Table front."
+  },
+  "1140": {
+    "path": "restaurant/Salle_de_Restaurant_2.jpg",
+    "query": "Clear path?",
+    "answer": "No, table."
+  },
+  "1141": {
+    "path": "corridor/050709_bild7_Schulhaus_Korridor.jpg",
+    "query": "Clear way?",
+    "answer": "Yes, proceed."
+  },
+  "1142": {
+    "path": "corridor/050709_bild7_Schulhaus_Korridor.jpg",
+    "query": "Blockage?",
+    "answer": "None ahead."
+  },
+  "1143": {
+    "path": "bedroom/IMG_9810.jpg",
+    "query": "Desk position?",
+    "answer": "Left lamp side."
+  },
+  "1144": {
+    "path": "bedroom/IMG_9810.jpg",
+    "query": "Work area?",
+    "answer": "Left with chair."
+  },
+  "1145": {
+    "path": "bar/bar_0136.jpg",
+    "query": "Counter path?",
+    "answer": "Forward left side."
+  },
+  "1146": {
+    "path": "bar/bar_0136.jpg",
+    "query": "Find bar?",
+    "answer": "Ahead left chairs."
+  },
+  "1147": {
+    "path": "restaurant/restaurante_19_15_altavista.jpg",
+    "query": "Clear path?",
+    "answer": "Yes, proceed."
+  },
+  "1148": {
+    "path": "restaurant/restaurante_19_15_altavista.jpg",
+    "query": "Blockage?",
+    "answer": "None ahead."
+  },
+  "1149": {
+    "path": "waitingroom/7.jpg",
+    "query": "Obstacle?",
+    "answer": "Chair front."
+  },
+  "1150": {
+    "path": "waitingroom/7.jpg",
+    "query": "Blocked?",
+    "answer": "Yes, chair."
+  },
+  "1151": {
+    "path": "auditorium/auditorium_6__126.jpg",
+    "query": "Closest exit?",
+    "answer": "Back left doors."
+  },
+  "1152": {
+    "path": "auditorium/auditorium_6__126.jpg",
+    "query": "Leave how?",
+    "answer": "Rear left exit."
+  },
+  "1153": {
+    "path": "auditorium/amphi01_1__77.jpg",
+    "query": "Seating?",
+    "answer": "Choose front row."
+  },
+  "1154": {
+    "path": "auditorium/amphi01_1__77.jpg",
+    "query": "Where to sit?",
+    "answer": "Any forward seat."
+  },
+  "1155": {
+    "path": "auditorium/auditorium_1__121.jpg",
+    "query": "Podium path?",
+    "answer": "Down aisle forward."
+  },
+  "1156": {
+    "path": "auditorium/auditorium_1__121.jpg",
+    "query": "Speaker's spot?",
+    "answer": "Aisle leads front."
+  },
+  "1157": {
+    "path": "office/office1.jpg",
+    "query": "Window direction?",
+    "answer": "Right then left."
+  },
+  "1158": {
+    "path": "office/office1.jpg",
+    "query": "Find window?",
+    "answer": "Turn right-left."
+  },
+  "1159": {
+    "path": "bedroom/easyst031.jpg",
+    "query": "Dresser location?",
+    "answer": "Left by plant."
+  },
+  "1160": {
+    "path": "bedroom/easyst031.jpg",
+    "query": "Find green cabinet?",
+    "answer": "Left wall side."
+  },
+  "1161": {
+    "path": "auditorium/b5_20auditorium_20stravinski_46.jpg",
+    "query": "Leave how?",
+    "answer": "Back wall doors."
+  },
+  "1162": {
+    "path": "auditorium/b5_20auditorium_20stravinski_46.jpg",
+    "query": "Exit route?",
+    "answer": "Rear exit."
+  },
+  "1163": {
+    "path": "bar/bar_0044.jpg",
+    "query": "Counter location?",
+    "answer": "Ahead past seats."
+  },
+  "1164": {
+    "path": "bar/bar_0044.jpg",
+    "query": "Bar position?",
+    "answer": "Forward seating area."
+  },
+  "1165": {
+    "path": "bar/bar_0024.jpg",
+    "query": "Bathroom direction?",
+    "answer": "Forward then left."
+  },
+  "1166": {
+    "path": "bar/bar_0024.jpg",
+    "query": "WC location?",
+    "answer": "Ahead left corner."
+  },
+  "1167": {
+    "path": "restaurant/2006_11_tastingroom.jpg",
+    "query": "Blocked path?",
+    "answer": "Table ahead."
+  },
+  "1168": {
+    "path": "restaurant/2006_11_tastingroom.jpg",
+    "query": "Clear way?",
+    "answer": "No, table front."
+  },
+  "1169": {
+    "path": "bedroom/img_1039.jpg",
+    "query": "Bed position?",
+    "answer": "Center with duvet."
+  },
+  "1170": {
+    "path": "bedroom/img_1039.jpg",
+    "query": "Find bed?",
+    "answer": "Ahead colorful cover."
+  },
+  "1171": {
+    "path": "gameroom/CA_97_5_294_22_l.jpg",
+    "query": "Stairs nearby?",
+    "answer": "Left side."
+  },
+  "1172": {
+    "path": "gameroom/CA_97_5_294_22_l.jpg",
+    "query": "Steps ahead?",
+    "answer": "Yes, left."
+  },
+  "1173": {
+    "path": "bookstore/bookstore_19_13_altavista.jpg",
+    "query": "Gifts location?",
+    "answer": "Past packaging right."
+  },
+  "1174": {
+    "path": "bookstore/bookstore_19_13_altavista.jpg",
+    "query": "Find presents?",
+    "answer": "Right wall past packages."
+  },
+  "1175": {
+    "path": "bathroom/b5.jpg",
+    "query": "Sink position?",
+    "answer": "Ahead left side."
+  },
+  "1176": {
+    "path": "bathroom/b5.jpg",
+    "query": "Find sink?",
+    "answer": "Front left wall."
+  },
+  "1177": {
+    "path": "auditorium/amphi_gb2_1_1__22.jpg",
+    "query": "Upper seats?",
+    "answer": "Side stairs up."
+  },
+  "1178": {
+    "path": "auditorium/amphi_gb2_1_1__22.jpg",
+    "query": "Balcony access?",
+    "answer": "Left/right stairs."
+  },
+  "1179": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "Upper shops?",
+    "answer": "Escalator up."
+  },
+  "1180": {
+    "path": "auditorium/sisli_1__174.jpg",
+    "query": "Shopping level?",
+    "answer": "Ride escalator ahead."
+  },
+  "1181": {
+    "path": "bar/bar_0087.jpg",
+    "query": "Entry location?",
+    "answer": "left near sign."
+  },
+  "1182": {
+    "path": "bar/bar_0087.jpg",
+    "query": "Main door?",
+    "answer": "Left by Caffrey's."
+  },
+  "1183": {
+    "path": "bakery/boulangerie_47_14_altavista.jpg",
+    "query": "Trash location?",
+    "answer": "Past bread right."
+  },
+  "1184": {
+    "path": "bakery/boulangerie_47_14_altavista.jpg",
+    "query": "Find bin?",
+    "answer": "Right near counter."
+  },
+  "1185": {
+    "path": "auditorium/auditorium_photo1_af3f1_130.jpg",
+    "query": "Podium path?",
+    "answer": "Aisle to stage."
+  },
+  "1186": {
+    "path": "auditorium/auditorium_photo1_af3f1_130.jpg",
+    "query": "Speaker's spot?",
+    "answer": "Down center aisle."
+  },
+  "1187": {
+    "path": "grocerystore/023_supermarkt.jpg",
+    "query": "Exit how?",
+    "answer": "Door ahead."
+  },
+  "1188": {
+    "path": "grocerystore/023_supermarkt.jpg",
+    "query": "Leave path?",
+    "answer": "Forward to exit."
+  },
+  "1189": {
+    "path": "bar/bar_0013.jpg",
+    "query": "Entry location?",
+    "answer": "Left seating side."
+  },
+  "1190": {
+    "path": "bar/bar_0013.jpg",
+    "query": "Main door?",
+    "answer": "Left near chairs."
+  },
+  "1191": {
+    "path": "bookstore/bookstore_27_01_altavista.jpg",
+    "query": "Entry location?",
+    "answer": "Rear glass wall."
+  },
+  "1192": {
+    "path": "bookstore/bookstore_27_01_altavista.jpg",
+    "query": "Main door?",
+    "answer": "Back glass area."
+  },
+  "1193": {
+    "path": "bar/bar_0158.jpg",
+    "query": "Sitting spot?",
+    "answer": "Ahead by windows."
+  },
+  "1194": {
+    "path": "bar/bar_0158.jpg",
+    "query": "Find chairs?",
+    "answer": "Front window side."
+  },
+  "1195": {
+    "path": "bedroom/indoor_0056.jpg",
+    "query": "Shelf position?",
+    "answer": "Right bedside."
+  },
+  "1196": {
+    "path": "bedroom/indoor_0056.jpg",
+    "query": "Find books?",
+    "answer": "Right near table."
+  },
+  "1197": {
+    "path": "bathroom/roomscan34.jpg",
+    "query": "Shower location?",
+    "answer": "Past sinks, glass door."
+  },
+  "1198": {
+    "path": "bathroom/roomscan34.jpg",
+    "query": "Find shower?",
+    "answer": "Forward past sinks."
+  },
+  "1199": {
+    "path": "office/homeoff007.jpg",
+    "query": "Leave how?",
+    "answer": "Forward to door."
+  },
+  "1200": {
+    "path": "office/homeoff007.jpg",
+    "query": "Exit path?",
+    "answer": "Straight out."
+  }
+}

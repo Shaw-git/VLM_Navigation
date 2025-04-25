@@ -1,0 +1,138 @@
+airport_inside/airport_inside_0001.jpg;Q:How to reach the check-in counters;A:Walk straight ahead; counters are on the left.
+airport_inside/airport_inside_0002.jpg;Q:What is the path to the main entrance;A:Walk straight past the plants to the doors.
+airport_inside/airport_inside_0003.jpg;Q:Where is the nearest staircase;A:Stairs are at the back-right corner.
+airport_inside/airport_inside_0004.jpg;Q:How to exit this room;A:Walk straight to the counter and turn left.
+airport_inside/airport_inside_0005.jpg;Q:How to reach the reception desk;A:Walk straight toward the counter in front.
+airport_inside/airport_inside_0006.jpg;Q:Where is the check-in area;A:Move forward; it’s on the left side.
+airport_inside/airport_inside_0007.jpg;Q:How to find the nearest gate;A:Walk straight; gates are ahead on the right.
+airport_inside/airport_inside_0008.jpg;Q:What is the path to the security check;A:Go straight past the counters to security.
+airport_inside/airport_inside_0009.jpg;Q:How to reach the clock tower;A:Walk straight toward the center seating area.
+airport_inside/airport_inside_0010.jpg;Q:Where is the nearest escalator;A:Escalators are directly in front of you.
+airport_inside/airport_inside_0011.jpg;Q:What is the path to the boarding gates;A:Walk straight along the corridor to the gates.
+airport_inside/airport_inside_0012.jpg;Q:How to find the exit;A:Go straight past the seating area to the doors.
+airport_inside/airport_inside_0013.jpg;Q:How to find the waiting area;A:Walk straight to the seating in front.
+airport_inside/airport_inside_0014.jpg;Q:What is the path to the lounge;A:Go straight past the plants to the lounge.
+airport_inside/airport_inside_0015.jpg;Q:Where is the nearest exit;A:The exit is straight ahead past the windows.
+airport_inside/airport_inside_0016.jpg;Q:How to reach the coffee area;A:Walk straight toward the seating near plants.
+airport_inside/airport_inside_0017.jpg;Q:How to reach the exit;A:Take the escalator down and walk straight.
+airport_inside/airport_inside_0018.jpg;Q:Where is the nearest seating area;A:Seating is directly ahead near the windows.
+airport_inside/airport_inside_0019.jpg;Q:What is the path to the reception;A:Walk straight past the patterned floor to reception.
+airport_inside/airport_inside_0020.jpg;Q:How to find the lounge;A:Go straight and enter through the wooden doors.
+airport_inside/airport_inside_0021.jpg;Q:How to find the car rental counters;A:Walk straight toward the counters under the signs.
+airport_inside/airport_inside_0022.jpg;Q:What is the path to the check-in area;A:Move forward through the crowd to the counters.
+airport_inside/airport_inside_0023.jpg;Q:How to reach the open seating area;A:Walk straight past the orange barriers ahead.
+airport_inside/airport_inside_0024.jpg;Q:Where is the lounge located;A:The lounge is upstairs; take the elevator ahead.
+airport_inside/airport_inside_0025.jpg;Q:How to find the boarding gates;A:Walk straight through the crowd toward the signs.
+airport_inside/airport_inside_0026.jpg;Q:Where is the outdoor seating area;A:Go straight past the plants to the seating area.
+airport_inside/airport_inside_0027.jpg;Q:What is the path to the elevators;A:Walk straight and turn right near the glass doors.
+airport_inside/airport_inside_0028.jpg;Q:How to reach the lounge;A:Move forward and take the stairs to the upper level.
+airport_inside/airport_inside_0029.jpg;Q:How to find Gate C5;A:Walk straight ahead under the Gate C5 sign.
+airport_inside/airport_inside_0030.jpg;Q:Where is the nearest help desk;A:The help desk is directly ahead under the question mark.
+airport_inside/airport_inside_0031.jpg;Q:What is the path to the moving walkway;A:Walk straight toward the illuminated walkway ahead.
+airport_inside/airport_inside_0032.jpg;Q:How to reach the terminal exit;A:Go straight past the escalators to the exit.
+airport_inside/airport_inside_0033.jpg;Q:How to reach the emergency exit;A:Walk straight toward the illuminated green sign.
+airport_inside/airport_inside_0034.jpg;Q:Where is the nearest hallway exit;A:The exit is straight ahead under the green sign.
+airport_inside/airport_inside_0035.jpg;Q:What is the path to the outdoor area;A:Go straight through the glass doors ahead.
+airport_inside/airport_inside_0036.jpg;Q:How to find the nearest terminal exit;A:Walk straight down the corridor to the lighted area.
+airport_inside/airport_inside_0037.jpg;Q:How to find the nearest shops;A:Walk straight past the glass walls to the shops.
+airport_inside/airport_inside_0038.jpg;Q:What is the path to the moving walkway;A:Step onto the walkway directly in front of you.
+airport_inside/airport_inside_0039.jpg;Q:Where is the hotel reservation desk;A:The desk is directly in front of you.
+airport_inside/airport_inside_0040.jpg;Q:How to reach the terminal exit;A:Walk straight toward the glass doors ahead.
+airport_inside/airport_inside_0041.jpg;Q:How to find the nearest escalator;A:Walk straight and turn left near the glass wall.
+airport_inside/airport_inside_0042.jpg;Q:Where is the nearest waiting area;A:The waiting area is straight ahead past the crowd.
+airport_inside/airport_inside_0043.jpg;Q:What is the path to the play area;A:Go straight and take the escalator down to the center.
+airport_inside/airport_inside_0044.jpg;Q:How to reach the terminal exit;A:Walk straight through the corridor toward the glass doors.
+airport_inside/airport_inside_0045.jpg;Q:What is the path to the train station;A:Follow the green sign pointing straight ahead.
+airport_inside/airport_inside_0046.jpg;Q:How to reach the end of the walkway;A:Walk straight along the moving walkway ahead.
+airport_inside/airport_inside_0047.jpg;Q:Where is the nearest seating area;A:The seating area is directly in front of you.
+airport_inside/airport_inside_0048.jpg;Q:How to find the waiting lounge;A:Go straight past the chairs to the lounge.
+airport_inside/airport_inside_0049.jpg;Q:How to find the security checkpoint;A:Walk straight past the blue counters ahead.
+airport_inside/airport_inside_0050.jpg;Q:Where is the main terminal area;A:Go straight toward the signs under the orange roof.
+airport_inside/airport_inside_0051.jpg;Q:What is the path to the boarding gates;A:Walk straight through the glass corridor ahead.
+airport_inside/airport_inside_0052.jpg;Q:How to reach the terminal exit;A:Go straight down the walkway toward the lighted area.
+airport_inside/airport_inside_0053.jpg;Q:How to find the escalators;A:Walk straight toward the escalators in the center.
+airport_inside/airport_inside_0054.jpg;Q:What is the path to the illuminated walkway;A:Move straight along the glowing path ahead.
+airport_inside/airport_inside_0055.jpg;Q:Where is the end of this tunnel;A:Walk straight toward the lighted area at the end.
+airport_inside/airport_inside_0056.jpg;Q:How to reach the seating area;A:Go straight past the glass wall to the seats.
+airport_inside/airport_inside_0057.jpg;Q:How to find the Marriott hotel;A:Walk straight toward the Marriott sign ahead.
+airport_inside/airport_inside_0058.jpg;Q:Where is the nearest exit;A:Go straight under the green emergency exit sign.
+airport_inside/airport_inside_0059.jpg;Q:What is the path to the bright hallway;A:Walk straight toward the illuminated glass doors.
+airport_inside/airport_inside_0060.jpg;Q:How to reach the shopping area;A:Move straight past the glass walls on your left.
+airport_inside/airport_inside_0061.jpg;Q:How to reach the train station;A:Walk straight through the open corridor ahead.
+airport_inside/airport_inside_0062.jpg;Q:Where is the nearest exit;A:Go straight toward the glass doors in front.
+airport_inside/airport_inside_0063.jpg;Q:What is the path to the upper level;A:Take the escalator directly in front of you.
+airport_inside/airport_inside_0064.jpg;Q:How to find the check-in counters;A:Walk straight past the crowd toward the counters.
+airport_inside/airport_inside_0065.jpg;Q:What is the path to the moving walkway;A:Walk straight onto the illuminated walkway ahead.
+airport_inside/airport_inside_0066.jpg;Q:How to reach the lower level;A:Take the escalator directly in front of you.
+airport_inside/airport_inside_0067.jpg;Q:Where is the departure area;A:The departure area is straight ahead under the sign.
+airport_inside/airport_inside_0068.jpg;Q:How to find the check-in counters;A:Walk straight past the green wall to the counters.
+airport_inside/airport_inside_0069.jpg;Q:How to reach the glass exit doors;A:Walk straight toward the bright glass doors ahead.
+airport_inside/airport_inside_0070.jpg;Q:Where is the nearest boarding gate;A:Go straight past the signs to the gate area.
+airport_inside/airport_inside_0071.jpg;Q:What is the path through the illuminated tunnel;A:Walk straight through the colorful tunnel ahead.
+airport_inside/airport_inside_0072.jpg;Q:How to find Gate 663;A:Move straight past the seating area toward Gate 663.
+airport_inside/airport_inside_0073.jpg;Q:How to reach the end of the hall;A:Walk straight past the central pillar ahead.
+airport_inside/airport_inside_0074.jpg;Q:Where is the nearest boarding area;A:Go straight past the seating toward the windows.
+airport_inside/airport_inside_0075.jpg;Q:What is the path to the upper level;A:Take the red-carpeted stairs to the upper floor.
+airport_inside/airport_inside_0076.jpg;Q:How to find the observation deck;A:Walk straight and take the stairs on your left.
+airport_inside/airport_inside_0077.jpg;Q:How to find the check-in counters;A:Walk straight past the crowd toward the counters.
+airport_inside/airport_inside_0078.jpg;Q:Where is the nearest café;A:Go straight to the seating area near the café.
+airport_inside/airport_inside_0079.jpg;Q:What is the path through the illuminated tunnel;A:Walk straight through the glowing tunnel ahead.
+airport_inside/airport_inside_0080.jpg;Q:How to reach the boarding gates;A:Move straight past the pillars toward the gates.
+airport_inside/airport_inside_0081.jpg;Q:How to reach the boarding gates;A:Walk straight along the glass corridor ahead.
+airport_inside/airport_inside_0082.jpg;Q:What is the path to the moving walkway;A:Step onto the walkway directly in front of you.
+airport_inside/airport_inside_0083.jpg;Q:Where is the nearest elevator;A:The elevator is straight ahead in the center.
+airport_inside/airport_inside_0084.jpg;Q:How to find the upper level;A:Take the glass elevator directly in front of you.
+airport_inside/airport_inside_0085.jpg;Q:How to reach the seating area near the windows;A:Walk straight toward the windows ahead.
+airport_inside/airport_inside_0086.jpg;Q:Where is the nearest exit;A:Go straight through the corridor toward the light.
+airport_inside/airport_inside_0087.jpg;Q:What is the path to the upper level;A:Take the escalator or stairs in the center.
+airport_inside/airport_inside_0088.jpg;Q:How to find the main terminal area;A:Walk straight along the illuminated pathway.
+airport_inside/airport_inside_0089.jpg;Q:What is the path through the tunnel;A:Walk straight along the moving walkway ahead.
+airport_inside/airport_inside_0090.jpg;Q:How to reach the upper level;A:Take the escalator in the center of the hall.
+airport_inside/airport_inside_0091.jpg;Q:Where is the check-in area;A:Go straight past the pillars toward the counters.
+airport_inside/airport_inside_0092.jpg;Q:How to find the boarding gates;A:Walk straight along the moving walkway under the signs.
+airport_inside/airport_inside_0093.jpg;Q:How to find the check-in counters;A:Walk straight past the bench toward the counters.
+airport_inside/airport_inside_0094.jpg;Q:Where is the nearest seating area;A:Go straight past the plants to the chairs.
+airport_inside/airport_inside_0095.jpg;Q:What is the path through the train tunnel;A:Walk straight along the tracks toward the lit area.
+airport_inside/airport_inside_0096.jpg;Q:How to reach the illuminated walkway;A:Move straight through the blue-lit tunnel ahead.
+airport_inside/airport_inside_0097.jpg;Q:How to reach the escalator;A:Walk straight toward the escalator on the right.
+airport_inside/airport_inside_0098.jpg;Q:What is the path to Gate B12;A:Move straight along the walkway toward Gate B12.
+airport_inside/airport_inside_0099.jpg;Q:Where is the security checkpoint;A:Go straight past the green wall to security.
+airport_inside/airport_inside_0100.jpg;Q:How to find the exit;A:Walk straight through the glass tunnel to the doors.
+airport_inside/airport_inside_0101.jpg;Q:How to reach the seating area;A:Walk straight past the colorful benches ahead.
+airport_inside/airport_inside_0102.jpg;Q:Where is the airline service desk;A:Go straight to the counters under the airline sign.
+airport_inside/airport_inside_0103.jpg;Q:What is the path through this corridor;A:Walk straight along the glass-lined pathway ahead.
+airport_inside/airport_inside_0104.jpg;Q:How to find the moving walkway;A:Move straight onto the walkway in front of you.
+airport_inside/airport_inside_0105.jpg;Q:How to reach the upper level;A:Take the curved stairs on your right.
+airport_inside/airport_inside_0106.jpg;Q:What is the path through the corridor;A:Walk straight along the moving walkway ahead.
+airport_inside/airport_inside_0107.jpg;Q:Where is the nearest escalator;A:The escalator is directly in front of you.
+airport_inside/airport_inside_0108.jpg;Q:How to find the seating area;A:Walk straight toward the chairs near the windows.
+airport_inside/airport_inside_0109.jpg;Q:How to find the cultural sculpture area;A:Walk straight toward the golden sculpture ahead.
+airport_inside/airport_inside_0110.jpg;Q:What is the path through the illuminated tunnel;A:Walk straight through the colorful tunnel ahead.
+airport_inside/airport_inside_0111.jpg;Q:Where is the nearest moving walkway;A:The walkway is directly in front of you.
+airport_inside/airport_inside_0112.jpg;Q:How to reach the boarding gates;A:Walk straight toward the glass doors ahead.
+airport_inside/airport_inside_0113.jpg;Q:How to reach the glass exit doors;A:Walk straight toward the bright windows ahead.
+airport_inside/airport_inside_0114.jpg;Q:What is the path through the curved corridor;A:Walk straight along the arched pathway ahead.
+airport_inside/airport_inside_0115.jpg;Q:Where is the nearest moving walkway;A:The walkway is directly in front of you.
+airport_inside/airport_inside_0116.jpg;Q:How to find the end of the hallway;A:Walk straight past the colorful ceiling decorations.
+airport_inside/airport_inside_0117.jpg;Q:How to find Gate A51;A:Walk straight along the walkway under the Gate A51 sign.
+airport_inside/airport_inside_0118.jpg;Q:Where is the nearest exit;A:Go straight toward the large glass doors ahead.
+airport_inside/airport_inside_0119.jpg;Q:What is the path to the train platforms;A:Take the escalator down to the train platforms.
+airport_inside/airport_inside_0120.jpg;Q:How to reach the upper level;A:Take the elevator or stairs to the upper floor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
